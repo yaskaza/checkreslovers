@@ -10,7 +10,7 @@ jobs:
       - name: sort
         run: |
          sort -u ./resolverscheck.txt 
-         cat ./resolverscheck.txt | sed '/ipv6/d' >> ./checkresolvers.txt
+         cat ./resolverscheck.txt | sed '/ipv6:/d' >> ./checkresolvers.txt
       - name: commit
         run: |
           git config user.name github-actions
