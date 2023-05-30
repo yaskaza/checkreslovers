@@ -24,7 +24,6 @@ pass: ams-dnscrypt-nl
 ipv6: ams-dnscrypt-nl-ipv6
 pass: ams-doh-nl
 ipv6: ams-doh-nl-ipv6
-pass: att
 pass: bortzmeyer
 ipv6: bortzmeyer-ipv6
 ipv6: brahma-world-ipv6
@@ -39,7 +38,7 @@ ipv6: cisco-ipv6-doh
 pass: cisco-sandbox
 pass: cleanbrowsing-adult
 pass: cleanbrowsing-family
-pass: cleanbrowsing-security
+pass: cleanbrowsing-security (1 retry)
 pass: cloudflare
 pass: cloudflare-family
 ipv6: cloudflare-family-ipv6
@@ -175,12 +174,11 @@ pass: faelix-ch-ipv4
 pass: faelix-uk-ipv4
 ipv6: faelix-uk-ipv6
 ipv6: faelix-uk-ipv6
-pass: ffmuc.net
+pass: ffmuc.net (3 retries)
 ipv6: ffmuc.net-v6
 pass: google
 ipv6: google-ipv6
 pass: he
-pass: ibksturm
 pass: iij
 pass: invisv
 pass: jp.tiar.app
