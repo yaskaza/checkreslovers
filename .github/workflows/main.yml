@@ -12,7 +12,9 @@ jobs:
           rm -rf *
           git clone https://github.com/dnscrypt/dnscrypt-resolvers.git
           cd dnscrypt-resolvers
-          .github/workflows/resolverscheck.sh >> ../../../resolverscheck.txt
+          .github/workflows/resolverscheck.sh >> 
+          mvresolverscheck.txt ../../../
+          rm -rf ../../../dnscrypt-resolvers
       - name: commit
         run: |
           git config user.name github-actions
