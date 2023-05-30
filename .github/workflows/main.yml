@@ -8,6 +8,6 @@ jobs:
     steps:
       - name: resolvers check
         run: |
-          git clone https://dnscrypt/dnscrypt-resolvers.git
+          git clone https://github.com/dnscrypt/dnscrypt-resolvers.git
           cd dnscrypt-resolvers
           .github/workflows/resolverscheck.sh
