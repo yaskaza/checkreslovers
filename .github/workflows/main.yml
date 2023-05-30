@@ -3,7 +3,7 @@ on:
   workflow_dispatch:
 
 jobs:
-  resolverscheck:
+  check:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
@@ -15,6 +15,10 @@ jobs:
           .github/workflows/prcheck.sh >> ../prcheck.txt
           .github/workflows/resolverscheck.sh >> ../resolverscheck.txt
           rm -rf ../dnscrypt-resolvers
+          cd ../
+          sort -u resolverscheck.txt
+          # cat resolverscheck.txt | grep '/ipv6/d' >> checkresolvers.txt
+          # rm -rf resolverscheck.txt
       - name: commit
         run: |
           git config user.name github-actions
