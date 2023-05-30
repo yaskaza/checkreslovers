@@ -15,7 +15,9 @@ jobs:
           git clone https://github.com/dnscrypt/dnscrypt-resolvers.git
           cd dnscrypt-resolvers
           .github/workflows/prcheck.sh >> ../prcheck.txt
-          .github/workflows/resolverscheck.sh >> ../resolverscheck.txt
+          .github/workflows/resolverscheck.sh >> /tmp/tmp1.txt
+          sort -u /tmp/tmp1.txt >> /tmp/tmp.txt
+          cat /tmp/tmp.txt | sed '/ipv6:/d' >> ../resolverscheck.txt
           rm -rf ../dnscrypt-resolvers
       - name: commit
         run: |
