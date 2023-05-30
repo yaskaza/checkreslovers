@@ -9,7 +9,7 @@ jobs:
       - uses: actions/checkout@v3
       - name: sort
         run: |
-         sort -u ./resolverscheck.txt | sed '/ipv6/d' >> ./checkresolvers.txt
+         sort -u ./resolverscheck.txt | sed '/ipv6:/d' >> ./checkresolvers.txt
          # cat ./checkresolvers.txt | sed '/ipv6/d' >> ./checkresolvers22.txt
       - name: commit
         run: |
