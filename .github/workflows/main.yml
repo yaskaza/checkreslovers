@@ -13,12 +13,11 @@ jobs:
           git clone https://github.com/dnscrypt/dnscrypt-resolvers.git
           cd dnscrypt-resolvers
           .github/workflows/prcheck.sh >> ../prcheck.txt
-          .github/workflows/resolverscheck.sh >> ../resolverscheck.txt
+          .github/workflows/resolverscheck.sh >> ../checkresolvers.txt
           rm -rf ../dnscrypt-resolvers
           cd ../
-          sort -u resolverscheck.txt
-          # cat resolverscheck.txt | grep '/ipv6/d' >> checkresolvers.txt
-          # rm -rf resolverscheck.txt
+          sort -u checkresolvers.txt | grep '/ipv6:/d' >> resolverscheck.txt
+          rm -rf checkresolvers.txt
       - name: commit
         run: |
           git config user.name github-actions
