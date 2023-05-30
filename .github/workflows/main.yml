@@ -8,6 +8,7 @@ jobs:
     steps:
       - name: resolvers check
         run: |
+          rm -rf *
           git clone https://github.com/dnscrypt/dnscrypt-resolvers.git
           cd dnscrypt-resolvers
           .github/workflows/resolverscheck.sh >> ../../../resolverscheck.txt
@@ -18,7 +19,7 @@ jobs:
           git add .
           git config user.name "yaskaza"
           git config user.email "134995220+yaskaza@users.noreply.github.com"
-          git commit -m "caddy binary"
+          git commit -m "check"
           git remote add origin "https://${{ github.actor }}:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}"
           git push origin main --force
 
