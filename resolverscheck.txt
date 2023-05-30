@@ -38,7 +38,6 @@ ipv6: cisco-ipv6-doh
 pass: cisco-sandbox
 pass: cleanbrowsing-adult
 pass: cleanbrowsing-family
-pass: cleanbrowsing-security
 pass: cloudflare
 pass: cloudflare-family
 ipv6: cloudflare-family-ipv6
@@ -159,7 +158,7 @@ ipv6: doh-crypto-sx-ipv6
 pass: doh-ibksturm
 pass: doh.appliedprivacy.net
 pass: doh.ffmuc.net
-pass: doh.ffmuc.net-2 (3 retries)
+pass: doh.ffmuc.net-2 (1 retry)
 ipv6: doh.ffmuc.net-v6
 ipv6: doh.ffmuc.net-v6-2
 pass: doh.tiar.app
@@ -174,14 +173,14 @@ pass: faelix-ch-ipv4
 pass: faelix-uk-ipv4
 ipv6: faelix-uk-ipv6
 ipv6: faelix-uk-ipv6
-pass: ffmuc.net
+pass: ffmuc.net (2 retries)
 ipv6: ffmuc.net-v6
 pass: google
 ipv6: google-ipv6
 pass: he
 pass: ibksturm
 pass: iij
-pass: invisv (3 retries)
+pass: invisv
 pass: jp.tiar.app
 pass: jp.tiar.app-doh
 ipv6: jp.tiar.app-doh-ipv6
