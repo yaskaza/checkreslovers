@@ -3,13 +3,13 @@ on:
   workflow_dispatch:
 
 jobs:
-  check:
+  sort:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
       - name: sort
         run: |
-         sort -u ./resolverscheck.txt >> ./checkresolvers.txt
+         sort -u ./resolverscheck.txt | grep '/ipv6:/d' >> ./checkresolvers.txt
       - name: commit
         run: |
           git config user.name github-actions
