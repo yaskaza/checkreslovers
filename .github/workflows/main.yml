@@ -1,0 +1,13 @@
+name: check
+on:
+  workflow_dispatch:
+
+jobs:
+  resolverscheck:
+    runs-on: ubuntu-latest
+    steps:
+      - name: resolvers check
+        run: |
+          git clone https://dnscrypt/dnscrypt-resolvers.git
+          cd dnscrypt-resolvers
+          .github/workflows/resolverscheck.sh
