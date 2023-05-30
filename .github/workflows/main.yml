@@ -12,8 +12,8 @@ jobs:
           rm -rf *
           git clone https://github.com/dnscrypt/dnscrypt-resolvers.git
           cd dnscrypt-resolvers
-          .github/workflows/resolverscheck.sh >> resolverscheck.txt
-          sort -u resolverscheck.txt | grep '/ipv6/d' >> ../resolverscheck.txt
+          .github/workflows/prcheck.sh >> ../prcheck.txt
+          .github/workflows/resolverscheck.sh >> ../resolverscheck.txt
           rm -rf ../dnscrypt-resolvers
       - name: commit
         run: |
