@@ -15,8 +15,6 @@ pass: altername
 pass: ams-ads-doh-nl
 pass: ams-dnscrypt-nl
 pass: ams-doh-nl
-pass: att
-pass: bortzmeyer
 pass: circl-doh
 pass: cisco
 pass: cisco-doh
@@ -93,6 +91,7 @@ pass: dns.digitale-gesellschaft.ch
 pass: dns.digitalsize.net
 pass: dns.ryan-palmer
 pass: dns.sb
+pass: dns.sb (1 retry)
 pass: dns.therifleman.name
 pass: dns0
 pass: dns0-kids
@@ -123,19 +122,18 @@ pass: doh-crypto-sx
 pass: doh-ibksturm
 pass: doh.appliedprivacy.net
 pass: doh.ffmuc.net
-pass: doh.ffmuc.net-2
+pass: doh.ffmuc.net-2 (2 retries)
 pass: doh.tiar.app
 pass: doh.tiar.app-doh
 pass: doh.tiarap.org
 pass: easymosdns-doh
 pass: faelix-ch-ipv4
 pass: faelix-uk-ipv4
-pass: ffmuc.net
 pass: google
 pass: he
 pass: ibksturm
 pass: iij
-pass: invisv
+pass: invisv (1 retry)
 pass: jp.tiar.app
 pass: jp.tiar.app-doh
 pass: jp.tiarap.org
