@@ -16,6 +16,7 @@ pass: ams-ads-doh-nl
 pass: ams-dnscrypt-nl
 pass: ams-doh-nl
 pass: att
+pass: bortzmeyer
 pass: circl-doh
 pass: cisco
 pass: cisco-doh
@@ -23,7 +24,6 @@ pass: cisco-familyshield
 pass: cisco-sandbox
 pass: cleanbrowsing-adult
 pass: cleanbrowsing-family
-pass: cleanbrowsing-security
 pass: cloudflare
 pass: cloudflare-family
 pass: cloudflare-security
@@ -122,6 +122,7 @@ pass: doh-crypto-sx
 pass: doh-ibksturm
 pass: doh.appliedprivacy.net
 pass: doh.ffmuc.net
+pass: doh.ffmuc.net-2
 pass: doh.tiar.app
 pass: doh.tiar.app-doh
 pass: doh.tiarap.org
