@@ -23,7 +23,6 @@ pass: cisco-familyshield
 pass: cisco-sandbox
 pass: cleanbrowsing-adult
 pass: cleanbrowsing-family
-pass: cleanbrowsing-security
 pass: cloudflare
 pass: cloudflare-family
 pass: cloudflare-security
@@ -85,6 +84,7 @@ pass: dct-at1
 pass: dct-nl1
 pass: dct-ru1
 pass: deffer-dns.au
+pass: dns.b33.network-dnscrypt
 pass: dns.digitale-gesellschaft.ch
 pass: dns.digitalsize.net
 pass: dns.ryan-palmer
@@ -116,10 +116,10 @@ pass: doh-cleanbrowsing-adult
 pass: doh-cleanbrowsing-family
 pass: doh-cleanbrowsing-security
 pass: doh-crypto-sx
-pass: doh-ibksturm
+pass: doh-ibksturm (1 retry)
 pass: doh.appliedprivacy.net
 pass: doh.ffmuc.net
-pass: doh.ffmuc.net-2 (1 retry)
+pass: doh.ffmuc.net-2
 pass: doh.tiar.app
 pass: doh.tiar.app-doh
 pass: doh.tiarap.org
