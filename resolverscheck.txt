@@ -16,7 +16,6 @@ pass: ams-ads-doh-nl
 pass: ams-dnscrypt-nl
 pass: ams-doh-nl
 pass: bortzmeyer
-pass: circl-doh
 pass: cisco
 pass: cisco-doh
 pass: cisco-familyshield
@@ -144,7 +143,7 @@ pass: nextdns
 pass: nextdns-ultralow
 pass: njalla-doh
 pass: openinternet
-pass: oszx
+pass: oszx (1 retry)
 pass: plan9dns-fl
 pass: plan9dns-fl-doh
 pass: plan9dns-mx
@@ -176,7 +175,7 @@ pass: sby-doh-limotelu
 pass: sby-limotelu
 pass: scaleway-ams
 pass: scaleway-fr
-pass: serbica (1 retry)
+pass: serbica
 pass: sfw.scaleway-fr
 pass: sth-ads-doh-se
 pass: sth-dnscrypt-se
