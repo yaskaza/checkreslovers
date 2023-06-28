@@ -16,6 +16,7 @@ pass: ams-ads-doh-nl
 pass: ams-dnscrypt-nl
 pass: ams-doh-nl
 pass: bortzmeyer
+pass: circl-doh
 pass: cisco
 pass: cisco-doh
 pass: cisco-familyshield
@@ -54,6 +55,7 @@ pass: cs-london
 pass: cs-lv
 pass: cs-madrid
 pass: cs-manchester
+pass: cs-md
 pass: cs-mexico
 pass: cs-milan
 pass: cs-nc
@@ -83,7 +85,6 @@ pass: dct-nl1
 pass: dct-ru1
 pass: decloudus-nogoogle-tst
 pass: deffer-dns.au
-pass: dns.b33.network-dnscrypt
 pass: dns.digitale-gesellschaft.ch
 pass: dns.digitalsize.net
 pass: dns.ryan-palmer
@@ -118,7 +119,7 @@ pass: doh-crypto-sx
 pass: doh-ibksturm
 pass: doh.appliedprivacy.net
 pass: doh.ffmuc.net
-pass: doh.ffmuc.net-2
+pass: doh.ffmuc.net-2 (2 retries)
 pass: doh.tiar.app
 pass: doh.tiar.app-doh
 pass: doh.tiarap.org
