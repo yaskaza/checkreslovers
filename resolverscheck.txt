@@ -117,17 +117,17 @@ pass: doh-cleanbrowsing-adult
 pass: doh-cleanbrowsing-family
 pass: doh-cleanbrowsing-security
 pass: doh-crypto-sx
-pass: doh-ibksturm
+pass: doh-ibksturm (1 retry)
 pass: doh.appliedprivacy.net
 pass: doh.ffmuc.net
-pass: doh.ffmuc.net-2
+pass: doh.ffmuc.net-2 (2 retries)
 pass: doh.tiar.app
 pass: doh.tiar.app-doh
 pass: doh.tiarap.org
 pass: easymosdns-doh
 pass: faelix-ch-ipv4
 pass: faelix-uk-ipv4
-pass: ffmuc.net (3 retries)
+pass: ffmuc.net
 pass: google
 pass: he
 pass: ibksturm
@@ -145,7 +145,7 @@ pass: nextdns
 pass: nextdns-ultralow
 pass: njalla-doh
 pass: openinternet
-pass: oszx (1 retry)
+pass: oszx
 pass: plan9dns-fl
 pass: plan9dns-fl-doh
 pass: plan9dns-mx
@@ -174,7 +174,7 @@ pass: saldns01-conoha-ipv4
 pass: saldns02-conoha-ipv4
 pass: saldns03-conoha-ipv4
 pass: sby-doh-limotelu
-pass: sby-limotelu (1 retry)
+pass: sby-limotelu
 pass: scaleway-ams
 pass: scaleway-fr
 pass: serbica
