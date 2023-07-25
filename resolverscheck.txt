@@ -14,6 +14,8 @@ pass: alidns-doh
 pass: ams-ads-doh-nl
 pass: ams-dnscrypt-nl
 pass: ams-doh-nl
+pass: bebasdns
+pass: bebasdns-security
 pass: bortzmeyer
 pass: circl-doh
 pass: cisco
@@ -127,7 +129,7 @@ pass: faelix-ch-ipv4
 pass: faelix-uk-ipv4
 pass: google
 pass: he
-pass: ibksturm
+pass: ibksturm (1 retry)
 pass: iij
 pass: jp.tiar.app
 pass: jp.tiar.app-doh
@@ -169,6 +171,8 @@ pass: safesurfer-doh
 pass: saldns01-conoha-ipv4
 pass: saldns02-conoha-ipv4
 pass: saldns03-conoha-ipv4
+pass: sby-doh-limotelu
+pass: sby-limotelu
 pass: scaleway-ams
 pass: scaleway-fr
 pass: serbica
