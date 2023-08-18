@@ -14,8 +14,6 @@ pass: alidns-doh
 pass: ams-ads-doh-nl
 pass: ams-dnscrypt-nl
 pass: ams-doh-nl
-pass: bebasdns
-pass: bebasdns-security
 pass: bortzmeyer
 pass: brahma-world
 pass: circl-doh
@@ -89,6 +87,40 @@ pass: dns.sb
 pass: dns.therifleman.name
 pass: dns0
 pass: dns0-kids
+pass: dnscry.pt-amsterdam-ipv4
+pass: dnscry.pt-atlanta-ipv4
+pass: dnscry.pt-castlegar-ipv4
+pass: dnscry.pt-chicago-ipv4
+pass: dnscry.pt-chișinău-ipv4
+pass: dnscry.pt-coeurd'alene-ipv4
+pass: dnscry.pt-coventry-ipv4
+pass: dnscry.pt-dallas-ipv4
+pass: dnscry.pt-denver-ipv4
+pass: dnscry.pt-dublin-ipv4
+pass: dnscry.pt-durham-ipv4
+pass: dnscry.pt-düsseldorf-ipv4
+pass: dnscry.pt-frankfurt-ipv4
+pass: dnscry.pt-johannesburg-ipv4
+pass: dnscry.pt-losangeles-ipv4
+pass: dnscry.pt-madrid-ipv4
+pass: dnscry.pt-miami-ipv4
+pass: dnscry.pt-montreal-ipv4
+pass: dnscry.pt-mumbai-ipv4
+pass: dnscry.pt-munich-ipv4
+pass: dnscry.pt-newyork-ipv4
+pass: dnscry.pt-philadelphia-ipv4
+pass: dnscry.pt-saltlakecity-ipv4
+pass: dnscry.pt-sandefjord-ipv4
+pass: dnscry.pt-singapore-ipv4
+pass: dnscry.pt-sofia-ipv4
+pass: dnscry.pt-stockholm-ipv4
+pass: dnscry.pt-sydney-ipv4
+pass: dnscry.pt-taipeh-ipv4
+pass: dnscry.pt-tallinn-ipv4
+pass: dnscry.pt-tokyo-ipv4
+pass: dnscry.pt-valdivia-ipv4
+pass: dnscry.pt-vienna-ipv4
+pass: dnscry.pt-warsaw-ipv4
 pass: dnscrypt-de-blahdns-ipv4
 pass: dnscrypt.be
 pass: dnscrypt.ca-1
@@ -106,7 +138,7 @@ pass: dnsforge.de
 pass: dnslow.me
 pass: dnspod
 pass: dnswarden-adult-doh
-pass: dnswarden-uncensor-dc (1 retry)
+pass: dnswarden-uncensor-dc
 pass: dnswarden-uncensor-dc-swiss
 pass: doh-cleanbrowsing-adult
 pass: doh-cleanbrowsing-family
@@ -122,7 +154,7 @@ pass: doh.tiarap.org
 pass: easymosdns-doh
 pass: faelix-ch-ipv4
 pass: faelix-uk-ipv4
-pass: ffmuc.net (2 retries)
+pass: ffmuc.net (1 retry)
 pass: google
 pass: he
 pass: ibksturm
