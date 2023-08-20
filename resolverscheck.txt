@@ -14,8 +14,6 @@ pass: alidns-doh
 pass: ams-ads-doh-nl
 pass: ams-dnscrypt-nl
 pass: ams-doh-nl
-pass: bebasdns
-pass: bebasdns-security
 pass: bortzmeyer
 pass: brahma-world
 pass: circl-doh
@@ -25,6 +23,7 @@ pass: cisco-familyshield
 pass: cisco-sandbox
 pass: cleanbrowsing-adult
 pass: cleanbrowsing-family
+pass: cleanbrowsing-security
 pass: cloudflare
 pass: cloudflare-family
 pass: cloudflare-security
