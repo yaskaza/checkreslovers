@@ -46,7 +46,7 @@ pass: cs-dus4
 pass: cs-finland
 pass: cs-fr
 pass: cs-hungary
-pass: cs-il (2 retries)
+pass: cs-il
 pass: cs-india
 pass: cs-ireland
 pass: cs-london
@@ -154,7 +154,6 @@ pass: doh.tiarap.org
 pass: easymosdns-doh
 pass: faelix-ch-ipv4
 pass: faelix-uk-ipv4
-pass: ffmuc.net (1 retry)
 pass: google
 pass: he
 pass: ibksturm
@@ -168,7 +167,10 @@ pass: meganerd
 pass: meganerd-doh-ipv4
 pass: moedns-doh
 pass: mullvad-adblock-doh
+pass: mullvad-all-doh
+pass: mullvad-base-doh
 pass: mullvad-doh
+pass: mullvad-extend-doh
 pass: nextdns
 pass: nextdns-ultralow
 pass: njalla-doh
