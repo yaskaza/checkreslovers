@@ -132,6 +132,7 @@ pass: dnsforfamily
 pass: dnsforfamily-doh
 pass: dnsforfamily-doh-no-safe-search
 pass: dnsforfamily-no-safe-search
+pass: dnsforge.de
 pass: dnslow.me
 pass: dnspod
 pass: dnswarden-adult-doh
@@ -151,9 +152,10 @@ pass: doh.tiarap.org
 pass: easymosdns-doh
 pass: faelix-ch-ipv4
 pass: faelix-uk-ipv4
+pass: ffmuc.net (1 retry)
 pass: google
 pass: he
-pass: ibksturm
+pass: ibksturm (2 retries)
 pass: iij
 pass: jp.tiar.app
 pass: jp.tiar.app-doh
