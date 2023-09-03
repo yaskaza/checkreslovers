@@ -23,7 +23,6 @@ pass: cisco-familyshield
 pass: cisco-sandbox
 pass: cleanbrowsing-adult
 pass: cleanbrowsing-family
-pass: cleanbrowsing-security
 pass: cloudflare
 pass: cloudflare-family
 pass: cloudflare-security
@@ -137,7 +136,7 @@ pass: dnsforge.de
 pass: dnslow.me
 pass: dnspod
 pass: dnswarden-adult-doh
-pass: dnswarden-uncensor-dc (1 retry)
+pass: dnswarden-uncensor-dc
 pass: dnswarden-uncensor-dc-swiss
 pass: doh-cleanbrowsing-adult
 pass: doh-cleanbrowsing-family
@@ -163,7 +162,7 @@ pass: jp.tiar.app-doh
 pass: jp.tiarap.org
 pass: libredns
 pass: libredns-noads
-pass: meganerd
+pass: meganerd (1 retry)
 pass: meganerd-doh-ipv4
 pass: moedns-doh
 pass: mullvad-adblock-doh
@@ -213,7 +212,7 @@ pass: sth-dnscrypt-se
 pass: sth-doh-se
 pass: switch
 pass: techsaviours.org-dnscrypt
-pass: tuna-doh-ipv4
+pass: tuna-doh-ipv4 (1 retry)
 pass: uncensoreddns-dk-ipv4
 pass: uncensoreddns-ipv4
 pass: userspace-australia
