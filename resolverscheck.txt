@@ -116,6 +116,7 @@ pass: dnscry.pt-tallinn-ipv4
 pass: dnscry.pt-tokyo-ipv4
 pass: dnscry.pt-valdivia-ipv4
 pass: dnscry.pt-vienna-ipv4
+pass: dnscry.pt-warsaw-ipv4
 pass: dnscrypt-de-blahdns-ipv4
 pass: dnscrypt.be
 pass: dnscrypt.ca-1
@@ -148,8 +149,10 @@ pass: doh.tiarap.org
 pass: easymosdns-doh
 pass: faelix-ch-ipv4
 pass: faelix-uk-ipv4
+pass: ffmuc.net (1 retry)
 pass: google
 pass: he
+pass: ibksturm
 pass: iij
 pass: jp.tiar.app
 pass: jp.tiar.app-doh
