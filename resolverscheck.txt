@@ -150,6 +150,7 @@ pass: doh.tiarap.org
 pass: easymosdns-doh
 pass: faelix-ch-ipv4
 pass: faelix-uk-ipv4
+pass: ffmuc.net (3 retries)
 pass: google
 pass: he
 pass: ibksturm
@@ -197,6 +198,7 @@ pass: safesurfer-doh
 pass: saldns01-conoha-ipv4
 pass: saldns02-conoha-ipv4
 pass: saldns03-conoha-ipv4
+pass: sby-doh-limotelu
 pass: scaleway-ams
 pass: scaleway-fr
 pass: serbica
