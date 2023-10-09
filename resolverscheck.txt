@@ -67,7 +67,7 @@ pass: cs-poland
 pass: cs-pt
 pass: cs-ro
 pass: cs-rome
-pass: cs-sea
+pass: cs-sea (1 retry)
 pass: cs-serbia
 pass: cs-slovakia
 pass: cs-swe
@@ -76,7 +76,7 @@ pass: cs-tokyo
 pass: cs-tx
 pass: cs-vancouver
 pass: dct-at1
-pass: dct-nl1 (1 retry)
+pass: dct-nl1
 pass: dct-ru1
 pass: decloudus-nogoogle-tst
 pass: deffer-dns.au
@@ -163,6 +163,7 @@ pass: doh.tiarap.org
 pass: easymosdns-doh
 pass: faelix-ch-ipv4
 pass: faelix-uk-ipv4
+pass: ffmuc.net
 pass: google
 pass: he
 pass: iij
@@ -218,7 +219,6 @@ pass: scaleway-fr
 pass: serbica
 pass: sfw.scaleway-fr
 pass: sth-ads-doh-se
-pass: sth-dnscrypt-se
 pass: sth-doh-se
 pass: switch
 pass: techsaviours.org-dnscrypt
