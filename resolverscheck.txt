@@ -164,7 +164,6 @@ pass: doh.tiarap.org
 pass: easymosdns-doh
 pass: faelix-ch-ipv4
 pass: faelix-uk-ipv4
-pass: ffmuc.net (3 retries)
 pass: google
 pass: he
 pass: ibksturm
