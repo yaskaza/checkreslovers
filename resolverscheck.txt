@@ -132,10 +132,11 @@ pass: dnscry.pt-warsaw-ipv4
 pass: dnscry.pt-warsaw02-ipv4
 pass: dnscrypt-de-blahdns-ipv4
 pass: dnscrypt.be
+pass: dnscrypt.ca-1
 pass: dnscrypt.ca-1-doh
 pass: dnscrypt.ca-2
 pass: dnscrypt.ca-2-doh
-pass: dnscrypt.pl
+pass: dnscrypt.pl (1 retry)
 pass: dnscrypt.pl-guardian
 pass: dnscrypt.uk-ipv4
 pass: dnsforfamily
@@ -152,7 +153,7 @@ pass: doh-cleanbrowsing-adult
 pass: doh-cleanbrowsing-family
 pass: doh-cleanbrowsing-security
 pass: doh-crypto-sx
-pass: doh-ibksturm (1 retry)
+pass: doh-ibksturm
 pass: doh.appliedprivacy.net
 pass: doh.ffmuc.net
 pass: doh.ffmuc.net-2
@@ -162,9 +163,10 @@ pass: doh.tiarap.org
 pass: easymosdns-doh
 pass: faelix-ch-ipv4
 pass: faelix-uk-ipv4
+pass: ffmuc.net (3 retries)
 pass: google
 pass: he
-pass: ibksturm (1 retry)
+pass: ibksturm
 pass: iij
 pass: jp.tiar.app
 pass: jp.tiar.app-doh
