@@ -136,7 +136,7 @@ pass: dnscrypt.ca-1
 pass: dnscrypt.ca-1-doh
 pass: dnscrypt.ca-2
 pass: dnscrypt.ca-2-doh
-pass: dnscrypt.pl (1 retry)
+pass: dnscrypt.pl
 pass: dnscrypt.pl-guardian
 pass: dnscrypt.uk-ipv4
 pass: dnsforfamily
@@ -163,7 +163,7 @@ pass: doh.tiarap.org
 pass: easymosdns-doh
 pass: faelix-ch-ipv4
 pass: faelix-uk-ipv4
-pass: ffmuc.net (3 retries)
+pass: ffmuc.net
 pass: google
 pass: he
 pass: ibksturm
