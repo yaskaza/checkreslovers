@@ -121,7 +121,6 @@ pass: dnscry.pt-sandefjord-ipv4
 pass: dnscry.pt-singapore-ipv4
 pass: dnscry.pt-sofia-ipv4
 pass: dnscry.pt-spokane-ipv4
-pass: dnscry.pt-stockholm-ipv4
 pass: dnscry.pt-sydney-ipv4
 pass: dnscry.pt-taipeh-ipv4
 pass: dnscry.pt-tallinn-ipv4
@@ -163,7 +162,7 @@ pass: doh.tiarap.org
 pass: easymosdns-doh
 pass: faelix-ch-ipv4
 pass: faelix-uk-ipv4
-pass: ffmuc.net (2 retries)
+pass: ffmuc.net
 pass: google
 pass: he
 pass: ibksturm
