@@ -15,7 +15,6 @@ pass: ams-ads-doh-nl
 pass: ams-dnscrypt-nl
 pass: ams-doh-nl
 pass: bebasdns
-pass: bebasdns-dnscrypt
 pass: bebasdns-family
 pass: bebasdns-security
 pass: bebasdns-unfiltered
@@ -121,6 +120,7 @@ pass: dnscry.pt-sandefjord-ipv4
 pass: dnscry.pt-singapore-ipv4
 pass: dnscry.pt-sofia-ipv4
 pass: dnscry.pt-spokane-ipv4
+pass: dnscry.pt-stockholm-ipv4
 pass: dnscry.pt-sydney-ipv4
 pass: dnscry.pt-taipeh-ipv4
 pass: dnscry.pt-tallinn-ipv4
@@ -146,7 +146,7 @@ pass: dnsforge.de
 pass: dnslow.me
 pass: dnspod
 pass: dnswarden-adult-doh
-pass: dnswarden-uncensor-dc
+pass: dnswarden-uncensor-dc (1 retry)
 pass: dnswarden-uncensor-dc-swiss
 pass: doh-cleanbrowsing-adult
 pass: doh-cleanbrowsing-family
@@ -162,10 +162,10 @@ pass: doh.tiarap.org
 pass: easymosdns-doh
 pass: faelix-ch-ipv4
 pass: faelix-uk-ipv4
-pass: ffmuc.net
+pass: ffmuc.net (3 retries)
 pass: google
 pass: he
-pass: ibksturm
+pass: ibksturm (1 retry)
 pass: iij
 pass: jp.tiar.app
 pass: jp.tiar.app-doh
