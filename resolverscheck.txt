@@ -58,7 +58,7 @@ pass: cs-mexico
 pass: cs-milan
 pass: cs-nc
 pass: cs-nl
-pass: cs-norway
+pass: cs-norway (1 retry)
 pass: cs-nv
 pass: cs-nyc1
 pass: cs-ore
@@ -165,7 +165,7 @@ pass: faelix-uk-ipv4
 pass: ffmuc.net (3 retries)
 pass: google
 pass: he
-pass: ibksturm (1 retry)
+pass: ibksturm
 pass: iij
 pass: jp.tiar.app
 pass: jp.tiar.app-doh
