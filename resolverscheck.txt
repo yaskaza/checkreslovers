@@ -14,10 +14,6 @@ pass: alidns-doh
 pass: ams-ads-doh-nl
 pass: ams-dnscrypt-nl
 pass: ams-doh-nl
-pass: bebasdns
-pass: bebasdns-family
-pass: bebasdns-security
-pass: bebasdns-unfiltered
 pass: bortzmeyer
 pass: brahma-world
 pass: circl-doh
@@ -58,7 +54,7 @@ pass: cs-mexico
 pass: cs-milan
 pass: cs-nc
 pass: cs-nl
-pass: cs-norway (1 retry)
+pass: cs-norway
 pass: cs-nv
 pass: cs-nyc1
 pass: cs-ore
@@ -89,7 +85,7 @@ pass: dns0
 pass: dns0-kids
 pass: dns0-unfiltered
 pass: dnscry.pt-amsterdam-ipv4
-pass: dnscry.pt-atlanta-ipv4
+pass: dnscry.pt-atlanta-ipv4 (1 retry)
 pass: dnscry.pt-castlegar-ipv4
 pass: dnscry.pt-chicago-ipv4
 pass: dnscry.pt-chisinau-ipv4
@@ -146,7 +142,7 @@ pass: dnsforge.de
 pass: dnslow.me
 pass: dnspod
 pass: dnswarden-adult-doh
-pass: dnswarden-uncensor-dc (1 retry)
+pass: dnswarden-uncensor-dc (3 retries)
 pass: dnswarden-uncensor-dc-swiss
 pass: doh-cleanbrowsing-adult
 pass: doh-cleanbrowsing-family
@@ -162,7 +158,6 @@ pass: doh.tiarap.org
 pass: easymosdns-doh
 pass: faelix-ch-ipv4
 pass: faelix-uk-ipv4
-pass: ffmuc.net (3 retries)
 pass: google
 pass: he
 pass: ibksturm
