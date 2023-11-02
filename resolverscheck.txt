@@ -71,9 +71,9 @@ pass: cs-sea
 pass: cs-serbia
 pass: cs-slovakia
 pass: cs-swe
-pass: cs-sydney
+pass: cs-sydney (2 retries)
 pass: cs-tokyo
-pass: cs-tx (1 retry)
+pass: cs-tx
 pass: cs-vancouver
 pass: dct-at1
 pass: dct-nl1
@@ -163,7 +163,6 @@ pass: doh.tiarap.org
 pass: easymosdns-doh
 pass: faelix-ch-ipv4
 pass: faelix-uk-ipv4
-pass: ffmuc.net (2 retries)
 pass: google
 pass: he
 pass: ibksturm
