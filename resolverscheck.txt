@@ -31,7 +31,7 @@ pass: cleanbrowsing-security
 pass: cloudflare
 pass: cloudflare-family
 pass: cloudflare-security
-pass: comodo-02 (1 retry)
+pass: comodo-02
 pass: controld-block-malware
 pass: controld-block-malware-ad
 pass: controld-block-malware-ad-social
@@ -50,7 +50,7 @@ pass: cs-dus1
 pass: cs-dus4
 pass: cs-fr
 pass: cs-hungary
-pass: cs-il (2 retries)
+pass: cs-il
 pass: cs-india
 pass: cs-ireland
 pass: cs-madrid
@@ -146,12 +146,13 @@ pass: dnsforge.de
 pass: dnslow.me
 pass: dnspod
 pass: dnswarden-adult-doh
-pass: dnswarden-uncensor-dc (2 retries)
+pass: dnswarden-uncensor-dc (3 retries)
 pass: dnswarden-uncensor-dc-swiss
 pass: doh-cleanbrowsing-adult
 pass: doh-cleanbrowsing-family
 pass: doh-cleanbrowsing-security
 pass: doh-crypto-sx
+pass: doh-ibksturm
 pass: doh.appliedprivacy.net
 pass: doh.ffmuc.net
 pass: doh.ffmuc.net-2
@@ -161,8 +162,10 @@ pass: doh.tiarap.org
 pass: easymosdns-doh
 pass: faelix-ch-ipv4
 pass: faelix-uk-ipv4
+pass: ffmuc.net (1 retry)
 pass: google
 pass: he
+pass: ibksturm
 pass: iij
 pass: jp.tiar.app
 pass: jp.tiar.app-doh
@@ -209,7 +212,8 @@ pass: safesurfer-doh
 pass: saldns01-conoha-ipv4
 pass: saldns02-conoha-ipv4
 pass: saldns03-conoha-ipv4
-pass: sby-doh-limotelu (2 retries)
+pass: sby-doh-limotelu
+pass: sby-limotelu
 pass: scaleway-ams
 pass: scaleway-fr
 pass: serbica
