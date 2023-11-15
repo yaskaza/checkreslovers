@@ -91,6 +91,7 @@ pass: dns0-kids
 pass: dns0-unfiltered
 pass: dnscry.pt-amsterdam-ipv4
 pass: dnscry.pt-atlanta-ipv4
+pass: dnscry.pt-castlegar-ipv4
 pass: dnscry.pt-chicago-ipv4
 pass: dnscry.pt-chisinau-ipv4
 pass: dnscry.pt-coeurdalene-ipv4
@@ -119,6 +120,7 @@ pass: dnscry.pt-phoenix-ipv4
 pass: dnscry.pt-sandefjord-ipv4
 pass: dnscry.pt-singapore-ipv4
 pass: dnscry.pt-sofia-ipv4
+pass: dnscry.pt-spokane-ipv4
 pass: dnscry.pt-stockholm-ipv4
 pass: dnscry.pt-sydney-ipv4
 pass: dnscry.pt-taipeh-ipv4
@@ -130,6 +132,7 @@ pass: dnscry.pt-warsaw-ipv4
 pass: dnscry.pt-warsaw02-ipv4
 pass: dnscrypt-de-blahdns-ipv4
 pass: dnscrypt.be
+pass: dnscrypt.ca-1
 pass: dnscrypt.ca-1-doh
 pass: dnscrypt.ca-2
 pass: dnscrypt.ca-2-doh
@@ -161,7 +164,7 @@ pass: easymosdns-doh
 pass: faelix-ch-ipv4
 pass: faelix-uk-ipv4
 pass: google
-pass: he (1 retry)
+pass: he
 pass: ibksturm
 pass: iij
 pass: jp.tiar.app
