@@ -71,7 +71,6 @@ pass: cs-sea
 pass: cs-serbia
 pass: cs-slovakia
 pass: cs-swe
-pass: cs-sydney
 pass: cs-tokyo
 pass: cs-tx
 pass: cs-vancouver
@@ -147,7 +146,7 @@ pass: dnsforge.de
 pass: dnslow.me
 pass: dnspod
 pass: dnswarden-adult-doh
-pass: dnswarden-uncensor-dc (1 retry)
+pass: dnswarden-uncensor-dc
 pass: dnswarden-uncensor-dc-swiss
 pass: doh-cleanbrowsing-adult
 pass: doh-cleanbrowsing-family
@@ -215,6 +214,7 @@ pass: sby-doh-limotelu
 pass: sby-limotelu
 pass: scaleway-ams
 pass: scaleway-fr
+pass: serbica
 pass: sfw.scaleway-fr
 pass: sth-ads-doh-se
 pass: sth-dnscrypt-se
