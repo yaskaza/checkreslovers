@@ -125,7 +125,6 @@ pass: dnscry.pt-stockholm-ipv4
 pass: dnscry.pt-sydney-ipv4
 pass: dnscry.pt-taipeh-ipv4
 pass: dnscry.pt-tallinn-ipv4
-pass: dnscry.pt-tokyo-ipv4
 pass: dnscry.pt-valdivia-ipv4
 pass: dnscry.pt-vienna-ipv4
 pass: dnscry.pt-warsaw-ipv4
@@ -146,14 +145,14 @@ pass: dnsforge.de
 pass: dnslow.me
 pass: dnspod
 pass: dnswarden-adult-doh
-pass: dnswarden-uncensor-dc (1 retry)
+pass: dnswarden-uncensor-dc
 pass: dnswarden-uncensor-dc-swiss
 pass: doh-cleanbrowsing-adult
 pass: doh-cleanbrowsing-family
 pass: doh-cleanbrowsing-security
 pass: doh-crypto-sx
 pass: doh-ibksturm
-pass: doh.appliedprivacy.net
+pass: doh.appliedprivacy.net (1 retry)
 pass: doh.ffmuc.net
 pass: doh.ffmuc.net-2
 pass: doh.tiar.app
@@ -162,7 +161,6 @@ pass: doh.tiarap.org
 pass: easymosdns-doh
 pass: faelix-ch-ipv4
 pass: faelix-uk-ipv4
-pass: ffmuc.net (1 retry)
 pass: google
 pass: he
 pass: ibksturm
