@@ -145,7 +145,7 @@ pass: dnsforge.de
 pass: dnslow.me
 pass: dnspod
 pass: dnswarden-adult-doh
-pass: dnswarden-uncensor-dc
+pass: dnswarden-uncensor-dc (2 retries)
 pass: dnswarden-uncensor-dc-swiss
 pass: doh-cleanbrowsing-adult
 pass: doh-cleanbrowsing-family
@@ -217,7 +217,7 @@ pass: sfw.scaleway-fr
 pass: sth-ads-doh-se
 pass: sth-dnscrypt-se
 pass: sth-doh-se
-pass: switch
+pass: switch (1 retry)
 pass: techsaviours.org-dnscrypt
 pass: uncensoreddns-dk-ipv4
 pass: uncensoreddns-ipv4
