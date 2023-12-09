@@ -62,7 +62,7 @@ pass: cs-nl
 pass: cs-norway
 pass: cs-nv
 pass: cs-nyc1
-pass: cs-ore
+pass: cs-ore (1 retry)
 pass: cs-poland
 pass: cs-pt
 pass: cs-ro
@@ -98,7 +98,6 @@ pass: dnscry.pt-coeurdalene-ipv4
 pass: dnscry.pt-coventry-ipv4
 pass: dnscry.pt-dallas-ipv4
 pass: dnscry.pt-dublin-ipv4
-pass: dnscry.pt-durham-ipv4
 pass: dnscry.pt-dusseldorf-ipv4
 pass: dnscry.pt-frankfurt-ipv4
 pass: dnscry.pt-hongkong-ipv4
@@ -110,7 +109,6 @@ pass: dnscry.pt-london-ipv4
 pass: dnscry.pt-losangeles-ipv4
 pass: dnscry.pt-madrid-ipv4
 pass: dnscry.pt-miami-ipv4
-pass: dnscry.pt-montreal-ipv4
 pass: dnscry.pt-munich-ipv4
 pass: dnscry.pt-naaldwijk-ipv4
 pass: dnscry.pt-newyork-ipv4
@@ -160,7 +158,7 @@ pass: doh.tiarap.org
 pass: easymosdns-doh
 pass: faelix-ch-ipv4
 pass: faelix-uk-ipv4
-pass: ffmuc.net (2 retries)
+pass: fdn
 pass: google
 pass: he
 pass: ibksturm
