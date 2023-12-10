@@ -50,7 +50,6 @@ pass: cs-dus1
 pass: cs-dus4
 pass: cs-fr
 pass: cs-hungary
-pass: cs-il
 pass: cs-india
 pass: cs-ireland
 pass: cs-madrid
@@ -62,7 +61,7 @@ pass: cs-nl
 pass: cs-norway
 pass: cs-nv
 pass: cs-nyc1
-pass: cs-ore (1 retry)
+pass: cs-ore
 pass: cs-poland
 pass: cs-pt
 pass: cs-ro
@@ -109,6 +108,7 @@ pass: dnscry.pt-london-ipv4
 pass: dnscry.pt-losangeles-ipv4
 pass: dnscry.pt-madrid-ipv4
 pass: dnscry.pt-miami-ipv4
+pass: dnscry.pt-montreal-ipv4
 pass: dnscry.pt-munich-ipv4
 pass: dnscry.pt-naaldwijk-ipv4
 pass: dnscry.pt-newyork-ipv4
@@ -161,7 +161,6 @@ pass: faelix-uk-ipv4
 pass: fdn
 pass: google
 pass: he
-pass: ibksturm
 pass: iij
 pass: jp.tiar.app
 pass: jp.tiar.app-doh
