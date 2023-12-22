@@ -49,6 +49,7 @@ pass: cs-dus1
 pass: cs-dus4
 pass: cs-fr
 pass: cs-hungary
+pass: cs-il
 pass: cs-india
 pass: cs-ireland
 pass: cs-madrid
@@ -106,7 +107,7 @@ pass: dnscry.pt-libertylake-ipv4
 pass: dnscry.pt-london-ipv4
 pass: dnscry.pt-losangeles-ipv4
 pass: dnscry.pt-madrid-ipv4
-pass: dnscry.pt-miami-ipv4
+pass: dnscry.pt-miami-ipv4 (1 retry)
 pass: dnscry.pt-montreal-ipv4
 pass: dnscry.pt-munich-ipv4
 pass: dnscry.pt-naaldwijk-ipv4
@@ -136,17 +137,18 @@ pass: dnsforfamily
 pass: dnsforfamily-doh
 pass: dnsforfamily-doh-no-safe-search
 pass: dnsforfamily-no-safe-search
+pass: dnsforge.de
 pass: dnslow.me
 pass: dnspod
 pass: dnswarden-adult-doh
-pass: dnswarden-uncensor-dc (3 retries)
+pass: dnswarden-uncensor-dc
 pass: dnswarden-uncensor-dc-swiss
 pass: doh-cleanbrowsing-adult
 pass: doh-cleanbrowsing-family
 pass: doh-cleanbrowsing-security
 pass: doh-crypto-sx
 pass: doh-ibksturm
-pass: doh.appliedprivacy.net (1 retry)
+pass: doh.appliedprivacy.net
 pass: doh.ffmuc.net
 pass: doh.ffmuc.net-2
 pass: doh.tiar.app
@@ -156,7 +158,7 @@ pass: easymosdns-doh
 pass: faelix-ch-ipv4
 pass: faelix-uk-ipv4
 pass: fdn
-pass: ffmuc.net (2 retries)
+pass: ffmuc.net
 pass: google
 pass: he
 pass: ibksturm
@@ -204,6 +206,8 @@ pass: safesurfer-doh
 pass: saldns01-conoha-ipv4
 pass: saldns02-conoha-ipv4
 pass: saldns03-conoha-ipv4
+pass: sby-doh-limotelu
+pass: sby-limotelu
 pass: scaleway-ams
 pass: scaleway-fr
 pass: serbica
