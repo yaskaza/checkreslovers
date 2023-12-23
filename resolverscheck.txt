@@ -15,7 +15,7 @@ pass: ams-ads-doh-nl
 pass: ams-dnscrypt-nl
 pass: ams-doh-nl
 pass: bebasdns
-pass: bebasdns-family
+pass: bebasdns-family (1 retry)
 pass: bebasdns-security
 pass: bebasdns-unfiltered-doh
 pass: bortzmeyer
@@ -107,7 +107,7 @@ pass: dnscry.pt-libertylake-ipv4
 pass: dnscry.pt-london-ipv4
 pass: dnscry.pt-losangeles-ipv4
 pass: dnscry.pt-madrid-ipv4
-pass: dnscry.pt-miami-ipv4 (1 retry)
+pass: dnscry.pt-miami-ipv4
 pass: dnscry.pt-montreal-ipv4
 pass: dnscry.pt-munich-ipv4
 pass: dnscry.pt-naaldwijk-ipv4
@@ -158,7 +158,7 @@ pass: easymosdns-doh
 pass: faelix-ch-ipv4
 pass: faelix-uk-ipv4
 pass: fdn
-pass: ffmuc.net
+pass: ffmuc.net (2 retries)
 pass: google
 pass: he
 pass: ibksturm
