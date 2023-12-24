@@ -15,7 +15,7 @@ pass: ams-ads-doh-nl
 pass: ams-dnscrypt-nl
 pass: ams-doh-nl
 pass: bebasdns
-pass: bebasdns-family (1 retry)
+pass: bebasdns-family
 pass: bebasdns-security
 pass: bebasdns-unfiltered-doh
 pass: bortzmeyer
@@ -141,7 +141,7 @@ pass: dnsforge.de
 pass: dnslow.me
 pass: dnspod
 pass: dnswarden-adult-doh
-pass: dnswarden-uncensor-dc
+pass: dnswarden-uncensor-dc (1 retry)
 pass: dnswarden-uncensor-dc-swiss
 pass: doh-cleanbrowsing-adult
 pass: doh-cleanbrowsing-family
