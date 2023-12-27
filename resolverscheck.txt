@@ -53,6 +53,7 @@ pass: cs-il
 pass: cs-india
 pass: cs-ireland
 pass: cs-madrid
+pass: cs-manchester
 pass: cs-mexico
 pass: cs-milan
 pass: cs-nc
@@ -157,6 +158,7 @@ pass: easymosdns-doh
 pass: faelix-ch-ipv4
 pass: faelix-uk-ipv4
 pass: fdn
+pass: ffmuc.net
 pass: google
 pass: he
 pass: ibksturm
