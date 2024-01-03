@@ -122,7 +122,6 @@ pass: dnscry.pt-taipeh-ipv4
 pass: dnscry.pt-tallinn-ipv4
 pass: dnscry.pt-tokyo-ipv4
 pass: dnscry.pt-valdivia-ipv4
-pass: dnscry.pt-vienna-ipv4
 pass: dnscry.pt-warsaw02-ipv4
 pass: dnscrypt.ca-1
 pass: dnscrypt.ca-1-doh
@@ -156,6 +155,7 @@ pass: easymosdns-doh
 pass: faelix-ch-ipv4
 pass: faelix-uk-ipv4
 pass: fdn
+pass: ffmuc.net
 pass: google
 pass: he
 pass: ibksturm
