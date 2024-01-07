@@ -53,7 +53,7 @@ pass: cs-madrid
 pass: cs-manchester
 pass: cs-mexico
 pass: cs-milan
-pass: cs-nc (1 retry)
+pass: cs-nc
 pass: cs-nl
 pass: cs-norway
 pass: cs-nv
