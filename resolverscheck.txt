@@ -14,7 +14,6 @@ pass: alidns-doh
 pass: ams-ads-doh-nl
 pass: ams-dnscrypt-nl
 pass: ams-doh-nl
-pass: bebasdns-unfiltered-doh
 pass: bortzmeyer
 pass: brahma-world
 pass: circl-doh
@@ -151,10 +150,8 @@ pass: easymosdns-doh
 pass: faelix-ch-ipv4
 pass: faelix-uk-ipv4
 pass: fdn
-pass: ffmuc.net (2 retries)
 pass: google
 pass: he
-pass: ibksturm
 pass: iij
 pass: jp.tiar.app
 pass: jp.tiar.app-doh
