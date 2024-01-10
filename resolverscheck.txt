@@ -14,6 +14,7 @@ pass: alidns-doh
 pass: ams-ads-doh-nl
 pass: ams-dnscrypt-nl
 pass: ams-doh-nl
+pass: bebasdns-unfiltered-doh
 pass: bortzmeyer
 pass: brahma-world
 pass: circl-doh
@@ -197,7 +198,6 @@ pass: safesurfer-doh
 pass: saldns01-conoha-ipv4
 pass: saldns02-conoha-ipv4
 pass: saldns03-conoha-ipv4
-pass: sby-doh-limotelu
 pass: sby-limotelu
 pass: scaleway-ams
 pass: scaleway-fr
