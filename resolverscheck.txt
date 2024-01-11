@@ -151,6 +151,7 @@ pass: easymosdns-doh
 pass: faelix-ch-ipv4
 pass: faelix-uk-ipv4
 pass: fdn
+pass: ffmuc.net (1 retry)
 pass: google
 pass: he
 pass: ibksturm
@@ -198,6 +199,7 @@ pass: safesurfer-doh
 pass: saldns01-conoha-ipv4
 pass: saldns02-conoha-ipv4
 pass: saldns03-conoha-ipv4
+pass: sby-doh-limotelu
 pass: sby-limotelu
 pass: scaleway-ams
 pass: scaleway-fr
@@ -211,6 +213,7 @@ pass: techsaviours.org-dnscrypt
 pass: uncensoreddns-dk-ipv4
 pass: uncensoreddns-ipv4
 pass: userspace-australia
+pass: userspace-australia (1 retry)
 pass: v.dnscrypt.uk-ipv4
 pass: wevpn-singapore
 pass: wikimedia
