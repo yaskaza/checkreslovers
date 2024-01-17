@@ -45,7 +45,7 @@ pass: cs-dc
 pass: cs-dus1
 pass: cs-dus4
 pass: cs-fr
-pass: cs-hungary
+pass: cs-hungary (1 retry)
 pass: cs-il
 pass: cs-india
 pass: cs-ireland
