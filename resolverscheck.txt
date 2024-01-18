@@ -45,7 +45,7 @@ pass: cs-dc
 pass: cs-dus1
 pass: cs-dus4
 pass: cs-fr
-pass: cs-hungary (1 retry)
+pass: cs-hungary
 pass: cs-il
 pass: cs-india
 pass: cs-ireland
@@ -63,7 +63,7 @@ pass: cs-poland
 pass: cs-pt
 pass: cs-ro
 pass: cs-rome
-pass: cs-sea
+pass: cs-sea (1 retry)
 pass: cs-serbia
 pass: cs-slovakia
 pass: cs-swe
@@ -174,7 +174,7 @@ pass: doh-cleanbrowsing-adult
 pass: doh-cleanbrowsing-family
 pass: doh-cleanbrowsing-security
 pass: doh-crypto-sx
-pass: doh-ibksturm
+pass: doh-ibksturm (1 retry)
 pass: doh.appliedprivacy.net
 pass: doh.ffmuc.net
 pass: doh.ffmuc.net-2
