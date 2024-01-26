@@ -135,7 +135,7 @@ pass: dnscry.pt-paris-ipv4
 pass: dnscry.pt-philadelphia-ipv4
 pass: dnscry.pt-phoenix-ipv4
 pass: dnscry.pt-portedwards-ipv4
-pass: dnscry.pt-portland-ipv4 (1 retry)
+pass: dnscry.pt-portland-ipv4
 pass: dnscry.pt-riga-ipv4
 pass: dnscry.pt-saltlakecity-ipv4
 pass: dnscry.pt-sandefjord-ipv4
@@ -188,6 +188,7 @@ pass: easymosdns-doh
 pass: faelix-ch-ipv4
 pass: faelix-uk-ipv4
 pass: fdn
+pass: ffmuc.net (3 retries)
 pass: google
 pass: he
 pass: iij
@@ -207,7 +208,6 @@ pass: mullvad-extend-doh
 pass: nextdns
 pass: nextdns-ultralow
 pass: njalla-doh
-pass: openinternet
 pass: plan9dns-fl
 pass: plan9dns-fl-doh
 pass: plan9dns-mx
