@@ -41,6 +41,7 @@ pass: cs-austria
 pass: cs-barcelona
 pass: cs-belgium
 pass: cs-berlin
+pass: cs-brazil
 pass: cs-bulgaria
 pass: cs-czech
 pass: cs-dc
@@ -55,7 +56,7 @@ pass: cs-madrid
 pass: cs-manchester
 pass: cs-mexico
 pass: cs-milan
-pass: cs-nc (1 retry)
+pass: cs-nc
 pass: cs-nl
 pass: cs-norway
 pass: cs-nv
@@ -177,7 +178,7 @@ pass: doh-cleanbrowsing-family
 pass: doh-cleanbrowsing-security
 pass: doh-crypto-sx
 pass: doh-ibksturm
-pass: doh.appliedprivacy.net (1 retry)
+pass: doh.appliedprivacy.net
 pass: doh.ffmuc.net
 pass: doh.ffmuc.net-2
 pass: doh.tiar.app
@@ -243,7 +244,7 @@ pass: sfw.scaleway-fr
 pass: sth-ads-doh-se
 pass: sth-dnscrypt-se
 pass: sth-doh-se
-pass: switch (1 retry)
+pass: switch
 pass: techsaviours.org-dnscrypt
 pass: tirapan-doh-ipv4
 pass: uncensoreddns-dk-ipv4
