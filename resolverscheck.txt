@@ -56,7 +56,7 @@ pass: cs-madrid
 pass: cs-manchester
 pass: cs-mexico
 pass: cs-milan
-pass: cs-nc (1 retry)
+pass: cs-nc
 pass: cs-nl
 pass: cs-norway
 pass: cs-nv
@@ -184,6 +184,7 @@ pass: doh.tiar.app-doh
 pass: doh.tiarap.org
 pass: easymosdns-doh
 pass: faelix-ch-ipv4
+pass: faelix-ch-ipv4 (1 retry)
 pass: faelix-uk-ipv4
 pass: fdn
 pass: ffmuc.net (1 retry)
