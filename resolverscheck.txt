@@ -75,7 +75,7 @@ pass: cs-tokyo
 pass: cs-tx
 pass: cs-vancouver
 pass: dct-nl
-pass: dct-ru
+pass: dct-ru (1 retry)
 pass: decloudus-nogoogle-tst
 pass: deffer-dns.au
 pass: dns.b33.network-dnscrypt
@@ -165,7 +165,6 @@ pass: dnscrypt.uk-ipv4
 pass: dnsforfamily
 pass: dnsforfamily-doh
 pass: dnsforfamily-doh-no-safe-search
-pass: dnsforfamily-no-safe-search
 pass: dnsforge.de
 pass: dnslow.me
 pass: dnspod
@@ -184,10 +183,9 @@ pass: doh.tiar.app-doh
 pass: doh.tiarap.org
 pass: easymosdns-doh
 pass: faelix-ch-ipv4
-pass: faelix-ch-ipv4 (1 retry)
 pass: faelix-uk-ipv4
 pass: fdn
-pass: ffmuc.net (1 retry)
+pass: ffmuc.net
 pass: google
 pass: he
 pass: iij
@@ -198,7 +196,6 @@ pass: ksol.io-ns2-dnscrypt-ipv4
 pass: libredns
 pass: libredns-noads
 pass: meganerd
-pass: meganerd-doh-ipv4
 pass: mullvad-adblock-doh
 pass: mullvad-all-doh
 pass: mullvad-base-doh
