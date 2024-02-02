@@ -75,7 +75,7 @@ pass: cs-tokyo
 pass: cs-tx
 pass: cs-vancouver
 pass: dct-nl
-pass: dct-ru (1 retry)
+pass: dct-ru
 pass: decloudus-nogoogle-tst
 pass: deffer-dns.au
 pass: dns.b33.network-dnscrypt
@@ -83,9 +83,6 @@ pass: dns.digitale-gesellschaft.ch
 pass: dns.digitalsize.net
 pass: dns.ryan-palmer
 pass: dns.sb
-pass: dns0
-pass: dns0-kids
-pass: dns0-unfiltered
 pass: dnscry.pt-adelaide-ipv4
 pass: dnscry.pt-allentown-ipv4
 pass: dnscry.pt-amsterdam-ipv4
@@ -165,6 +162,7 @@ pass: dnscrypt.uk-ipv4
 pass: dnsforfamily
 pass: dnsforfamily-doh
 pass: dnsforfamily-doh-no-safe-search
+pass: dnsforfamily-no-safe-search
 pass: dnsforge.de
 pass: dnslow.me
 pass: dnspod
@@ -196,6 +194,7 @@ pass: ksol.io-ns2-dnscrypt-ipv4
 pass: libredns
 pass: libredns-noads
 pass: meganerd
+pass: meganerd-doh-ipv4
 pass: mullvad-adblock-doh
 pass: mullvad-all-doh
 pass: mullvad-base-doh
