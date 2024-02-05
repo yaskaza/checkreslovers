@@ -65,7 +65,7 @@ pass: cs-india
 pass: cs-ireland
 pass: cs-la
 pass: cs-london
-pass: cs-lv (1 retry)
+pass: cs-lv
 pass: cs-madrid
 pass: cs-manchester
 pass: cs-md
@@ -184,6 +184,7 @@ pass: dnscrypt.uk-ipv4
 pass: dnsforfamily
 pass: dnsforfamily-doh
 pass: dnsforfamily-doh-no-safe-search
+pass: dnsforfamily-no-safe-search
 pass: dnsforge.de
 pass: dnslow.me
 pass: dnspod
@@ -213,8 +214,7 @@ pass: jp.tiarap.org
 pass: ksol.io-ns2-dnscrypt-ipv4
 pass: libredns
 pass: libredns-noads
-pass: meganerd
-pass: meganerd-doh-ipv4
+pass: meganerd-doh-ipv4 (3 retries)
 pass: mullvad-adblock-doh
 pass: mullvad-all-doh
 pass: mullvad-base-doh
