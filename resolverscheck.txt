@@ -205,6 +205,7 @@ pass: easymosdns-doh
 pass: faelix-ch-ipv4
 pass: faelix-uk-ipv4
 pass: fdn
+pass: ffmuc.net (1 retry)
 pass: google
 pass: he
 pass: iij
@@ -214,7 +215,8 @@ pass: jp.tiarap.org
 pass: ksol.io-ns2-dnscrypt-ipv4
 pass: libredns
 pass: libredns-noads
-pass: meganerd-doh-ipv4 (3 retries)
+pass: meganerd
+pass: meganerd-doh-ipv4
 pass: mullvad-adblock-doh
 pass: mullvad-all-doh
 pass: mullvad-base-doh
