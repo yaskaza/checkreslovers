@@ -132,7 +132,7 @@ pass: dnscry.pt-geneva-ipv4
 pass: dnscry.pt-helsinki-ipv4
 pass: dnscry.pt-hongkong-ipv4
 pass: dnscry.pt-istanbul-ipv4
-pass: dnscry.pt-jakarta-ipv4 (1 retry)
+pass: dnscry.pt-jakarta-ipv4
 pass: dnscry.pt-johannesburg-ipv4
 pass: dnscry.pt-kharkiv-ipv4
 pass: dnscry.pt-kyiv-ipv4
