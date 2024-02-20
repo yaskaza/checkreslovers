@@ -30,7 +30,7 @@ pass: cleanbrowsing-family
 pass: cloudflare
 pass: cloudflare-family
 pass: cloudflare-security
-pass: comodo-02 (1 retry)
+pass: comodo-02
 pass: controld-block-malware
 pass: controld-block-malware-ad
 pass: controld-block-malware-ad-social
@@ -68,7 +68,6 @@ pass: cs-london
 pass: cs-lv
 pass: cs-madrid
 pass: cs-manchester
-pass: cs-md
 pass: cs-mexico
 pass: cs-milan
 pass: cs-montreal
@@ -111,6 +110,7 @@ pass: dns0-unfiltered
 pass: dnscry.pt-adelaide-ipv4
 pass: dnscry.pt-allentown-ipv4
 pass: dnscry.pt-amsterdam-ipv4
+pass: dnscry.pt-atlanta-ipv4
 pass: dnscry.pt-auckland-ipv4
 pass: dnscry.pt-chicago-ipv4
 pass: dnscry.pt-chisinau-ipv4
@@ -186,7 +186,6 @@ pass: dnscrypt.uk-ipv4
 pass: dnsforfamily
 pass: dnsforfamily-doh
 pass: dnsforfamily-doh-no-safe-search
-pass: dnsforfamily-no-safe-search
 pass: dnsforge.de
 pass: dnslow.me
 pass: dnspod
