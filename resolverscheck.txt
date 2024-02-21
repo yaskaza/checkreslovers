@@ -68,6 +68,7 @@ pass: cs-london
 pass: cs-lv
 pass: cs-madrid
 pass: cs-manchester
+pass: cs-md
 pass: cs-mexico
 pass: cs-milan
 pass: cs-montreal
@@ -97,7 +98,6 @@ pass: cs-tx3
 pass: cs-vancouver
 pass: dct-nl
 pass: dct-ru
-pass: decloudus-nogoogle-tst
 pass: deffer-dns.au
 pass: dns.b33.network-dnscrypt
 pass: dns.digitale-gesellschaft.ch
@@ -186,6 +186,7 @@ pass: dnscrypt.uk-ipv4
 pass: dnsforfamily
 pass: dnsforfamily-doh
 pass: dnsforfamily-doh-no-safe-search
+pass: dnsforfamily-no-safe-search
 pass: dnsforge.de
 pass: dnslow.me
 pass: dnspod
