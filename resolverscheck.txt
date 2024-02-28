@@ -16,7 +16,6 @@ pass: ams-dnscrypt-nl
 pass: ams-doh-nl
 pass: bebasdns
 pass: bebasdns-family
-pass: bebasdns-security
 pass: bebasdns-unfiltered-doh
 pass: bortzmeyer
 pass: brahma-world
@@ -169,7 +168,6 @@ pass: dnscry.pt-taipeh-ipv4
 pass: dnscry.pt-tallinn-ipv4
 pass: dnscry.pt-tampa-ipv4
 pass: dnscry.pt-taos-ipv4
-pass: dnscry.pt-tbilisi-ipv4
 pass: dnscry.pt-tokyo-ipv4
 pass: dnscry.pt-tokyo02-ipv4
 pass: dnscry.pt-toronto-ipv4
