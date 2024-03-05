@@ -258,7 +258,7 @@ pass: sfw.scaleway-fr
 pass: sth-ads-doh-se
 pass: sth-dnscrypt-se
 pass: sth-doh-se
-pass: switch (1 retry)
+pass: switch
 pass: techsaviours.org-dnscrypt
 pass: tirapan-doh-ipv4
 pass: uncensoreddns-dk-ipv4
