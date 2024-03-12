@@ -102,6 +102,7 @@ pass: deffer-dns.au
 pass: dns.b33.network-dnscrypt
 pass: dns.digitale-gesellschaft.ch
 pass: dns.digitalsize.net
+pass: dns.ryan-palmer
 pass: dns.sb
 pass: dns0
 pass: dns0-kids
@@ -148,6 +149,7 @@ pass: dnscry.pt-munich-ipv4
 pass: dnscry.pt-newyork-ipv4
 pass: dnscry.pt-nuremberg-ipv4
 pass: dnscry.pt-ottoville-ipv4
+pass: dnscry.pt-paris-ipv4
 pass: dnscry.pt-philadelphia-ipv4
 pass: dnscry.pt-phoenix-ipv4
 pass: dnscry.pt-portedwards-ipv4
@@ -199,10 +201,9 @@ pass: easymosdns-doh
 pass: faelix-ch-ipv4
 pass: faelix-uk-ipv4
 pass: fdn
-pass: ffmuc.net (1 retry)
 pass: google
 pass: he
-pass: ibksturm
+pass: ibksturm (1 retry)
 pass: iij
 pass: jp.tiar.app
 pass: jp.tiar.app-doh
