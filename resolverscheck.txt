@@ -210,7 +210,7 @@ pass: jp.tiarap.org
 pass: ksol.io-ns2-dnscrypt-ipv4
 pass: libredns
 pass: libredns-noads
-pass: meganerd
+pass: meganerd (1 retry)
 pass: meganerd-doh-ipv4
 pass: mullvad-adblock-doh
 pass: mullvad-all-doh
