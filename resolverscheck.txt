@@ -65,7 +65,7 @@ pass: cs-india
 pass: cs-ireland
 pass: cs-la
 pass: cs-london
-pass: cs-lv
+pass: cs-lv (1 retry)
 pass: cs-madrid
 pass: cs-manchester
 pass: cs-md
@@ -200,7 +200,7 @@ pass: faelix-ch-ipv4
 pass: faelix-uk-ipv4
 pass: fdn
 pass: ffmuc.net
-pass: fluffycat-fr-01
+pass: fluffycat-fr-01 (2 retries)
 pass: google
 pass: he
 pass: ibksturm
