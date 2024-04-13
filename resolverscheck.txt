@@ -65,7 +65,7 @@ pass: cs-india
 pass: cs-ireland
 pass: cs-la
 pass: cs-london
-pass: cs-lv (1 retry)
+pass: cs-lv
 pass: cs-madrid
 pass: cs-manchester
 pass: cs-md
@@ -103,7 +103,8 @@ pass: dns.b33.network-dnscrypt
 pass: dns.digitale-gesellschaft.ch
 pass: dns.digitalsize.net
 pass: dns.ryan-palmer
-pass: dns.sb
+pass: dns.sb (1 retry)
+pass: dns.sb (2 retries)
 pass: dns0
 pass: dns0-kids
 pass: dns0-unfiltered
@@ -199,8 +200,8 @@ pass: easymosdns-doh
 pass: faelix-ch-ipv4
 pass: faelix-uk-ipv4
 pass: fdn
-pass: ffmuc.net
-pass: fluffycat-fr-01 (2 retries)
+pass: fluffycat-fr-01
+pass: fluffycat-fr-02 (1 retry)
 pass: google
 pass: he
 pass: ibksturm
