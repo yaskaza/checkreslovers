@@ -16,7 +16,6 @@ pass: ams-dnscrypt-nl
 pass: ams-doh-nl
 pass: bebasdns
 pass: bebasdns-family
-pass: bebasdns-security
 pass: bebasdns-unfiltered-doh
 pass: bortzmeyer
 pass: brahma-world
@@ -103,8 +102,8 @@ pass: dns.b33.network-dnscrypt
 pass: dns.digitale-gesellschaft.ch
 pass: dns.digitalsize.net
 pass: dns.ryan-palmer
-pass: dns.sb
 pass: dns.sb (1 retry)
+pass: dns.sb (3 retries)
 pass: dns0
 pass: dns0-kids
 pass: dns0-unfiltered
@@ -117,7 +116,6 @@ pass: dnscry.pt-chicago-ipv4
 pass: dnscry.pt-chisinau-ipv4
 pass: dnscry.pt-coeurdalene-ipv4
 pass: dnscry.pt-coventry-ipv4
-pass: dnscry.pt-dallas-ipv4
 pass: dnscry.pt-denver-ipv4
 pass: dnscry.pt-detroit-ipv4
 pass: dnscry.pt-durham-ipv4
@@ -138,7 +136,7 @@ pass: dnscry.pt-kyiv-ipv4
 pass: dnscry.pt-lagos-ipv4
 pass: dnscry.pt-lasvegas-ipv4
 pass: dnscry.pt-libertylake-ipv4
-pass: dnscry.pt-lima-ipv4
+pass: dnscry.pt-lima-ipv4 (1 retry)
 pass: dnscry.pt-london-ipv4
 pass: dnscry.pt-losangeles-ipv4
 pass: dnscry.pt-madrid-ipv4
@@ -201,7 +199,6 @@ pass: faelix-ch-ipv4
 pass: faelix-uk-ipv4
 pass: fdn
 pass: ffmuc.net
-pass: fluffycat-fr-01
 pass: fluffycat-fr-02
 pass: google
 pass: he
@@ -243,6 +240,7 @@ pass: quad9-doh-ip4-port443-nofilter-ecs-pri
 pass: quad9-doh-ip4-port443-nofilter-pri
 pass: quad9-doh-ip4-port5053-filter-ecs-pri
 pass: quad9-doh-ip4-port5053-filter-pri
+pass: quad9-doh-ip4-port5053-filter-pri (1 retry)
 pass: quad9-doh-ip4-port5053-nofilter-ecs-pri
 pass: quad9-doh-ip4-port5053-nofilter-pri
 pass: rethinkdns-doh
