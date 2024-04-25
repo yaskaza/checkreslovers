@@ -102,7 +102,7 @@ pass: dns.digitale-gesellschaft.ch
 pass: dns.digitalsize.net
 pass: dns.ryan-palmer
 pass: dns.sb
-pass: dns.sb (3 retries)
+pass: dns.sb (1 retry)
 pass: dns0
 pass: dns0-kids
 pass: dns0-unfiltered
@@ -182,7 +182,6 @@ pass: dnsforge.de
 pass: dnslow.me
 pass: dnspod
 pass: dnswarden-adult-doh
-pass: dnswarden-uncensor-dc-swiss
 pass: doh-cleanbrowsing-adult
 pass: doh-cleanbrowsing-family
 pass: doh-cleanbrowsing-security
@@ -198,8 +197,8 @@ pass: easymosdns-doh
 pass: faelix-ch-ipv4
 pass: faelix-uk-ipv4
 pass: fdn
-pass: ffmuc.net (1 retry)
-pass: fluffycat-fr-01 (2 retries)
+pass: ffmuc.net
+pass: fluffycat-fr-02 (2 retries)
 pass: google
 pass: he
 pass: ibksturm
@@ -259,7 +258,6 @@ pass: sth-dnscrypt-se
 pass: sth-doh-se
 pass: switch
 pass: techsaviours.org-dnscrypt
-pass: tirapan-doh-ipv4
 pass: uncensoreddns-dk-ipv4
 pass: uncensoreddns-ipv4
 pass: userspace-australia
