@@ -67,7 +67,7 @@ pass: cs-london
 pass: cs-lv
 pass: cs-madrid
 pass: cs-manchester
-pass: cs-mexico
+pass: cs-mexico (1 retry)
 pass: cs-milan
 pass: cs-montreal
 pass: cs-nc
@@ -94,7 +94,6 @@ pass: cs-tx
 pass: cs-tx2
 pass: cs-tx3
 pass: cs-vancouver
-pass: dct-nl
 pass: dct-ru
 pass: deffer-dns.au
 pass: dns.b33.network-dnscrypt
@@ -102,7 +101,6 @@ pass: dns.digitale-gesellschaft.ch
 pass: dns.digitalsize.net
 pass: dns.ryan-palmer
 pass: dns.sb
-pass: dns.sb (1 retry)
 pass: dns0
 pass: dns0-kids
 pass: dns0-unfiltered
@@ -171,6 +169,8 @@ pass: dnscry.pt-tokyo02-ipv4
 pass: dnscry.pt-toronto-ipv4
 pass: dnscry.pt-valdivia-ipv4
 pass: dnscry.pt-warsaw02-ipv4
+pass: dnscrypt.ca-ipv4
+pass: dnscrypt.ca-ipv4-doh
 pass: dnscrypt.pl
 pass: dnscrypt.pl-guardian
 pass: dnscrypt.uk-ipv4
@@ -199,6 +199,7 @@ pass: faelix-ch-ipv4
 pass: faelix-uk-ipv4
 pass: fdn
 pass: fluffycat-fr-01
+pass: fluffycat-fr-02
 pass: google
 pass: he
 pass: ibksturm
@@ -209,8 +210,6 @@ pass: jp.tiarap.org
 pass: ksol.io-ns2-dnscrypt-ipv4
 pass: libredns
 pass: libredns-noads
-pass: meganerd (1 retry)
-pass: meganerd-doh-ipv4 (2 retries)
 pass: mullvad-adblock-doh
 pass: mullvad-all-doh
 pass: mullvad-base-doh
