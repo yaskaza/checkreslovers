@@ -14,6 +14,7 @@ pass: alidns-doh
 pass: ams-ads-doh-nl
 pass: ams-dnscrypt-nl
 pass: ams-doh-nl
+pass: artikel10-doh-ipv4
 pass: bebasdns
 pass: bebasdns-family
 pass: bebasdns-unfiltered-doh
@@ -44,7 +45,6 @@ pass: cs-brazil
 pass: cs-bulgaria
 pass: cs-ch
 pass: cs-ch2
-pass: cs-czech
 pass: cs-dc
 pass: cs-de
 pass: cs-dk
@@ -160,7 +160,7 @@ pass: dnscry.pt-sofia-ipv4
 pass: dnscry.pt-spokane-ipv4
 pass: dnscry.pt-stockholm-ipv4
 pass: dnscry.pt-sydney-ipv4
-pass: dnscry.pt-taipeh-ipv4 (2 retries)
+pass: dnscry.pt-taipeh-ipv4
 pass: dnscry.pt-tallinn-ipv4
 pass: dnscry.pt-tampa-ipv4
 pass: dnscry.pt-taos-ipv4
@@ -198,8 +198,7 @@ pass: easymosdns-doh
 pass: faelix-ch-ipv4
 pass: faelix-uk-ipv4
 pass: fdn
-pass: ffmuc.net (1 retry)
-pass: fluffycat-fr-02
+pass: ffmuc.net
 pass: google
 pass: he
 pass: ibksturm
@@ -240,6 +239,7 @@ pass: quad9-doh-ip4-port5053-filter-ecs-pri
 pass: quad9-doh-ip4-port5053-filter-pri
 pass: quad9-doh-ip4-port5053-nofilter-ecs-pri
 pass: quad9-doh-ip4-port5053-nofilter-pri
+pass: restena-doh-ipv4
 pass: rethinkdns-doh
 pass: safesurfer
 pass: safesurfer-doh
