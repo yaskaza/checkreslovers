@@ -45,6 +45,7 @@ pass: cs-brazil
 pass: cs-bulgaria
 pass: cs-ch
 pass: cs-ch2
+pass: cs-czech
 pass: cs-dc
 pass: cs-de
 pass: cs-dk
@@ -198,7 +199,8 @@ pass: easymosdns-doh
 pass: faelix-ch-ipv4
 pass: faelix-uk-ipv4
 pass: fdn
-pass: ffmuc.net
+pass: fluffycat-fr-01 (1 retry)
+pass: fluffycat-fr-02
 pass: google
 pass: he
 pass: ibksturm
