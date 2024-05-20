@@ -55,7 +55,7 @@ pass: cs-dus3
 pass: cs-dus4
 pass: cs-finland
 pass: cs-fl
-pass: cs-fl2
+pass: cs-fl2 (1 retry)
 pass: cs-fr
 pass: cs-ga
 pass: cs-hungary
@@ -68,7 +68,6 @@ pass: cs-london
 pass: cs-lv
 pass: cs-madrid
 pass: cs-manchester
-pass: cs-mexico
 pass: cs-milan
 pass: cs-montreal
 pass: cs-nc
@@ -128,6 +127,7 @@ pass: dnscry.pt-fremont-ipv4
 pass: dnscry.pt-fujairah-ipv4
 pass: dnscry.pt-geneva-ipv4
 pass: dnscry.pt-helsinki-ipv4
+pass: dnscry.pt-hongkong-ipv4
 pass: dnscry.pt-istanbul-ipv4
 pass: dnscry.pt-jakarta-ipv4
 pass: dnscry.pt-johannesburg-ipv4
@@ -206,9 +206,9 @@ pass: easymosdns-doh
 pass: faelix-ch-ipv4
 pass: faelix-uk-ipv4
 pass: fdn
-pass: ffmuc.net (1 retry)
+pass: ffmuc.net
 pass: fluffycat-fr-01
-pass: fluffycat-fr-02
+pass: fluffycat-fr-02 (3 retries)
 pass: google
 pass: he
 pass: ibksturm
