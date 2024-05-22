@@ -15,7 +15,6 @@ pass: ams-ads-doh-nl
 pass: ams-dnscrypt-nl
 pass: ams-doh-nl
 pass: artikel10-doh-ipv4
-pass: bebasdns
 pass: bebasdns-family
 pass: bebasdns-unfiltered-doh
 pass: bortzmeyer
@@ -155,7 +154,6 @@ pass: dnscry.pt-ottoville-ipv4
 pass: dnscry.pt-paris-ipv4
 pass: dnscry.pt-philadelphia-ipv4
 pass: dnscry.pt-phoenix-ipv4
-pass: dnscry.pt-portedwards-ipv4
 pass: dnscry.pt-portland-ipv4
 pass: dnscry.pt-riga-ipv4
 pass: dnscry.pt-saltlakecity-ipv4
@@ -207,8 +205,8 @@ pass: easymosdns-doh
 pass: faelix-ch-ipv4
 pass: faelix-uk-ipv4
 pass: fdn
-pass: fluffycat-fr-01 (2 retries)
-pass: fluffycat-fr-02 (3 retries)
+pass: ffmuc.net (3 retries)
+pass: fluffycat-fr-01
 pass: google
 pass: he
 pass: ibksturm
@@ -259,7 +257,7 @@ pass: safesurfer-doh
 pass: saldns01-conoha-ipv4
 pass: saldns02-conoha-ipv4
 pass: saldns03-conoha-ipv4
-pass: sby-doh-limotelu (2 retries)
+pass: sby-doh-limotelu
 pass: scaleway-ams
 pass: scaleway-fr
 pass: serbica
