@@ -19,7 +19,7 @@ pass: artikel10-doh-ipv4
 pass: bebasdns
 pass: bebasdns-family
 pass: bebasdns-unfiltered-doh
-pass: bortzmeyer (1 retry)
+pass: bortzmeyer
 pass: brahma-world
 pass: circl-doh
 pass: cisco
@@ -129,7 +129,7 @@ pass: dnscry.pt-fremont-ipv4
 pass: dnscry.pt-fujairah-ipv4
 pass: dnscry.pt-geneva-ipv4
 pass: dnscry.pt-helsinki-ipv4
-pass: dnscry.pt-hongkong-ipv4 (2 retries)
+pass: dnscry.pt-hongkong-ipv4
 pass: dnscry.pt-istanbul-ipv4
 pass: dnscry.pt-jakarta-ipv4
 pass: dnscry.pt-johannesburg-ipv4
@@ -207,7 +207,7 @@ pass: faelix-ch-ipv4
 pass: faelix-uk-ipv4
 pass: fdn
 pass: fluffycat-fr-01
-pass: fluffycat-fr-02
+pass: fluffycat-fr-02 (1 retry)
 pass: google
 pass: he
 pass: ibksturm
