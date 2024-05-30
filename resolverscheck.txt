@@ -241,10 +241,10 @@ pass: pryv8boi
 pass: qihoo360-doh
 pass: quad101
 pass: quad9-dnscrypt-ip4-filter-ecs-pri
+pass: quad9-dnscrypt-ip4-filter-ecs-pri (3 retries)
 pass: quad9-dnscrypt-ip4-filter-pri
 pass: quad9-dnscrypt-ip4-nofilter-ecs-pri
 pass: quad9-dnscrypt-ip4-nofilter-pri
-pass: quad9-doh-ip4-port443-filter-ecs-pri
 pass: quad9-doh-ip4-port443-filter-pri
 pass: quad9-doh-ip4-port443-nofilter-ecs-pri
 pass: quad9-doh-ip4-port443-nofilter-pri
@@ -265,7 +265,7 @@ pass: scaleway-ams
 pass: scaleway-fr
 pass: serbica
 pass: sfw.scaleway-fr
-pass: sth-ads-doh-se
+pass: sth-ads-doh-se (1 retry)
 pass: sth-dnscrypt-se
 pass: sth-doh-se
 pass: switch
