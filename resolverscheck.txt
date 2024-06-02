@@ -59,7 +59,6 @@ pass: cs-fl
 pass: cs-fl2
 pass: cs-fr
 pass: cs-ga
-pass: cs-hungary
 pass: cs-il
 pass: cs-il2
 pass: cs-india
@@ -84,7 +83,6 @@ pass: cs-poland
 pass: cs-pt
 pass: cs-ro
 pass: cs-rome
-pass: cs-sea
 pass: cs-serbia
 pass: cs-singapore
 pass: cs-sk
