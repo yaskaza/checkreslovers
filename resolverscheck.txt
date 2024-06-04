@@ -158,6 +158,7 @@ pass: dnscry.pt-portedwards-ipv4
 pass: dnscry.pt-portland-ipv4
 pass: dnscry.pt-riga-ipv4
 pass: dnscry.pt-saltlakecity-ipv4
+pass: dnscry.pt-sandefjord-ipv4
 pass: dnscry.pt-santaclara-ipv4
 pass: dnscry.pt-seattle-ipv4
 pass: dnscry.pt-singapore-ipv4
@@ -203,9 +204,9 @@ pass: easymosdns-doh
 pass: faelix-ch-ipv4
 pass: faelix-uk-ipv4
 pass: fdn
-pass: ffmuc.net (1 retry)
+pass: ffmuc.net (2 retries)
 pass: fluffycat-fr-01
-pass: fluffycat-fr-02 (2 retries)
+pass: fluffycat-fr-02 (1 retry)
 pass: google
 pass: he
 pass: ibksturm
