@@ -167,7 +167,7 @@ pass: dnscry.pt-sofia-ipv4
 pass: dnscry.pt-spokane-ipv4
 pass: dnscry.pt-stockholm-ipv4
 pass: dnscry.pt-sydney-ipv4
-pass: dnscry.pt-taipeh-ipv4
+pass: dnscry.pt-taipeh-ipv4 (1 retry)
 pass: dnscry.pt-tallinn-ipv4
 pass: dnscry.pt-tampa-ipv4
 pass: dnscry.pt-taos-ipv4
@@ -205,6 +205,7 @@ pass: faelix-ch-ipv4
 pass: faelix-uk-ipv4
 pass: fdn
 pass: ffmuc.net (1 retry)
+pass: fluffycat-fr-01
 pass: fluffycat-fr-02
 pass: google
 pass: he
@@ -251,7 +252,6 @@ pass: quad9-doh-ip4-port5053-nofilter-ecs-pri
 pass: quad9-doh-ip4-port5053-nofilter-pri
 pass: restena-doh-ipv4
 pass: rethinkdns-doh
-pass: rethinkdns-doh (1 retry)
 pass: safesurfer
 pass: safesurfer-doh
 pass: saldns01-conoha-ipv4
