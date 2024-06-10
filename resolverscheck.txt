@@ -16,9 +16,6 @@ pass: ams-ads-doh-nl
 pass: ams-dnscrypt-nl
 pass: ams-doh-nl
 pass: artikel10-doh-ipv4
-pass: bebasdns
-pass: bebasdns-family
-pass: bebasdns-unfiltered-doh
 pass: bortzmeyer
 pass: brahma-world
 pass: circl-doh
@@ -104,6 +101,7 @@ pass: dns.sb
 pass: dns0
 pass: dns0-kids
 pass: dns0-unfiltered
+pass: dnscry.pt-adelaide-ipv4
 pass: dnscry.pt-allentown-ipv4
 pass: dnscry.pt-amsterdam-ipv4
 pass: dnscry.pt-atlanta-ipv4
@@ -204,7 +202,7 @@ pass: faelix-ch-ipv4
 pass: faelix-uk-ipv4
 pass: fdn
 pass: ffmuc.net (2 retries)
-pass: fluffycat-fr-01
+pass: fluffycat-fr-01 (1 retry)
 pass: fluffycat-fr-02
 pass: google
 pass: he
