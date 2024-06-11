@@ -146,7 +146,7 @@ pass: dnscry.pt-munich-ipv4
 pass: dnscry.pt-naaldwijk-ipv4
 pass: dnscry.pt-newyork-ipv4
 pass: dnscry.pt-nuremberg-ipv4
-pass: dnscry.pt-oradea-ipv4
+pass: dnscry.pt-oradea-ipv4 (1 retry)
 pass: dnscry.pt-ottoville-ipv4
 pass: dnscry.pt-paris-ipv4
 pass: dnscry.pt-philadelphia-ipv4
@@ -201,9 +201,7 @@ pass: easymosdns-doh
 pass: faelix-ch-ipv4
 pass: faelix-uk-ipv4
 pass: fdn
-pass: ffmuc.net (2 retries)
-pass: fluffycat-fr-01 (1 retry)
-pass: fluffycat-fr-02
+pass: fluffycat-fr-01
 pass: google
 pass: he
 pass: ibksturm
