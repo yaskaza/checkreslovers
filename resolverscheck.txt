@@ -202,12 +202,12 @@ pass: easymosdns-doh
 pass: faelix-ch-ipv4
 pass: faelix-uk-ipv4
 pass: fdn
-pass: ffmuc.net
+pass: ffmuc.net (1 retry)
 pass: fluffycat-fr-01
-pass: fluffycat-fr-02 (2 retries)
+pass: fluffycat-fr-02
 pass: google
 pass: he
-pass: ibksturm (3 retries)
+pass: ibksturm
 pass: iij
 pass: jp.tiar.app
 pass: jp.tiar.app-doh
