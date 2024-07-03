@@ -93,6 +93,7 @@ pass: cs-tx
 pass: cs-tx2
 pass: cs-tx3
 pass: cs-vancouver
+pass: dct-de
 pass: dct-nl
 pass: dct-ru
 pass: deffer-dns.au
@@ -107,16 +108,20 @@ pass: dns0-unfiltered
 pass: dnscry.pt-adelaide-ipv4
 pass: dnscry.pt-allentown-ipv4
 pass: dnscry.pt-amsterdam-ipv4
+pass: dnscry.pt-ashburn-ipv4
+pass: dnscry.pt-athens-ipv4
 pass: dnscry.pt-atlanta-ipv4
 pass: dnscry.pt-auckland-ipv4
 pass: dnscry.pt-budapest-ipv4
 pass: dnscry.pt-chicago-ipv4
 pass: dnscry.pt-chisinau-ipv4
 pass: dnscry.pt-coeurdalene-ipv4
+pass: dnscry.pt-copenhagen-ipv4
 pass: dnscry.pt-coventry-ipv4
 pass: dnscry.pt-dallas-ipv4
 pass: dnscry.pt-denver-ipv4
 pass: dnscry.pt-detroit-ipv4
+pass: dnscry.pt-dublin-ipv4
 pass: dnscry.pt-durham-ipv4
 pass: dnscry.pt-dusseldorf-ipv4
 pass: dnscry.pt-ebene-ipv4
@@ -126,7 +131,9 @@ pass: dnscry.pt-frankfurt-ipv4
 pass: dnscry.pt-fremont-ipv4
 pass: dnscry.pt-fujairah-ipv4
 pass: dnscry.pt-geneva-ipv4
+pass: dnscry.pt-hanoi-ipv4
 pass: dnscry.pt-helsinki-ipv4
+pass: dnscry.pt-hochiminhcity-ipv4
 pass: dnscry.pt-hongkong-ipv4
 pass: dnscry.pt-istanbul-ipv4
 pass: dnscry.pt-jakarta-ipv4
@@ -150,6 +157,7 @@ pass: dnscry.pt-naaldwijk-ipv4
 pass: dnscry.pt-newyork-ipv4
 pass: dnscry.pt-nuremberg-ipv4
 pass: dnscry.pt-oradea-ipv4
+pass: dnscry.pt-ottoville-ipv4
 pass: dnscry.pt-paris-ipv4
 pass: dnscry.pt-philadelphia-ipv4
 pass: dnscry.pt-phoenix-ipv4
@@ -159,7 +167,9 @@ pass: dnscry.pt-riga-ipv4
 pass: dnscry.pt-saltlakecity-ipv4
 pass: dnscry.pt-sandefjord-ipv4
 pass: dnscry.pt-santaclara-ipv4
+pass: dnscry.pt-saopaulo-ipv4
 pass: dnscry.pt-seattle-ipv4
+pass: dnscry.pt-singapore-ipv4
 pass: dnscry.pt-singapore02-ipv4
 pass: dnscry.pt-sofia-ipv4
 pass: dnscry.pt-spokane-ipv4
@@ -169,9 +179,13 @@ pass: dnscry.pt-taipeh-ipv4
 pass: dnscry.pt-tallinn-ipv4
 pass: dnscry.pt-tampa-ipv4
 pass: dnscry.pt-taos-ipv4
+pass: dnscry.pt-tokyo-ipv4
 pass: dnscry.pt-tokyo02-ipv4
 pass: dnscry.pt-toronto-ipv4
+pass: dnscry.pt-valdivia-ipv4
+pass: dnscry.pt-vancouver-ipv4
 pass: dnscry.pt-vienna-ipv4
+pass: dnscry.pt-vilnius-ipv4
 pass: dnscry.pt-warsaw02-ipv4
 pass: dnscrypt.ca-ipv4
 pass: dnscrypt.ca-ipv4-doh
@@ -200,9 +214,8 @@ pass: easymosdns-doh
 pass: faelix-ch-ipv4
 pass: faelix-uk-ipv4
 pass: fdn
-pass: fdn (3 retries)
-pass: fluffycat-fr-01
-pass: fluffycat-fr-02
+pass: fluffycat-fr-01 (2 retries)
+pass: fluffycat-fr-02 (1 retry)
 pass: google
 pass: he
 pass: ibksturm
