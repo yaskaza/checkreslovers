@@ -31,7 +31,6 @@ pass: cleanbrowsing-adult-doh
 pass: cleanbrowsing-family
 pass: cleanbrowsing-family-doh
 pass: cleanbrowsing-security
-pass: cleanbrowsing-security (1 retry)
 pass: cleanbrowsing-security-doh
 pass: cloudflare
 pass: cloudflare-family
@@ -221,9 +220,8 @@ pass: easymosdns-doh
 pass: faelix-ch-ipv4
 pass: faelix-uk-ipv4
 pass: fdn
-pass: ffmuc.net (3 retries)
 pass: fluffycat-fr-01 (3 retries)
-pass: fluffycat-fr-02
+pass: fluffycat-fr-02 (2 retries)
 pass: google
 pass: he
 pass: ibksturm
