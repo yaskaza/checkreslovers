@@ -110,6 +110,7 @@ pass: dns.sb
 pass: dns0
 pass: dns0-kids
 pass: dns0-unfiltered
+pass: dnscry.pt-adelaide-ipv4
 pass: dnscry.pt-allentown-ipv4
 pass: dnscry.pt-amsterdam-ipv4
 pass: dnscry.pt-ashburn-ipv4
@@ -154,7 +155,6 @@ pass: dnscry.pt-losangeles-ipv4
 pass: dnscry.pt-madrid-ipv4
 pass: dnscry.pt-miami-ipv4
 pass: dnscry.pt-milan-ipv4
-pass: dnscry.pt-montreal-ipv4
 pass: dnscry.pt-mumbai-ipv4
 pass: dnscry.pt-munich-ipv4
 pass: dnscry.pt-naaldwijk-ipv4
@@ -218,7 +218,8 @@ pass: easymosdns-doh
 pass: faelix-ch-ipv4
 pass: faelix-uk-ipv4
 pass: fdn
-pass: fluffycat-fr-01
+pass: ffmuc.net (3 retries)
+pass: fluffycat-fr-01 (1 retry)
 pass: fluffycat-fr-02 (1 retry)
 pass: google
 pass: he
