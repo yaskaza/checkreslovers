@@ -1,3 +1,4 @@
+pass: a-and-a
 pass: adfilter-adl
 pass: adfilter-per
 pass: adfilter-syd
@@ -192,8 +193,6 @@ pass: dnscry.pt-vilnius-ipv4
 pass: dnscry.pt-warsaw02-ipv4
 pass: dnscrypt.ca-ipv4
 pass: dnscrypt.ca-ipv4-doh
-pass: dnscrypt.pl
-pass: dnscrypt.pl-guardian
 pass: dnscrypt.uk-ipv4
 pass: dnsfilter
 pass: dnsforfamily
@@ -268,8 +267,6 @@ pass: safesurfer-doh
 pass: saldns01-conoha-ipv4
 pass: saldns02-conoha-ipv4
 pass: saldns03-conoha-ipv4
-pass: sby-doh-limotelu
-pass: sby-limotelu
 pass: scaleway-ams
 pass: scaleway-fr
 pass: serbica
