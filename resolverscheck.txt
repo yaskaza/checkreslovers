@@ -219,8 +219,9 @@ pass: easymosdns-doh
 pass: faelix-ch-ipv4
 pass: faelix-uk-ipv4
 pass: fdn
+pass: ffmuc.net (1 retry)
 pass: fluffycat-fr-01
-pass: fluffycat-fr-02
+pass: fluffycat-fr-02 (2 retries)
 pass: google
 pass: he
 pass: ibksturm
@@ -276,10 +277,9 @@ pass: sth-ads-doh-se
 pass: sth-dnscrypt-se
 pass: sth-doh-se
 pass: switch
-pass: uncensoreddns-dk-ipv4
 pass: uncensoreddns-ipv4
 pass: userspace-australia
-pass: v.dnscrypt.uk-ipv4 (1 retry)
+pass: v.dnscrypt.uk-ipv4
 pass: wikimedia
 pass: yandex
 pass: yandex-ipv6
