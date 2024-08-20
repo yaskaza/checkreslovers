@@ -70,11 +70,13 @@ pass: cs-india
 pass: cs-ireland
 pass: cs-la
 pass: cs-london
+pass: cs-lv
 pass: cs-madrid
 pass: cs-manchester
 pass: cs-mexico
 pass: cs-milan
 pass: cs-montreal
+pass: cs-nc
 pass: cs-nl
 pass: cs-nl2
 pass: cs-norway
@@ -174,7 +176,7 @@ pass: dnscry.pt-seattle-ipv4
 pass: dnscry.pt-singapore-ipv4
 pass: dnscry.pt-singapore02-ipv4
 pass: dnscry.pt-sofia-ipv4
-pass: dnscry.pt-spokane-ipv4
+pass: dnscry.pt-spokane-ipv4 (1 retry)
 pass: dnscry.pt-stockholm-ipv4
 pass: dnscry.pt-sydney-ipv4
 pass: dnscry.pt-taipeh-ipv4
@@ -199,7 +201,6 @@ pass: dnsforfamily-no-safe-search
 pass: dnsforge.de
 pass: dnslow.me
 pass: dnspod
-pass: dnswarden-adult-doh
 pass: dnswarden-uncensor-dc-swiss
 pass: doh-cleanbrowsing-adult
 pass: doh-cleanbrowsing-family
@@ -216,8 +217,8 @@ pass: easymosdns-doh
 pass: faelix-ch-ipv4
 pass: faelix-uk-ipv4
 pass: fdn
-pass: fluffycat-fr-01 (1 retry)
-pass: fluffycat-fr-02
+pass: ffmuc.net (3 retries)
+pass: fluffycat-fr-01 (2 retries)
 pass: google
 pass: he
 pass: ibksturm
@@ -273,6 +274,7 @@ pass: sth-ads-doh-se
 pass: sth-dnscrypt-se
 pass: sth-doh-se
 pass: switch
+pass: uncensoreddns-dk-ipv4
 pass: uncensoreddns-ipv4
 pass: userspace-australia
 pass: v.dnscrypt.uk-ipv4
