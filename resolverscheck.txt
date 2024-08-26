@@ -201,7 +201,6 @@ pass: dnsforfamily-no-safe-search
 pass: dnsforge.de
 pass: dnslow.me
 pass: dnspod
-pass: dnswarden-adult-doh
 pass: dnswarden-uncensor-dc-swiss
 pass: doh-cleanbrowsing-adult
 pass: doh-cleanbrowsing-family
@@ -218,8 +217,8 @@ pass: easymosdns-doh
 pass: faelix-ch-ipv4
 pass: faelix-uk-ipv4
 pass: fdn
-pass: ffmuc.net (3 retries)
-pass: fluffycat-fr-01
+pass: ffmuc.net (1 retry)
+pass: fluffycat-fr-01 (3 retries)
 pass: fluffycat-fr-02
 pass: google
 pass: he
