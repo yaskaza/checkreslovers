@@ -37,6 +37,7 @@ pass: cloudflare
 pass: cloudflare-family
 pass: cloudflare-security
 pass: comodo-02
+pass: comodo-02 (1 retry)
 pass: controld-block-malware
 pass: controld-block-malware-ad
 pass: controld-block-malware-ad-social
@@ -201,6 +202,7 @@ pass: dnsforfamily-no-safe-search
 pass: dnsforge.de
 pass: dnslow.me
 pass: dnspod
+pass: dnswarden-adult-doh
 pass: dnswarden-uncensor-dc-swiss
 pass: doh-cleanbrowsing-adult
 pass: doh-cleanbrowsing-family
@@ -217,9 +219,8 @@ pass: easymosdns-doh
 pass: faelix-ch-ipv4
 pass: faelix-uk-ipv4
 pass: fdn
-pass: ffmuc.net (1 retry)
-pass: fluffycat-fr-01 (3 retries)
-pass: fluffycat-fr-02
+pass: fluffycat-fr-01 (2 retries)
+pass: fluffycat-fr-02 (2 retries)
 pass: google
 pass: he
 pass: ibksturm
