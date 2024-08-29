@@ -20,6 +20,10 @@ pass: artikel10-doh-ipv4
 pass: bebasdns
 pass: bebasdns-family
 pass: bebasdns-unfiltered-doh
+pass: blahdns-de-dnscrypt-v4
+pass: blahdns-de-doh
+pass: blahdns-sg-dnscrypt-v4
+pass: blahdns-sg-doh
 pass: bortzmeyer
 pass: brahma-world
 pass: circl-doh
@@ -100,7 +104,9 @@ pass: cs-tx2
 pass: cs-tx3
 pass: cs-vancouver
 pass: dct-de
+pass: dct-fr
 pass: dct-nl
+pass: dct-ru
 pass: deffer-dns.au
 pass: digitalprivacy.diy-dnscrypt-ipv4
 pass: dns.digitale-gesellschaft.ch
@@ -217,8 +223,8 @@ pass: easymosdns-doh
 pass: faelix-ch-ipv4
 pass: faelix-uk-ipv4
 pass: fdn
-pass: fluffycat-fr-01 (2 retries)
-pass: fluffycat-fr-02
+pass: fluffycat-fr-01 (1 retry)
+pass: fluffycat-fr-02 (1 retry)
 pass: google
 pass: he
 pass: ibksturm
