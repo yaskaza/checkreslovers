@@ -12,7 +12,6 @@ pass: adguard-dns-unfiltered-doh
 pass: ahadns-doh-la
 pass: ahadns-doh-nl
 pass: alidns-doh
-pass: alidns-doh (1 retry)
 pass: alidns-doh-ipv6
 pass: ams-ads-doh-nl
 pass: ams-dnscrypt-nl
@@ -85,7 +84,7 @@ pass: cs-nc
 pass: cs-nl
 pass: cs-nl2
 pass: cs-norway
-pass: cs-nv
+pass: cs-nv (1 retry)
 pass: cs-nyc1
 pass: cs-nyc2
 pass: cs-ore
@@ -207,6 +206,7 @@ pass: dnsforfamily-no-safe-search
 pass: dnsforge.de
 pass: dnslow.me
 pass: dnspod
+pass: dnswarden-adult-doh
 pass: dnswarden-uncensor-dc-swiss
 pass: doh-cleanbrowsing-adult
 pass: doh-cleanbrowsing-family
@@ -223,8 +223,8 @@ pass: easymosdns-doh
 pass: faelix-ch-ipv4
 pass: faelix-uk-ipv4
 pass: fdn
-pass: ffmuc.net (2 retries)
-pass: fluffycat-fr-01 (2 retries)
+pass: ffmuc.net
+pass: fluffycat-fr-01
 pass: fluffycat-fr-02 (1 retry)
 pass: google
 pass: he
