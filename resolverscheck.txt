@@ -180,7 +180,7 @@ pass: dnscry.pt-sofia-ipv4
 pass: dnscry.pt-spokane-ipv4
 pass: dnscry.pt-stockholm-ipv4
 pass: dnscry.pt-sydney-ipv4
-pass: dnscry.pt-taipeh-ipv4
+pass: dnscry.pt-taipeh-ipv4 (1 retry)
 pass: dnscry.pt-tallinn-ipv4
 pass: dnscry.pt-tampa-ipv4
 pass: dnscry.pt-taos-ipv4
