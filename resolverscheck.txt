@@ -102,7 +102,7 @@ pass: cs-tx3
 pass: cs-vancouver
 pass: dct-de
 pass: dct-nl
-pass: dct-ru
+pass: dct-ru (1 retry)
 pass: deffer-dns.au
 pass: digitalprivacy.diy-dnscrypt-ipv4
 pass: dns.digitale-gesellschaft.ch
@@ -180,7 +180,7 @@ pass: dnscry.pt-sofia-ipv4
 pass: dnscry.pt-spokane-ipv4
 pass: dnscry.pt-stockholm-ipv4
 pass: dnscry.pt-sydney-ipv4
-pass: dnscry.pt-taipeh-ipv4 (1 retry)
+pass: dnscry.pt-taipeh-ipv4
 pass: dnscry.pt-tallinn-ipv4
 pass: dnscry.pt-tampa-ipv4
 pass: dnscry.pt-taos-ipv4
@@ -218,7 +218,7 @@ pass: easymosdns-doh
 pass: faelix-ch-ipv4
 pass: faelix-uk-ipv4
 pass: fdn
-pass: fluffycat-fr-01
+pass: fluffycat-fr-01 (1 retry)
 pass: fluffycat-fr-02
 pass: google
 pass: he
