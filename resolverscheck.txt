@@ -102,7 +102,7 @@ pass: cs-tx3
 pass: cs-vancouver
 pass: dct-de
 pass: dct-nl
-pass: dct-ru (1 retry)
+pass: dct-ru
 pass: deffer-dns.au
 pass: digitalprivacy.diy-dnscrypt-ipv4
 pass: dns.digitale-gesellschaft.ch
@@ -218,6 +218,7 @@ pass: easymosdns-doh
 pass: faelix-ch-ipv4
 pass: faelix-uk-ipv4
 pass: fdn
+pass: ffmuc.net (1 retry)
 pass: fluffycat-fr-01 (1 retry)
 pass: fluffycat-fr-02
 pass: google
