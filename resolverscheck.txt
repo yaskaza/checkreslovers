@@ -2,7 +2,6 @@ pass: a-and-a
 pass: adfilter-adl
 pass: adfilter-per
 pass: adfilter-syd
-pass: adfree.usableprivacy.net-ipv4
 pass: adguard-dns
 pass: adguard-dns-doh
 pass: adguard-dns-family
@@ -102,7 +101,7 @@ pass: cs-tx3
 pass: cs-vancouver
 pass: dct-de
 pass: dct-nl
-pass: dct-ru
+pass: dct-ru (1 retry)
 pass: deffer-dns.au
 pass: digitalprivacy.diy-dnscrypt-ipv4
 pass: dns.digitale-gesellschaft.ch
@@ -115,10 +114,12 @@ pass: dns0-unfiltered
 pass: dnscry.pt-adelaide-ipv4
 pass: dnscry.pt-allentown-ipv4
 pass: dnscry.pt-amsterdam-ipv4
+pass: dnscry.pt-amsterdam02-ipv4
 pass: dnscry.pt-ashburn-ipv4
 pass: dnscry.pt-athens-ipv4
 pass: dnscry.pt-atlanta-ipv4
 pass: dnscry.pt-auckland-ipv4
+pass: dnscry.pt-bratislava-ipv4
 pass: dnscry.pt-budapest-ipv4
 pass: dnscry.pt-chicago-ipv4
 pass: dnscry.pt-chisinau-ipv4
@@ -142,6 +143,7 @@ pass: dnscry.pt-hanoi-ipv4
 pass: dnscry.pt-helsinki-ipv4
 pass: dnscry.pt-hochiminhcity-ipv4
 pass: dnscry.pt-hongkong-ipv4
+pass: dnscry.pt-hongkong02-ipv4
 pass: dnscry.pt-istanbul-ipv4
 pass: dnscry.pt-jakarta-ipv4
 pass: dnscry.pt-johannesburg-ipv4
@@ -152,10 +154,13 @@ pass: dnscry.pt-lagos-ipv4
 pass: dnscry.pt-lasvegas-ipv4
 pass: dnscry.pt-libertylake-ipv4
 pass: dnscry.pt-lima-ipv4
+pass: dnscry.pt-london-ipv4
 pass: dnscry.pt-losangeles-ipv4
+pass: dnscry.pt-losangeles02-ipv4
 pass: dnscry.pt-madrid-ipv4
 pass: dnscry.pt-miami-ipv4
 pass: dnscry.pt-milan-ipv4
+pass: dnscry.pt-montreal-ipv4
 pass: dnscry.pt-mumbai-ipv4
 pass: dnscry.pt-munich-ipv4
 pass: dnscry.pt-naaldwijk-ipv4
@@ -184,6 +189,7 @@ pass: dnscry.pt-taipeh-ipv4
 pass: dnscry.pt-tallinn-ipv4
 pass: dnscry.pt-tampa-ipv4
 pass: dnscry.pt-taos-ipv4
+pass: dnscry.pt-tokyo-ipv4
 pass: dnscry.pt-tokyo02-ipv4
 pass: dnscry.pt-toronto-ipv4
 pass: dnscry.pt-valdivia-ipv4
@@ -218,8 +224,8 @@ pass: easymosdns-doh
 pass: faelix-ch-ipv4
 pass: faelix-uk-ipv4
 pass: fdn
-pass: ffmuc.net (1 retry)
-pass: fluffycat-fr-01 (1 retry)
+pass: ffmuc.net (3 retries)
+pass: fluffycat-fr-01
 pass: fluffycat-fr-02
 pass: google
 pass: he
