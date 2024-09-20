@@ -16,7 +16,7 @@ pass: ams-ads-doh-nl
 pass: ams-doh-nl
 pass: artikel10-doh-ipv4
 pass: bebasdns
-pass: bebasdns-unfiltered-doh
+pass: bebasdns-unfiltered-doh (2 retries)
 pass: blahdns-de-dnscrypt-v4
 pass: blahdns-de-doh
 pass: blahdns-sg-dnscrypt-v4
@@ -128,7 +128,6 @@ pass: dnscry.pt-copenhagen-ipv4
 pass: dnscry.pt-coventry-ipv4
 pass: dnscry.pt-dallas-ipv4
 pass: dnscry.pt-denver-ipv4
-pass: dnscry.pt-detroit-ipv4
 pass: dnscry.pt-dublin-ipv4
 pass: dnscry.pt-durham-ipv4
 pass: dnscry.pt-dusseldorf-ipv4
@@ -224,8 +223,8 @@ pass: easymosdns-doh
 pass: faelix-ch-ipv4
 pass: faelix-uk-ipv4
 pass: fdn
-pass: ffmuc.net (3 retries)
-pass: fluffycat-fr-01
+pass: ffmuc.net
+pass: fluffycat-fr-01 (1 retry)
 pass: fluffycat-fr-02
 pass: google
 pass: he
@@ -256,18 +255,6 @@ pass: plan9dns-nj-doh
 pass: pryv8boi
 pass: qihoo360-doh
 pass: quad101
-pass: quad9-dnscrypt-ip4-filter-ecs-pri
-pass: quad9-dnscrypt-ip4-filter-pri
-pass: quad9-dnscrypt-ip4-nofilter-ecs-pri
-pass: quad9-dnscrypt-ip4-nofilter-pri
-pass: quad9-doh-ip4-port443-filter-ecs-pri
-pass: quad9-doh-ip4-port443-filter-pri
-pass: quad9-doh-ip4-port443-nofilter-ecs-pri
-pass: quad9-doh-ip4-port443-nofilter-pri
-pass: quad9-doh-ip4-port5053-filter-ecs-pri
-pass: quad9-doh-ip4-port5053-filter-pri
-pass: quad9-doh-ip4-port5053-nofilter-ecs-pri
-pass: quad9-doh-ip4-port5053-nofilter-pri
 pass: restena-doh-ipv4
 pass: rethinkdns-doh
 pass: safesurfer
