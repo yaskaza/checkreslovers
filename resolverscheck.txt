@@ -17,7 +17,6 @@ pass: ams-dnscrypt-nl
 pass: ams-doh-nl
 pass: artikel10-doh-ipv4
 pass: bebasdns
-pass: bebasdns-unfiltered-doh
 pass: blahdns-de-dnscrypt-v4
 pass: blahdns-de-doh
 pass: blahdns-sg-dnscrypt-v4
@@ -100,7 +99,6 @@ pass: cs-tx
 pass: cs-tx2
 pass: cs-tx3
 pass: cs-vancouver
-pass: dct-de
 pass: dct-nl
 pass: deffer-dns.au
 pass: digitalprivacy.diy-dnscrypt-ipv4
@@ -224,6 +222,7 @@ pass: easymosdns-doh
 pass: faelix-ch-ipv4
 pass: faelix-uk-ipv4
 pass: fdn
+pass: ffmuc.net
 pass: fluffycat-fr-01
 pass: fluffycat-fr-02
 pass: google
