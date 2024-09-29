@@ -134,7 +134,7 @@ pass: dnscry.pt-detroit-ipv4
 pass: dnscry.pt-dublin-ipv4
 pass: dnscry.pt-durham-ipv4
 pass: dnscry.pt-dusseldorf-ipv4
-pass: dnscry.pt-ebene-ipv4 (1 retry)
+pass: dnscry.pt-ebene-ipv4
 pass: dnscry.pt-eygelshoven-ipv4
 pass: dnscry.pt-flint-ipv4
 pass: dnscry.pt-frankfurt-ipv4
@@ -154,7 +154,7 @@ pass: dnscry.pt-kharkiv-ipv4
 pass: dnscry.pt-kyiv-ipv4
 pass: dnscry.pt-lagos-ipv4
 pass: dnscry.pt-lasvegas-ipv4
-pass: dnscry.pt-libertylake-ipv4
+pass: dnscry.pt-libertylake-ipv4 (1 retry)
 pass: dnscry.pt-lima-ipv4
 pass: dnscry.pt-london-ipv4
 pass: dnscry.pt-losangeles-ipv4
@@ -226,8 +226,7 @@ pass: easymosdns-doh
 pass: faelix-ch-ipv4
 pass: faelix-uk-ipv4
 pass: fdn
-pass: ffmuc.net
-pass: fluffycat-fr-01 (1 retry)
+pass: ffmuc.net (1 retry)
 pass: fluffycat-fr-02
 pass: google
 pass: he
