@@ -103,7 +103,7 @@ pass: cs-vancouver
 pass: dct-de
 pass: dct-fr
 pass: dct-nl
-pass: dct-ru
+pass: dct-ru (2 retries)
 pass: deffer-dns.au
 pass: digitalprivacy.diy-dnscrypt-ipv4
 pass: dns.digitale-gesellschaft.ch
@@ -154,7 +154,7 @@ pass: dnscry.pt-kharkiv-ipv4
 pass: dnscry.pt-kyiv-ipv4
 pass: dnscry.pt-lagos-ipv4
 pass: dnscry.pt-lasvegas-ipv4
-pass: dnscry.pt-libertylake-ipv4 (1 retry)
+pass: dnscry.pt-libertylake-ipv4
 pass: dnscry.pt-lima-ipv4
 pass: dnscry.pt-london-ipv4
 pass: dnscry.pt-losangeles-ipv4
@@ -226,8 +226,9 @@ pass: easymosdns-doh
 pass: faelix-ch-ipv4
 pass: faelix-uk-ipv4
 pass: fdn
-pass: ffmuc.net (1 retry)
-pass: fluffycat-fr-02
+pass: ffmuc.net
+pass: fluffycat-fr-01 (1 retry)
+pass: fluffycat-fr-02 (1 retry)
 pass: google
 pass: he
 pass: ibksturm
@@ -286,6 +287,7 @@ pass: switch
 pass: uncensoreddns-dk-ipv4
 pass: uncensoreddns-ipv4
 pass: userspace-australia
+pass: userspace-australia (1 retry)
 pass: v.dnscrypt.uk-ipv4
 pass: wikimedia
 pass: yandex
