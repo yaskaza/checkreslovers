@@ -16,8 +16,6 @@ pass: ams-ads-doh-nl
 pass: ams-dnscrypt-nl
 pass: ams-doh-nl
 pass: artikel10-doh-ipv4
-pass: bebasdns
-pass: bebasdns-unfiltered-doh (1 retry)
 pass: blahdns-de-dnscrypt-v4
 pass: blahdns-de-doh
 pass: blahdns-sg-dnscrypt-v4
@@ -82,7 +80,6 @@ pass: cs-nl
 pass: cs-nl2
 pass: cs-norway
 pass: cs-nv
-pass: cs-nyc1
 pass: cs-nyc2
 pass: cs-ore
 pass: cs-poland
@@ -103,7 +100,7 @@ pass: cs-vancouver
 pass: dct-de
 pass: dct-fr
 pass: dct-nl
-pass: dct-ru (2 retries)
+pass: dct-ru
 pass: deffer-dns.au
 pass: digitalprivacy.diy-dnscrypt-ipv4
 pass: dns.digitale-gesellschaft.ch
@@ -114,7 +111,6 @@ pass: dns0
 pass: dns0-kids
 pass: dns0-unfiltered
 pass: dnscry.pt-adelaide-ipv4
-pass: dnscry.pt-allentown-ipv4
 pass: dnscry.pt-amsterdam-ipv4
 pass: dnscry.pt-amsterdam02-ipv4
 pass: dnscry.pt-ashburn-ipv4
@@ -227,8 +223,8 @@ pass: faelix-ch-ipv4
 pass: faelix-uk-ipv4
 pass: fdn
 pass: ffmuc.net
-pass: fluffycat-fr-01 (1 retry)
-pass: fluffycat-fr-02 (1 retry)
+pass: fluffycat-fr-01
+pass: fluffycat-fr-02
 pass: google
 pass: he
 pass: ibksturm
@@ -287,7 +283,6 @@ pass: switch
 pass: uncensoreddns-dk-ipv4
 pass: uncensoreddns-ipv4
 pass: userspace-australia
-pass: userspace-australia (1 retry)
 pass: v.dnscrypt.uk-ipv4
 pass: wikimedia
 pass: yandex
