@@ -181,7 +181,7 @@ pass: dnscry.pt-seattle-ipv4
 pass: dnscry.pt-singapore-ipv4
 pass: dnscry.pt-singapore02-ipv4
 pass: dnscry.pt-sofia-ipv4
-pass: dnscry.pt-spokane-ipv4 (1 retry)
+pass: dnscry.pt-spokane-ipv4
 pass: dnscry.pt-stockholm-ipv4
 pass: dnscry.pt-sydney-ipv4
 pass: dnscry.pt-taipeh-ipv4
@@ -223,6 +223,7 @@ pass: easymosdns-doh
 pass: faelix-ch-ipv4
 pass: faelix-uk-ipv4
 pass: fdn
+pass: ffmuc.net
 pass: fluffycat-fr-01
 pass: fluffycat-fr-02
 pass: google
@@ -283,6 +284,7 @@ pass: switch
 pass: uncensoreddns-dk-ipv4
 pass: uncensoreddns-ipv4
 pass: userspace-australia
+pass: userspace-australia (1 retry)
 pass: v.dnscrypt.uk-ipv4
 pass: wikimedia
 pass: yandex
