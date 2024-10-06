@@ -284,7 +284,6 @@ pass: switch
 pass: uncensoreddns-dk-ipv4
 pass: uncensoreddns-ipv4
 pass: userspace-australia
-pass: userspace-australia (1 retry)
 pass: v.dnscrypt.uk-ipv4
 pass: wikimedia
 pass: yandex
