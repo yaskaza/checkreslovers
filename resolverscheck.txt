@@ -17,6 +17,7 @@ pass: ams-dnscrypt-nl
 pass: ams-doh-nl
 pass: artikel10-doh-ipv4
 pass: bebasdns
+pass: bebasdns-unfiltered-doh
 pass: blahdns-de-dnscrypt-v4
 pass: blahdns-de-doh
 pass: blahdns-sg-dnscrypt-v4
@@ -226,14 +227,14 @@ pass: faelix-uk-ipv4
 pass: fdn
 pass: ffmuc.net (2 retries)
 pass: fluffycat-fr-01
-pass: fluffycat-fr-02 (1 retry)
+pass: fluffycat-fr-02
 pass: google
 pass: he
 pass: ibksturm
 pass: iij
 pass: jp.tiar.app
 pass: jp.tiar.app-doh
-pass: jp.tiarap.org (1 retry)
+pass: jp.tiarap.org
 pass: ksol.io-ns2-dnscrypt-ipv4
 pass: libredns
 pass: libredns-noads
