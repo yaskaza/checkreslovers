@@ -17,6 +17,7 @@ pass: ams-dnscrypt-nl
 pass: ams-doh-nl
 pass: artikel10-doh-ipv4
 pass: bebasdns
+pass: bebasdns-unfiltered-doh
 pass: blahdns-de-dnscrypt-v4
 pass: blahdns-de-doh
 pass: blahdns-sg-dnscrypt-v4
@@ -56,7 +57,6 @@ pass: cs-czech
 pass: cs-dc
 pass: cs-de
 pass: cs-dk
-pass: cs-dus2
 pass: cs-dus3
 pass: cs-dus4
 pass: cs-finland
@@ -128,6 +128,7 @@ pass: dnscry.pt-copenhagen-ipv4
 pass: dnscry.pt-coventry-ipv4
 pass: dnscry.pt-dallas-ipv4
 pass: dnscry.pt-denver-ipv4
+pass: dnscry.pt-detroit-ipv4
 pass: dnscry.pt-dublin-ipv4
 pass: dnscry.pt-durham-ipv4
 pass: dnscry.pt-dusseldorf-ipv4
@@ -170,7 +171,6 @@ pass: dnscry.pt-ottoville-ipv4
 pass: dnscry.pt-paris-ipv4
 pass: dnscry.pt-philadelphia-ipv4
 pass: dnscry.pt-phoenix-ipv4
-pass: dnscry.pt-portedwards-ipv4
 pass: dnscry.pt-portland-ipv4
 pass: dnscry.pt-riga-ipv4
 pass: dnscry.pt-saltlakecity-ipv4
@@ -223,8 +223,9 @@ pass: easymosdns-doh
 pass: faelix-ch-ipv4
 pass: faelix-uk-ipv4
 pass: fdn
-pass: fluffycat-fr-01
-pass: fluffycat-fr-02 (2 retries)
+pass: ffmuc.net (1 retry)
+pass: fluffycat-fr-01 (1 retry)
+pass: fluffycat-fr-02
 pass: google
 pass: he
 pass: ibksturm
