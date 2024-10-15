@@ -104,7 +104,6 @@ pass: deffer-dns.au
 pass: digitalprivacy.diy-dnscrypt-ipv4
 pass: dns.digitale-gesellschaft.ch
 pass: dns.digitalsize.net
-pass: dns.ryan-palmer
 pass: dns.sb
 pass: dns0
 pass: dns0-kids
@@ -169,6 +168,7 @@ pass: dnscry.pt-ottoville-ipv4
 pass: dnscry.pt-paris-ipv4
 pass: dnscry.pt-philadelphia-ipv4
 pass: dnscry.pt-phoenix-ipv4
+pass: dnscry.pt-portedwards-ipv4
 pass: dnscry.pt-portland-ipv4
 pass: dnscry.pt-riga-ipv4
 pass: dnscry.pt-saltlakecity-ipv4
@@ -221,7 +221,7 @@ pass: easymosdns-doh
 pass: faelix-ch-ipv4
 pass: faelix-uk-ipv4
 pass: fdn
-pass: fluffycat-fr-01 (1 retry)
+pass: fluffycat-fr-01
 pass: fluffycat-fr-02
 pass: google
 pass: he
