@@ -59,7 +59,6 @@ pass: cs-de
 pass: cs-dk
 pass: cs-dus3
 pass: cs-finland
-pass: cs-fl2
 pass: cs-fr
 pass: cs-ga
 pass: cs-il
@@ -168,7 +167,7 @@ pass: dnscry.pt-ottoville-ipv4
 pass: dnscry.pt-paris-ipv4
 pass: dnscry.pt-philadelphia-ipv4
 pass: dnscry.pt-phoenix-ipv4
-pass: dnscry.pt-portedwards-ipv4 (1 retry)
+pass: dnscry.pt-portedwards-ipv4
 pass: dnscry.pt-portland-ipv4
 pass: dnscry.pt-riga-ipv4
 pass: dnscry.pt-saltlakecity-ipv4
@@ -196,7 +195,6 @@ pass: dnscry.pt-vilnius-ipv4
 pass: dnscry.pt-warsaw02-ipv4
 pass: dnscrypt.ca-ipv4
 pass: dnscrypt.ca-ipv4-doh
-pass: dnscrypt.pl
 pass: dnscrypt.pl-guardian
 pass: dnscrypt.uk-ipv4
 pass: dnsfilter
@@ -221,6 +219,7 @@ pass: easymosdns-doh
 pass: faelix-ch-ipv4
 pass: faelix-uk-ipv4
 pass: fdn
+pass: ffmuc.net (1 retry)
 pass: fluffycat-fr-01
 pass: fluffycat-fr-02 (1 retry)
 pass: google
