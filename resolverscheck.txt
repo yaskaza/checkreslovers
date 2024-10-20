@@ -11,7 +11,6 @@ pass: adguard-dns-unfiltered-doh
 pass: ahadns-doh-la
 pass: ahadns-doh-nl
 pass: alidns-doh
-pass: alidns-doh (1 retry)
 pass: alidns-doh-ipv6
 pass: ams-ads-doh-nl
 pass: ams-dnscrypt-nl
@@ -80,7 +79,6 @@ pass: cs-nl
 pass: cs-nl2
 pass: cs-norway
 pass: cs-nv
-pass: cs-nyc2
 pass: cs-ore
 pass: cs-poland
 pass: cs-pt
@@ -156,7 +154,6 @@ pass: dnscry.pt-london-ipv4
 pass: dnscry.pt-losangeles-ipv4
 pass: dnscry.pt-losangeles02-ipv4
 pass: dnscry.pt-madrid-ipv4
-pass: dnscry.pt-miami-ipv4
 pass: dnscry.pt-milan-ipv4
 pass: dnscry.pt-montreal-ipv4
 pass: dnscry.pt-mumbai-ipv4
@@ -223,7 +220,7 @@ pass: faelix-uk-ipv4
 pass: fdn
 pass: ffmuc.net
 pass: fluffycat-fr-01
-pass: fluffycat-fr-02
+pass: fluffycat-fr-02 (1 retry)
 pass: google
 pass: he
 pass: ibksturm
