@@ -110,7 +110,6 @@ pass: dnscry.pt-bratislava-ipv4
 pass: dnscry.pt-budapest-ipv4
 pass: dnscry.pt-chicago-ipv4
 pass: dnscry.pt-chisinau-ipv4
-pass: dnscry.pt-coeurdalene-ipv4
 pass: dnscry.pt-copenhagen-ipv4
 pass: dnscry.pt-coventry-ipv4
 pass: dnscry.pt-dallas-ipv4
