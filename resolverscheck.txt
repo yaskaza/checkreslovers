@@ -10,13 +10,12 @@ pass: adguard-dns-unfiltered
 pass: adguard-dns-unfiltered-doh
 pass: ahadns-doh-la
 pass: alidns-doh
-pass: alidns-doh (1 retry)
 pass: alidns-doh-ipv6
 pass: ams-ads-doh-nl
 pass: ams-dnscrypt-nl
 pass: ams-doh-nl
 pass: artikel10-doh-ipv4
-pass: bebasdns
+pass: bebasdns (1 retry)
 pass: bebasdns-unfiltered-doh
 pass: blahdns-de-dnscrypt-v4
 pass: blahdns-de-doh
@@ -207,9 +206,9 @@ pass: easymosdns-doh
 pass: faelix-ch-ipv4
 pass: faelix-uk-ipv4
 pass: fdn
-pass: ffmuc.net
+pass: ffmuc.net (1 retry)
 pass: fluffycat-fr-01
-pass: fluffycat-fr-02
+pass: fluffycat-fr-02 (1 retry)
 pass: google
 pass: he
 pass: ibksturm
