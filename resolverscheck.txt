@@ -15,12 +15,10 @@ pass: ams-ads-doh-nl
 pass: ams-dnscrypt-nl
 pass: ams-doh-nl
 pass: artikel10-doh-ipv4
-pass: bebasdns (1 retry)
+pass: bebasdns (2 retries)
 pass: bebasdns-unfiltered-doh
 pass: blahdns-de-dnscrypt-v4
 pass: blahdns-de-doh
-pass: blahdns-sg-dnscrypt-v4
-pass: blahdns-sg-doh
 pass: bortzmeyer
 pass: brahma-world
 pass: circl-doh
@@ -159,7 +157,7 @@ pass: dnscry.pt-portland-ipv4
 pass: dnscry.pt-riga-ipv4
 pass: dnscry.pt-saltlakecity-ipv4
 pass: dnscry.pt-sandefjord-ipv4
-pass: dnscry.pt-santaclara-ipv4 (1 retry)
+pass: dnscry.pt-santaclara-ipv4
 pass: dnscry.pt-saopaulo-ipv4
 pass: dnscry.pt-seattle-ipv4
 pass: dnscry.pt-singapore-ipv4
