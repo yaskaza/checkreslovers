@@ -11,9 +11,9 @@ pass: adguard-dns-unfiltered-doh
 pass: ahadns-doh-la
 pass: alidns-doh
 pass: alidns-doh-ipv6
-pass: ams-ads-doh-nl (2 retries)
+pass: ams-ads-doh-nl
 pass: ams-dnscrypt-nl
-pass: ams-doh-nl (1 retry)
+pass: ams-doh-nl
 pass: artikel10-doh-ipv4
 pass: blahdns-de-dnscrypt-v4
 pass: blahdns-de-doh
@@ -206,7 +206,6 @@ pass: dnscry.pt-vienna-ipv4
 pass: dnscry.pt-vilnius-ipv4
 pass: dnscry.pt-warsaw02-ipv4
 pass: dnscry.pt-yerevan-ipv4
-pass: dnscrypt.ca-ipv4
 pass: dnscrypt.ca-ipv4-doh
 pass: dnscrypt.pl
 pass: dnscrypt.pl-guardian
@@ -231,7 +230,8 @@ pass: easymosdns-doh
 pass: faelix-ch-ipv4
 pass: faelix-uk-ipv4
 pass: fdn
-pass: fluffycat-fr-01
+pass: ffmuc.net (1 retry)
+pass: fluffycat-fr-01 (1 retry)
 pass: fluffycat-fr-02
 pass: google
 pass: he
@@ -280,7 +280,7 @@ pass: scaleway-ams
 pass: scaleway-fr
 pass: serbica
 pass: sfw.scaleway-fr
-pass: sth-ads-doh-se
+pass: sth-ads-doh-se (1 retry)
 pass: sth-dnscrypt-se
 pass: sth-doh-se
 pass: switch
