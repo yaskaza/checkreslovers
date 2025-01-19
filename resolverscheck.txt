@@ -206,6 +206,7 @@ pass: dnscry.pt-vienna-ipv4
 pass: dnscry.pt-vilnius-ipv4
 pass: dnscry.pt-warsaw02-ipv4
 pass: dnscry.pt-yerevan-ipv4
+pass: dnscrypt.ca-ipv4
 pass: dnscrypt.ca-ipv4-doh
 pass: dnscrypt.pl
 pass: dnscrypt.pl-guardian
@@ -230,9 +231,8 @@ pass: easymosdns-doh
 pass: faelix-ch-ipv4
 pass: faelix-uk-ipv4
 pass: fdn
-pass: ffmuc.net (1 retry)
-pass: fluffycat-fr-01 (1 retry)
-pass: fluffycat-fr-02
+pass: fluffycat-fr-01
+pass: fluffycat-fr-02 (1 retry)
 pass: google
 pass: he
 pass: ibksturm
@@ -280,7 +280,7 @@ pass: scaleway-ams
 pass: scaleway-fr
 pass: serbica
 pass: sfw.scaleway-fr
-pass: sth-ads-doh-se (1 retry)
+pass: sth-ads-doh-se
 pass: sth-dnscrypt-se
 pass: sth-doh-se
 pass: switch
