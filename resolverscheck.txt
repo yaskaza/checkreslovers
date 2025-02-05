@@ -55,6 +55,7 @@ pass: cs-de
 pass: cs-dk
 pass: cs-dus3
 pass: cs-finland
+pass: cs-fr
 pass: cs-ga
 pass: cs-il2
 pass: cs-ireland
