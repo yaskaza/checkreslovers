@@ -161,7 +161,6 @@ pass: dnscry.pt-moscow-ipv4
 pass: dnscry.pt-mumbai-ipv4
 pass: dnscry.pt-munich-ipv4
 pass: dnscry.pt-naaldwijk-ipv4
-pass: dnscry.pt-newyork-ipv4
 pass: dnscry.pt-nuremberg-ipv4
 pass: dnscry.pt-oradea-ipv4
 pass: dnscry.pt-ottoville-ipv4
@@ -226,9 +225,8 @@ pass: doh.tiarap.org
 pass: easymosdns-doh
 pass: faelix-uk-ipv4
 pass: fdn
-pass: ffmuc.net (2 retries)
-pass: fluffycat-fr-01 (1 retry)
-pass: fluffycat-fr-02 (1 retry)
+pass: fluffycat-fr-01
+pass: fluffycat-fr-02
 pass: google
 pass: he
 pass: ibksturm
@@ -263,10 +261,10 @@ pass: quad9-dnscrypt-ip4-filter-ecs-pri
 pass: quad9-dnscrypt-ip4-filter-pri
 pass: quad9-dnscrypt-ip4-nofilter-ecs-pri
 pass: quad9-dnscrypt-ip4-nofilter-pri
-pass: quad9-doh-ip4-port443-filter-ecs-pri
-pass: quad9-doh-ip4-port443-filter-pri
-pass: quad9-doh-ip4-port443-nofilter-ecs-pri
-pass: quad9-doh-ip4-port443-nofilter-pri
+pass: quad9-doh-ip4-port5053-filter-ecs-pri
+pass: quad9-doh-ip4-port5053-filter-pri
+pass: quad9-doh-ip4-port5053-nofilter-ecs-pri
+pass: quad9-doh-ip4-port5053-nofilter-pri
 pass: restena-doh-ipv4
 pass: rethinkdns-doh
 pass: safesurfer
