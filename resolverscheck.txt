@@ -155,7 +155,6 @@ pass: dnscry.pt-luxembourg-ipv4
 pass: dnscry.pt-madrid-ipv4
 pass: dnscry.pt-manchester-ipv4
 pass: dnscry.pt-miami-ipv4
-pass: dnscry.pt-milan-ipv4
 pass: dnscry.pt-montreal-ipv4
 pass: dnscry.pt-moscow-ipv4
 pass: dnscry.pt-mumbai-ipv4
