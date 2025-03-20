@@ -27,8 +27,10 @@ pass: cisco-doh
 pass: cisco-familyshield
 pass: cisco-sandbox
 pass: cleanbrowsing-adult
+pass: cleanbrowsing-adult (2 retries)
 pass: cleanbrowsing-adult-doh
 pass: cleanbrowsing-family
+pass: cleanbrowsing-family (1 retry)
 pass: cleanbrowsing-family-doh
 pass: cleanbrowsing-security
 pass: cleanbrowsing-security-doh
@@ -104,7 +106,6 @@ pass: dnscry.pt-athens-ipv4
 pass: dnscry.pt-atlanta-ipv4
 pass: dnscry.pt-auckland-ipv4
 pass: dnscry.pt-bengaluru-ipv4
-pass: dnscry.pt-bogota-ipv4
 pass: dnscry.pt-bratislava-ipv4
 pass: dnscry.pt-brisbane-ipv4
 pass: dnscry.pt-brussels-ipv4
@@ -165,7 +166,6 @@ pass: dnscry.pt-ottoville-ipv4
 pass: dnscry.pt-paris-ipv4
 pass: dnscry.pt-philadelphia-ipv4
 pass: dnscry.pt-phoenix-ipv4
-pass: dnscry.pt-portedwards-ipv4
 pass: dnscry.pt-portland-ipv4
 pass: dnscry.pt-prague-ipv4
 pass: dnscry.pt-redditch-ipv4
@@ -187,7 +187,6 @@ pass: dnscry.pt-tallinn-ipv4
 pass: dnscry.pt-tampa-ipv4
 pass: dnscry.pt-taos-ipv4
 pass: dnscry.pt-tbilisi-ipv4
-pass: dnscry.pt-telaviv-ipv4
 pass: dnscry.pt-tokyo-ipv4
 pass: dnscry.pt-tokyo02-ipv4
 pass: dnscry.pt-toronto-ipv4
@@ -221,7 +220,7 @@ pass: doh.tiar.app-doh
 pass: doh.tiarap.org
 pass: faelix-uk-ipv4
 pass: fdn
-pass: fluffycat-fr-01 (1 retry)
+pass: fluffycat-fr-01
 pass: google
 pass: he
 pass: ibksturm
@@ -255,9 +254,15 @@ pass: quad9-dnscrypt-ip4-filter-ecs-pri
 pass: quad9-dnscrypt-ip4-filter-pri
 pass: quad9-dnscrypt-ip4-nofilter-ecs-pri
 pass: quad9-dnscrypt-ip4-nofilter-pri
+pass: quad9-doh-ip4-port443-filter-ecs-pri
+pass: quad9-doh-ip4-port443-filter-pri
+pass: quad9-doh-ip4-port443-nofilter-ecs-pri
+pass: quad9-doh-ip4-port443-nofilter-pri
 pass: quad9-doh-ip4-port5053-filter-ecs-pri
 pass: quad9-doh-ip4-port5053-filter-pri
+pass: quad9-doh-ip4-port5053-filter-pri (1 retry)
 pass: quad9-doh-ip4-port5053-nofilter-ecs-pri
+pass: quad9-doh-ip4-port5053-nofilter-ecs-pri (1 retry)
 pass: quad9-doh-ip4-port5053-nofilter-pri
 pass: restena-doh-ipv4
 pass: rethinkdns-doh
