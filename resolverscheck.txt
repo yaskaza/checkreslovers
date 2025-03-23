@@ -219,7 +219,8 @@ pass: doh.tiar.app-doh
 pass: doh.tiarap.org
 pass: faelix-uk-ipv4
 pass: fdn
-pass: fluffycat-fr-01
+pass: ffmuc.net (2 retries)
+pass: fluffycat-fr-01 (1 retry)
 pass: google
 pass: he
 pass: ibksturm
@@ -267,8 +268,6 @@ pass: scaleway-ams
 pass: scaleway-fr
 pass: serbica
 pass: sfw.scaleway-fr
-pass: sth-ads-doh-se
-pass: sth-doh-se
 pass: switch
 pass: uncensoreddns-dk-ipv4
 pass: uncensoreddns-ipv4
