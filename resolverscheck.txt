@@ -183,7 +183,6 @@ pass: dnscry.pt-sydney-ipv4
 pass: dnscry.pt-sydney02-ipv4
 pass: dnscry.pt-taipeh-ipv4
 pass: dnscry.pt-tallinn-ipv4
-pass: dnscry.pt-tampa-ipv4
 pass: dnscry.pt-taos-ipv4
 pass: dnscry.pt-tbilisi-ipv4
 pass: dnscry.pt-tokyo-ipv4
@@ -219,8 +218,7 @@ pass: doh.tiar.app-doh
 pass: doh.tiarap.org
 pass: faelix-uk-ipv4
 pass: fdn
-pass: ffmuc.net (2 retries)
-pass: fluffycat-fr-01 (1 retry)
+pass: fluffycat-fr-01
 pass: google
 pass: he
 pass: ibksturm
@@ -242,12 +240,6 @@ pass: nextdns-ultralow
 pass: nic.cz
 pass: njalla-doh
 pass: nwps.fi
-pass: plan9dns-fl
-pass: plan9dns-fl-doh
-pass: plan9dns-mx
-pass: plan9dns-mx-doh
-pass: plan9dns-nj
-pass: plan9dns-nj-doh
 pass: qihoo360-doh
 pass: quad101
 pass: quad9-dnscrypt-ip4-filter-ecs-pri
@@ -260,6 +252,7 @@ pass: quad9-doh-ip4-port443-nofilter-ecs-pri
 pass: quad9-doh-ip4-port443-nofilter-pri
 pass: restena-doh-ipv4
 pass: rethinkdns-doh
+pass: rethinkdns-doh (2 retries)
 pass: safesurfer
 pass: safesurfer-doh
 pass: saldns02-conoha-ipv4
