@@ -11,9 +11,6 @@ pass: adguard-dns-unfiltered-doh
 pass: ahadns-doh-la
 pass: alidns-doh
 pass: alidns-doh-ipv6
-pass: ams-ads-doh-nl
-pass: ams-dnscrypt-nl
-pass: ams-doh-nl
 pass: artikel10-doh-ipv4
 pass: blahdns-de-dnscrypt-v4
 pass: blahdns-de-doh
@@ -36,6 +33,7 @@ pass: cloudflare
 pass: cloudflare-family
 pass: cloudflare-security
 pass: comodo-02
+pass: comss.one
 pass: controld-block-malware
 pass: controld-block-malware-ad
 pass: controld-block-malware-ad-social
@@ -219,6 +217,7 @@ pass: doh.tiar.app-doh
 pass: doh.tiarap.org
 pass: faelix-uk-ipv4
 pass: fdn
+pass: ffmuc.net (1 retry)
 pass: fluffycat-fr-01
 pass: google
 pass: he
@@ -253,10 +252,10 @@ pass: quad9-dnscrypt-ip4-filter-ecs-pri
 pass: quad9-dnscrypt-ip4-filter-pri
 pass: quad9-dnscrypt-ip4-nofilter-ecs-pri
 pass: quad9-dnscrypt-ip4-nofilter-pri
-pass: quad9-doh-ip4-port443-filter-ecs-pri
-pass: quad9-doh-ip4-port443-filter-pri
-pass: quad9-doh-ip4-port443-nofilter-ecs-pri
-pass: quad9-doh-ip4-port443-nofilter-pri
+pass: quad9-doh-ip4-port5053-filter-ecs-pri
+pass: quad9-doh-ip4-port5053-filter-pri
+pass: quad9-doh-ip4-port5053-nofilter-ecs-pri
+pass: quad9-doh-ip4-port5053-nofilter-pri
 pass: restena-doh-ipv4
 pass: rethinkdns-doh
 pass: safesurfer
