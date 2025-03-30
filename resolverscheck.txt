@@ -217,7 +217,7 @@ pass: doh.tiar.app-doh
 pass: doh.tiarap.org
 pass: faelix-uk-ipv4
 pass: fdn
-pass: fluffycat-fr-01 (1 retry)
+pass: fluffycat-fr-01
 pass: google
 pass: he
 pass: ibksturm
@@ -239,12 +239,6 @@ pass: nextdns-ultralow
 pass: nic.cz
 pass: njalla-doh
 pass: nwps.fi
-pass: plan9dns-fl
-pass: plan9dns-fl-doh
-pass: plan9dns-mx
-pass: plan9dns-mx-doh
-pass: plan9dns-nj
-pass: plan9dns-nj-doh
 pass: qihoo360-doh
 pass: quad101
 pass: quad9-dnscrypt-ip4-filter-ecs-pri
@@ -266,6 +260,7 @@ pass: scaleway-fr
 pass: serbica
 pass: sfw.scaleway-fr
 pass: switch
+pass: switch (2 retries)
 pass: uncensoreddns-dk-ipv4
 pass: uncensoreddns-ipv4
 pass: userspace-australia
