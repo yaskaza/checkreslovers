@@ -260,7 +260,6 @@ pass: scaleway-fr
 pass: serbica
 pass: sfw.scaleway-fr
 pass: switch
-pass: switch (2 retries)
 pass: uncensoreddns-dk-ipv4
 pass: uncensoreddns-ipv4
 pass: userspace-australia
