@@ -23,10 +23,11 @@ pass: cisco
 pass: cisco-doh
 pass: cisco-familyshield
 pass: cisco-sandbox
+pass: cleanbrowsing-adult
 pass: cleanbrowsing-adult-doh
-pass: cleanbrowsing-family (1 retry)
+pass: cleanbrowsing-family
 pass: cleanbrowsing-family-doh
-pass: cleanbrowsing-security (3 retries)
+pass: cleanbrowsing-security
 pass: cleanbrowsing-security-doh
 pass: cloudflare
 pass: cloudflare-family
@@ -250,10 +251,6 @@ pass: quad9-dnscrypt-ip4-filter-ecs-pri
 pass: quad9-dnscrypt-ip4-filter-pri
 pass: quad9-dnscrypt-ip4-nofilter-ecs-pri
 pass: quad9-dnscrypt-ip4-nofilter-pri
-pass: quad9-doh-ip4-port443-filter-ecs-pri
-pass: quad9-doh-ip4-port443-filter-pri
-pass: quad9-doh-ip4-port443-nofilter-ecs-pri
-pass: quad9-doh-ip4-port443-nofilter-pri
 pass: quad9-doh-ip4-port5053-filter-ecs-pri
 pass: quad9-doh-ip4-port5053-filter-pri
 pass: quad9-doh-ip4-port5053-nofilter-ecs-pri
