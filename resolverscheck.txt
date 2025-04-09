@@ -52,7 +52,6 @@ pass: cs-dc
 pass: cs-de
 pass: cs-dk
 pass: cs-dus3
-pass: cs-finland
 pass: cs-fr
 pass: cs-ga
 pass: cs-il2
@@ -82,7 +81,7 @@ pass: cs-swe
 pass: cs-sydney
 pass: cs-tokyo
 pass: cs-tx
-pass: cs-vancouver (1 retry)
+pass: cs-vancouver
 pass: dct-de
 pass: dct-fr
 pass: deffer-dns.au
@@ -112,7 +111,7 @@ pass: dnscry.pt-chisinau-ipv4
 pass: dnscry.pt-copenhagen-ipv4
 pass: dnscry.pt-coventry-ipv4
 pass: dnscry.pt-dallas-ipv4
-pass: dnscry.pt-denver-ipv4 (2 retries)
+pass: dnscry.pt-denver-ipv4
 pass: dnscry.pt-detroit-ipv4
 pass: dnscry.pt-dublin-ipv4
 pass: dnscry.pt-durham-ipv4
@@ -158,7 +157,7 @@ pass: dnscry.pt-munich-ipv4
 pass: dnscry.pt-naaldwijk-ipv4
 pass: dnscry.pt-nuremberg-ipv4
 pass: dnscry.pt-oradea-ipv4
-pass: dnscry.pt-ottoville-ipv4 (1 retry)
+pass: dnscry.pt-ottoville-ipv4
 pass: dnscry.pt-paris-ipv4
 pass: dnscry.pt-philadelphia-ipv4
 pass: dnscry.pt-phoenix-ipv4
@@ -217,8 +216,7 @@ pass: doh.tiar.app-doh
 pass: doh.tiarap.org
 pass: faelix-uk-ipv4
 pass: fdn
-pass: ffmuc.net (1 retry)
-pass: fluffycat-fr-01 (1 retry)
+pass: fluffycat-fr-01
 pass: google
 pass: he
 pass: ibksturm
