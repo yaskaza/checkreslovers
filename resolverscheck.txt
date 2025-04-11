@@ -100,7 +100,6 @@ pass: dnscry.pt-ashburn-ipv4
 pass: dnscry.pt-athens-ipv4
 pass: dnscry.pt-atlanta-ipv4
 pass: dnscry.pt-auckland-ipv4
-pass: dnscry.pt-bengaluru-ipv4
 pass: dnscry.pt-bratislava-ipv4
 pass: dnscry.pt-brisbane-ipv4
 pass: dnscry.pt-brussels-ipv4
@@ -128,8 +127,7 @@ pass: dnscry.pt-halifax-ipv4
 pass: dnscry.pt-hanoi-ipv4
 pass: dnscry.pt-helsinki-ipv4
 pass: dnscry.pt-hochiminhcity-ipv4
-pass: dnscry.pt-hongkong-ipv4
-pass: dnscry.pt-hongkong02-ipv4
+pass: dnscry.pt-hongkong-ipv4 (2 retries)
 pass: dnscry.pt-hudiksvall-ipv4
 pass: dnscry.pt-islamabad-ipv4
 pass: dnscry.pt-jacksonville-ipv4
@@ -215,7 +213,8 @@ pass: doh.tiar.app-doh
 pass: doh.tiarap.org
 pass: faelix-uk-ipv4
 pass: fdn
-pass: fluffycat-fr-01 (2 retries)
+pass: ffmuc.net (3 retries)
+pass: fluffycat-fr-01
 pass: google
 pass: he
 pass: ibksturm
@@ -237,16 +236,18 @@ pass: nextdns-ultralow
 pass: nic.cz
 pass: njalla-doh
 pass: nwps.fi
+pass: plan9dns-fl
+pass: plan9dns-fl-doh
+pass: plan9dns-mx
+pass: plan9dns-mx-doh
+pass: plan9dns-nj
+pass: plan9dns-nj-doh
 pass: qihoo360-doh
 pass: quad101
 pass: quad9-dnscrypt-ip4-filter-ecs-pri
 pass: quad9-dnscrypt-ip4-filter-pri
 pass: quad9-dnscrypt-ip4-nofilter-ecs-pri
 pass: quad9-dnscrypt-ip4-nofilter-pri
-pass: quad9-doh-ip4-port443-filter-ecs-pri
-pass: quad9-doh-ip4-port443-filter-pri
-pass: quad9-doh-ip4-port443-nofilter-ecs-pri
-pass: quad9-doh-ip4-port443-nofilter-pri
 pass: quad9-doh-ip4-port5053-filter-ecs-pri
 pass: quad9-doh-ip4-port5053-filter-pri
 pass: quad9-doh-ip4-port5053-nofilter-ecs-pri
