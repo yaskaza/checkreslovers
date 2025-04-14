@@ -129,7 +129,6 @@ pass: dnscry.pt-halifax-ipv4
 pass: dnscry.pt-hanoi-ipv4
 pass: dnscry.pt-helsinki-ipv4
 pass: dnscry.pt-hochiminhcity-ipv4
-pass: dnscry.pt-hongkong-ipv4
 pass: dnscry.pt-hongkong02-ipv4
 pass: dnscry.pt-hudiksvall-ipv4
 pass: dnscry.pt-islamabad-ipv4
@@ -216,8 +215,8 @@ pass: doh.tiar.app-doh
 pass: doh.tiarap.org
 pass: faelix-uk-ipv4
 pass: fdn
-pass: ffmuc.net
-pass: fluffycat-fr-01
+pass: ffmuc.net (1 retry)
+pass: fluffycat-fr-01 (1 retry)
 pass: google
 pass: he
 pass: ibksturm
