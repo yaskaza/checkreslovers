@@ -25,9 +25,9 @@ pass: cisco-familyshield
 pass: cisco-sandbox
 pass: cleanbrowsing-adult
 pass: cleanbrowsing-adult-doh
-pass: cleanbrowsing-family (1 retry)
+pass: cleanbrowsing-family
 pass: cleanbrowsing-family-doh
-pass: cleanbrowsing-security (1 retry)
+pass: cleanbrowsing-security
 pass: cleanbrowsing-security-doh
 pass: cloudflare
 pass: cloudflare-family
@@ -44,6 +44,7 @@ pass: cs-austria
 pass: cs-barcelona
 pass: cs-belgium
 pass: cs-berlin
+pass: cs-brazil
 pass: cs-bulgaria
 pass: cs-ch
 pass: cs-czech
@@ -67,9 +68,10 @@ pass: cs-montreal
 pass: cs-nc
 pass: cs-nl
 pass: cs-norway
-pass: cs-nv
+pass: cs-nv (3 retries)
 pass: cs-ore
 pass: cs-poland
+pass: cs-pt
 pass: cs-ro
 pass: cs-rome
 pass: cs-serbia
@@ -167,7 +169,6 @@ pass: dnscry.pt-saltlakecity-ipv4
 pass: dnscry.pt-sandefjord-ipv4
 pass: dnscry.pt-santaclara-ipv4
 pass: dnscry.pt-saopaulo-ipv4
-pass: dnscry.pt-seattle-ipv4
 pass: dnscry.pt-seoul-ipv4
 pass: dnscry.pt-singapore02-ipv4
 pass: dnscry.pt-sofia-ipv4
@@ -213,7 +214,7 @@ pass: doh.tiar.app-doh
 pass: doh.tiarap.org
 pass: faelix-uk-ipv4
 pass: fdn
-pass: fluffycat-fr-01 (2 retries)
+pass: fluffycat-fr-01
 pass: google
 pass: he
 pass: ibksturm
@@ -235,6 +236,12 @@ pass: nextdns-ultralow
 pass: nic.cz
 pass: njalla-doh
 pass: nwps.fi
+pass: plan9dns-fl
+pass: plan9dns-fl-doh
+pass: plan9dns-mx
+pass: plan9dns-mx-doh
+pass: plan9dns-nj
+pass: plan9dns-nj-doh
 pass: qihoo360-doh
 pass: quad101
 pass: quad9-dnscrypt-ip4-filter-ecs-pri
