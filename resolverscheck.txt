@@ -68,7 +68,6 @@ pass: cs-montreal
 pass: cs-nc
 pass: cs-nl
 pass: cs-norway
-pass: cs-nv (3 retries)
 pass: cs-ore
 pass: cs-poland
 pass: cs-pt
@@ -111,6 +110,7 @@ pass: dnscry.pt-chicago-ipv4
 pass: dnscry.pt-chisinau-ipv4
 pass: dnscry.pt-copenhagen-ipv4
 pass: dnscry.pt-coventry-ipv4
+pass: dnscry.pt-dallas-ipv4
 pass: dnscry.pt-denver-ipv4
 pass: dnscry.pt-detroit-ipv4
 pass: dnscry.pt-dublin-ipv4
@@ -169,6 +169,7 @@ pass: dnscry.pt-saltlakecity-ipv4
 pass: dnscry.pt-sandefjord-ipv4
 pass: dnscry.pt-santaclara-ipv4
 pass: dnscry.pt-saopaulo-ipv4
+pass: dnscry.pt-seattle-ipv4
 pass: dnscry.pt-seoul-ipv4
 pass: dnscry.pt-singapore02-ipv4
 pass: dnscry.pt-sofia-ipv4
@@ -214,7 +215,8 @@ pass: doh.tiar.app-doh
 pass: doh.tiarap.org
 pass: faelix-uk-ipv4
 pass: fdn
-pass: fluffycat-fr-01
+pass: ffmuc.net
+pass: fluffycat-fr-01 (3 retries)
 pass: google
 pass: he
 pass: ibksturm
@@ -248,10 +250,6 @@ pass: quad9-dnscrypt-ip4-filter-ecs-pri
 pass: quad9-dnscrypt-ip4-filter-pri
 pass: quad9-dnscrypt-ip4-nofilter-ecs-pri
 pass: quad9-dnscrypt-ip4-nofilter-pri
-pass: quad9-doh-ip4-port443-filter-ecs-pri
-pass: quad9-doh-ip4-port443-filter-pri
-pass: quad9-doh-ip4-port443-nofilter-ecs-pri
-pass: quad9-doh-ip4-port443-nofilter-pri
 pass: quad9-doh-ip4-port5053-filter-ecs-pri
 pass: quad9-doh-ip4-port5053-filter-pri
 pass: quad9-doh-ip4-port5053-nofilter-ecs-pri
