@@ -215,9 +215,9 @@ pass: doh.tiar.app-doh
 pass: doh.tiarap.org
 pass: faelix-uk-ipv4
 pass: fdn
-pass: fluffycat-fr-01 (3 retries)
+pass: fluffycat-fr-01 (1 retry)
 pass: google
-pass: he (3 retries)
+pass: he
 pass: ibksturm
 pass: iij
 pass: jp.tiar.app
