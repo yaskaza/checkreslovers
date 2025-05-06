@@ -15,6 +15,7 @@ pass: artikel10-doh-ipv4
 pass: blahdns-de-dnscrypt-v4
 pass: blahdns-de-doh
 pass: blahdns-sg-dnscrypt-v4
+pass: blahdns-sg-doh
 pass: bortzmeyer
 pass: brahma-world
 pass: cisco
@@ -212,7 +213,7 @@ pass: doh.tiarap.org
 pass: faelix-uk-ipv4
 pass: fdn
 pass: google
-pass: he
+pass: he (2 retries)
 pass: ibksturm
 pass: iij
 pass: jp.tiar.app
