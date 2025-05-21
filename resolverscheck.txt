@@ -14,8 +14,6 @@ pass: alidns-doh-ipv6
 pass: artikel10-doh-ipv4
 pass: blahdns-de-dnscrypt-v4
 pass: blahdns-de-doh
-pass: blahdns-sg-dnscrypt-v4
-pass: blahdns-sg-doh
 pass: bortzmeyer
 pass: brahma-world
 pass: cisco
@@ -61,7 +59,6 @@ pass: cs-london
 pass: cs-lv
 pass: cs-madrid
 pass: cs-manchester
-pass: cs-mexico
 pass: cs-milan
 pass: cs-montreal
 pass: cs-nc
@@ -82,6 +79,7 @@ pass: cs-tokyo
 pass: cs-tx
 pass: cs-vancouver
 pass: dct-de
+pass: dct-fr
 pass: deffer-dns.au
 pass: digitalprivacy.diy-dnscrypt-ipv4
 pass: dns.digitale-gesellschaft.ch
