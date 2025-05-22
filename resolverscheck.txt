@@ -51,7 +51,6 @@ pass: cs-dk
 pass: cs-dus3
 pass: cs-finland
 pass: cs-fr
-pass: cs-ga
 pass: cs-il2
 pass: cs-ireland
 pass: cs-la
@@ -106,7 +105,6 @@ pass: dnscry.pt-chicago-ipv4
 pass: dnscry.pt-chisinau-ipv4
 pass: dnscry.pt-copenhagen-ipv4
 pass: dnscry.pt-coventry-ipv4
-pass: dnscry.pt-dallas-ipv4
 pass: dnscry.pt-denver-ipv4
 pass: dnscry.pt-detroit-ipv4
 pass: dnscry.pt-dublin-ipv4
