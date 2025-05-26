@@ -12,6 +12,9 @@ pass: ahadns-doh-la
 pass: alidns-doh
 pass: alidns-doh-ipv6
 pass: artikel10-doh-ipv4
+pass: blahdns-de-doh
+pass: blahdns-sg-dnscrypt-v4
+pass: blahdns-sg-doh
 pass: bortzmeyer
 pass: brahma-world
 pass: cisco
@@ -201,13 +204,12 @@ pass: doh-ibksturm
 pass: doh.appliedprivacy.net
 pass: doh.ffmuc.net
 pass: doh.ffmuc.net-2
-pass: doh.tiar.app
 pass: doh.tiar.app-doh
 pass: doh.tiarap.org
 pass: faelix-uk-ipv4
 pass: fdn
-pass: ffmuc.net (3 retries)
 pass: google
+pass: he
 pass: ibksturm
 pass: iij
 pass: jp.tiar.app
