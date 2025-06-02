@@ -103,7 +103,6 @@ pass: dnscry.pt-bucharest-ipv4
 pass: dnscry.pt-calgary-ipv4
 pass: dnscry.pt-chicago-ipv4
 pass: dnscry.pt-chisinau-ipv4
-pass: dnscry.pt-copenhagen-ipv4
 pass: dnscry.pt-coventry-ipv4
 pass: dnscry.pt-dallas-ipv4
 pass: dnscry.pt-denver-ipv4
@@ -201,13 +200,12 @@ pass: doh-ibksturm
 pass: doh.appliedprivacy.net
 pass: doh.ffmuc.net
 pass: doh.ffmuc.net-2
-pass: doh.tiar.app
 pass: doh.tiar.app-doh
 pass: doh.tiarap.org
 pass: faelix-uk-ipv4
 pass: fdn
 pass: google
-pass: he (2 retries)
+pass: he
 pass: ibksturm
 pass: iij
 pass: jp.tiar.app
