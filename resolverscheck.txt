@@ -122,7 +122,6 @@ pass: dnscry.pt-hanoi-ipv4
 pass: dnscry.pt-helsinki-ipv4
 pass: dnscry.pt-hochiminhcity-ipv4
 pass: dnscry.pt-hongkong-ipv4
-pass: dnscry.pt-hongkong02-ipv4 (1 retry)
 pass: dnscry.pt-hudiksvall-ipv4
 pass: dnscry.pt-jacksonville-ipv4
 pass: dnscry.pt-johannesburg-ipv4
@@ -157,7 +156,6 @@ pass: dnscry.pt-prague-ipv4
 pass: dnscry.pt-redditch-ipv4
 pass: dnscry.pt-riga-ipv4
 pass: dnscry.pt-saltlakecity-ipv4
-pass: dnscry.pt-sandefjord-ipv4
 pass: dnscry.pt-santaclara-ipv4
 pass: dnscry.pt-saopaulo-ipv4
 pass: dnscry.pt-seattle-ipv4
@@ -184,7 +182,6 @@ pass: dnscry.pt-yerevan-ipv4
 pass: dnscrypt.ca-ipv4
 pass: dnscrypt.ca-ipv4-doh
 pass: dnscrypt.pl
-pass: dnscrypt.pl-guardian
 pass: dnscrypt.uk-ipv4
 pass: dnsforfamily
 pass: dnsforfamily-no-safe-search
@@ -204,7 +201,6 @@ pass: doh.tiar.app-doh
 pass: doh.tiarap.org
 pass: faelix-uk-ipv4
 pass: fdn
-pass: ffmuc.net
 pass: google
 pass: he
 pass: ibksturm
