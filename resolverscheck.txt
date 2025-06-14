@@ -143,7 +143,6 @@ pass: dnscry.pt-miami-ipv4
 pass: dnscry.pt-montreal-ipv4
 pass: dnscry.pt-moscow-ipv4
 pass: dnscry.pt-mumbai-ipv4
-pass: dnscry.pt-munich-ipv4
 pass: dnscry.pt-naaldwijk-ipv4
 pass: dnscry.pt-nuremberg-ipv4
 pass: dnscry.pt-oradea-ipv4
@@ -183,6 +182,7 @@ pass: dnscry.pt-yerevan-ipv4
 pass: dnscrypt.ca-ipv4
 pass: dnscrypt.ca-ipv4-doh
 pass: dnscrypt.pl
+pass: dnscrypt.pl-guardian
 pass: dnscrypt.uk-ipv4
 pass: dnsforfamily
 pass: dnsforfamily-no-safe-search
@@ -227,7 +227,6 @@ pass: plan9dns-fl
 pass: plan9dns-fl-doh
 pass: plan9dns-mx
 pass: plan9dns-mx-doh
-pass: plan9dns-nj
 pass: plan9dns-nj-doh
 pass: qihoo360-doh
 pass: quad101
