@@ -37,14 +37,44 @@ pass: controld-block-malware-ad-social
 pass: controld-family-friendly
 pass: controld-uncensored
 pass: controld-unfiltered
+pass: cs-austria
+pass: cs-barcelona
+pass: cs-belgium
+pass: cs-berlin
+pass: cs-brazil
+pass: cs-ch
+pass: cs-czech
 pass: cs-dc
+pass: cs-de
+pass: cs-dus
+pass: cs-finland
 pass: cs-fl
+pass: cs-fr
+pass: cs-ga
+pass: cs-hungary
+pass: cs-il
+pass: cs-india
 pass: cs-la
+pass: cs-london
+pass: cs-manchester
+pass: cs-md
+pass: cs-milan
 pass: cs-montreal
+pass: cs-nl
+pass: cs-norway
 pass: cs-nv
 pass: cs-nyc
 pass: cs-ore
+pass: cs-poland
+pass: cs-pt
+pass: cs-ro
 pass: cs-sea
+pass: cs-serbia
+pass: cs-singapore
+pass: cs-sk
+pass: cs-swe
+pass: cs-sydney
+pass: cs-tokyo
 pass: cs-tx
 pass: cs-vancouver
 pass: dct-de
@@ -54,26 +84,25 @@ pass: digitalprivacy.diy-dnscrypt-ipv4
 pass: dns.digitale-gesellschaft.ch
 pass: dns.digitalsize.net
 pass: dns.sb
-pass: dns.sb (1 retry)
 pass: dns0
 pass: dns0-kids
 pass: dns0-unfiltered
 pass: dns4all-ipv4
 pass: dnscry.pt-allentown-ipv4
-pass: dnscry.pt-amsterdam-ipv4 (1 retry)
+pass: dnscry.pt-amsterdam-ipv4
 pass: dnscry.pt-amsterdam02-ipv4
-pass: dnscry.pt-ashburn-ipv4
-pass: dnscry.pt-athens-ipv4 (1 retry)
+pass: dnscry.pt-ashburn-ipv4 (1 retry)
+pass: dnscry.pt-athens-ipv4
 pass: dnscry.pt-atlanta-ipv4
 pass: dnscry.pt-auckland-ipv4
 pass: dnscry.pt-bengaluru-ipv4
-pass: dnscry.pt-bratislava-ipv4 (1 retry)
+pass: dnscry.pt-bratislava-ipv4
 pass: dnscry.pt-brisbane-ipv4
 pass: dnscry.pt-brussels-ipv4
 pass: dnscry.pt-bucharest-ipv4
 pass: dnscry.pt-calgary-ipv4
 pass: dnscry.pt-chicago-ipv4
-pass: dnscry.pt-chisinau-ipv4 (2 retries)
+pass: dnscry.pt-chisinau-ipv4
 pass: dnscry.pt-coventry-ipv4
 pass: dnscry.pt-dallas-ipv4
 pass: dnscry.pt-denver-ipv4
@@ -89,7 +118,7 @@ pass: dnscry.pt-geneva-ipv4
 pass: dnscry.pt-grandrapids-ipv4
 pass: dnscry.pt-hafnarfjordur-ipv4
 pass: dnscry.pt-halifax-ipv4
-pass: dnscry.pt-hanoi-ipv4 (1 retry)
+pass: dnscry.pt-hanoi-ipv4
 pass: dnscry.pt-helsinki-ipv4
 pass: dnscry.pt-hochiminhcity-ipv4
 pass: dnscry.pt-hongkong-ipv4
@@ -104,53 +133,58 @@ pass: dnscry.pt-lagos-ipv4
 pass: dnscry.pt-lasvegas-ipv4
 pass: dnscry.pt-libertylake-ipv4
 pass: dnscry.pt-lima02-ipv4
+pass: dnscry.pt-lisbon-ipv4
 pass: dnscry.pt-london-ipv4
 pass: dnscry.pt-losangeles-ipv4
 pass: dnscry.pt-losangeles02-ipv4
-pass: dnscry.pt-luxembourg-ipv4 (1 retry)
+pass: dnscry.pt-luxembourg-ipv4
 pass: dnscry.pt-madrid-ipv4
 pass: dnscry.pt-manchester-ipv4
 pass: dnscry.pt-miami-ipv4
 pass: dnscry.pt-montreal-ipv4
-pass: dnscry.pt-moscow-ipv4 (1 retry)
-pass: dnscry.pt-mumbai-ipv4 (2 retries)
-pass: dnscry.pt-munich-ipv4 (1 retry)
-pass: dnscry.pt-nuremberg-ipv4 (2 retries)
+pass: dnscry.pt-moscow-ipv4
+pass: dnscry.pt-mumbai-ipv4
+pass: dnscry.pt-munich-ipv4
+pass: dnscry.pt-naaldwijk-ipv4
+pass: dnscry.pt-nuremberg-ipv4
 pass: dnscry.pt-oradea-ipv4
 pass: dnscry.pt-ottoville-ipv4
-pass: dnscry.pt-paris-ipv4 (2 retries)
+pass: dnscry.pt-paris-ipv4
 pass: dnscry.pt-philadelphia-ipv4
 pass: dnscry.pt-portedwards-ipv4
 pass: dnscry.pt-portland-ipv4
-pass: dnscry.pt-prague-ipv4 (2 retries)
+pass: dnscry.pt-prague-ipv4
 pass: dnscry.pt-redditch-ipv4
 pass: dnscry.pt-riga-ipv4
 pass: dnscry.pt-saltlakecity-ipv4
-pass: dnscry.pt-sandefjord-ipv4 (1 retry)
+pass: dnscry.pt-sandefjord-ipv4
 pass: dnscry.pt-santaclara-ipv4
 pass: dnscry.pt-saopaulo-ipv4
-pass: dnscry.pt-seoul-ipv4 (1 retry)
+pass: dnscry.pt-seattle-ipv4
+pass: dnscry.pt-seoul-ipv4
 pass: dnscry.pt-singapore02-ipv4
-pass: dnscry.pt-sofia-ipv4 (1 retry)
+pass: dnscry.pt-sofia-ipv4
 pass: dnscry.pt-spokane-ipv4
 pass: dnscry.pt-stockholm-ipv4
-pass: dnscry.pt-sydney02-ipv4 (2 retries)
+pass: dnscry.pt-sydney02-ipv4
 pass: dnscry.pt-tallinn-ipv4
 pass: dnscry.pt-tampa-ipv4
 pass: dnscry.pt-taos-ipv4
-pass: dnscry.pt-tbilisi-ipv4 (2 retries)
+pass: dnscry.pt-tbilisi-ipv4
 pass: dnscry.pt-tokyo-ipv4
-pass: dnscry.pt-tokyo02-ipv4 (1 retry)
+pass: dnscry.pt-tokyo02-ipv4
 pass: dnscry.pt-toronto-ipv4
-pass: dnscry.pt-tuusula-ipv4 (2 retries)
-pass: dnscry.pt-valdivia-ipv4 (2 retries)
+pass: dnscry.pt-tuusula-ipv4
+pass: dnscry.pt-valdivia-ipv4
 pass: dnscry.pt-vancouver-ipv4
-pass: dnscry.pt-vienna-ipv4 (1 retry)
-pass: dnscry.pt-vilnius-ipv4 (2 retries)
-pass: dnscry.pt-warsaw02-ipv4 (1 retry)
-pass: dnscry.pt-yerevan-ipv4 (2 retries)
+pass: dnscry.pt-vienna-ipv4
+pass: dnscry.pt-vilnius-ipv4
+pass: dnscry.pt-warsaw02-ipv4
+pass: dnscry.pt-yerevan-ipv4
 pass: dnscrypt.ca-ipv4
 pass: dnscrypt.ca-ipv4-doh
+pass: dnscrypt.pl
+pass: dnscrypt.pl-guardian
 pass: dnscrypt.uk-ipv4
 pass: dnsforfamily
 pass: dnsforfamily-no-safe-search
@@ -161,25 +195,26 @@ pass: doh-cleanbrowsing-adult
 pass: doh-cleanbrowsing-family
 pass: doh-cleanbrowsing-security
 pass: doh-crypto-sx
-pass: doh-crypto-sx (1 retry)
 pass: doh-ibksturm
-pass: doh.appliedprivacy.net (1 retry)
-pass: doh.ffmuc.net (1 retry)
+pass: doh.appliedprivacy.net
+pass: doh.ffmuc.net
 pass: doh.ffmuc.net-2
 pass: doh.tiar.app
 pass: doh.tiar.app-doh
 pass: doh.tiarap.org
 pass: faelix-uk-ipv4
-pass: fdn (2 retries)
+pass: fdn
+pass: ffmuc.net
 pass: google
+pass: he
 pass: ibksturm
 pass: iij
-pass: jp.tiar.app (1 retry)
+pass: jp.tiar.app
 pass: jp.tiar.app-doh
 pass: jp.tiarap.org
 pass: ksol.io-ns2-dnscrypt-ipv4
-pass: libredns (1 retry)
-pass: libredns-noads (1 retry)
+pass: libredns
+pass: libredns-noads
 pass: mullvad-adblock-doh
 pass: mullvad-all-doh
 pass: mullvad-base-doh
@@ -203,24 +238,28 @@ pass: quad9-dnscrypt-ip4-filter-ecs-pri
 pass: quad9-dnscrypt-ip4-filter-pri
 pass: quad9-dnscrypt-ip4-nofilter-ecs-pri
 pass: quad9-dnscrypt-ip4-nofilter-pri
-pass: restena-doh-ipv4 (1 retry)
+pass: quad9-doh-ip4-port443-filter-ecs-pri
+pass: quad9-doh-ip4-port443-filter-pri
+pass: quad9-doh-ip4-port443-nofilter-ecs-pri
+pass: quad9-doh-ip4-port443-nofilter-pri
+pass: restena-doh-ipv4
 pass: rethinkdns-doh
 pass: safesurfer
 pass: safesurfer-doh
-pass: saldns03-conoha-ipv4 (1 retry)
-pass: scaleway-ams (1 retry)
-pass: scaleway-fr (1 retry)
+pass: saldns01-conoha-ipv4
+pass: saldns02-conoha-ipv4
+pass: saldns03-conoha-ipv4
+pass: scaleway-ams
+pass: scaleway-fr
 pass: serbica
 pass: sfw.scaleway-fr
 pass: switch
 pass: uncensoreddns-dk-ipv4
 pass: uncensoreddns-ipv4
 pass: userspace-australia
-pass: userspace-australia (1 retry)
 pass: v.dnscrypt.uk-ipv4
 pass: wikimedia
-pass: yandex (2 retries)
+pass: yandex
 pass: yandex-ipv6
-pass: yandex-safe (1 retry)
-pass: yandex-safe (2 retries)
+pass: yandex-safe
 pass: yandex-safe-ipv6
