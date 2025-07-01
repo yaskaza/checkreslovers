@@ -144,6 +144,7 @@ pass: dnscry.pt-montreal-ipv4
 pass: dnscry.pt-moscow-ipv4
 pass: dnscry.pt-mumbai-ipv4
 pass: dnscry.pt-munich-ipv4
+pass: dnscry.pt-naaldwijk-ipv4
 pass: dnscry.pt-nuremberg-ipv4
 pass: dnscry.pt-oradea-ipv4
 pass: dnscry.pt-ottoville-ipv4
