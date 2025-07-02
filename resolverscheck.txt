@@ -41,7 +41,6 @@ pass: cs-austria
 pass: cs-barcelona
 pass: cs-belgium
 pass: cs-berlin
-pass: cs-brazil
 pass: cs-ch
 pass: cs-czech
 pass: cs-dc
