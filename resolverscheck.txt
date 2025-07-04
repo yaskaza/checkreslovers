@@ -11,7 +11,6 @@ pass: adguard-dns-unfiltered-doh
 pass: ahadns-doh-la
 pass: alidns-doh
 pass: alidns-doh-ipv6
-pass: artikel10-doh-ipv4
 pass: blahdns-sg-dnscrypt-v4
 pass: blahdns-sg-doh
 pass: bortzmeyer
@@ -182,6 +181,7 @@ pass: dnscry.pt-warsaw02-ipv4
 pass: dnscry.pt-yerevan-ipv4
 pass: dnscrypt.ca-ipv4
 pass: dnscrypt.ca-ipv4-doh
+pass: dnscrypt.pl
 pass: dnscrypt.pl-guardian
 pass: dnscrypt.uk-ipv4
 pass: dnsforfamily
