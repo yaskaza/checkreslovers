@@ -202,7 +202,6 @@ pass: doh.tiar.app-doh
 pass: doh.tiarap.org
 pass: faelix-uk-ipv4
 pass: fdn
-pass: ffmuc.net
 pass: google
 pass: he
 pass: ibksturm
