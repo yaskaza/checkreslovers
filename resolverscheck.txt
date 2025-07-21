@@ -168,7 +168,6 @@ pass: dnscry.pt-sydney02-ipv4
 pass: dnscry.pt-tallinn-ipv4
 pass: dnscry.pt-tampa-ipv4
 pass: dnscry.pt-taos-ipv4
-pass: dnscry.pt-tbilisi-ipv4
 pass: dnscry.pt-tokyo-ipv4
 pass: dnscry.pt-tokyo02-ipv4
 pass: dnscry.pt-toronto-ipv4
