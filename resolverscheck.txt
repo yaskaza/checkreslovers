@@ -117,7 +117,7 @@ pass: dnscry.pt-geneva-ipv4
 pass: dnscry.pt-grandrapids-ipv4
 pass: dnscry.pt-hafnarfjordur-ipv4
 pass: dnscry.pt-halifax-ipv4
-pass: dnscry.pt-hanoi-ipv4
+pass: dnscry.pt-hanoi-ipv4 (1 retry)
 pass: dnscry.pt-helsinki-ipv4
 pass: dnscry.pt-hochiminhcity-ipv4
 pass: dnscry.pt-hongkong-ipv4
