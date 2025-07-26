@@ -160,6 +160,7 @@ pass: dnscry.pt-santaclara-ipv4
 pass: dnscry.pt-saopaulo-ipv4
 pass: dnscry.pt-seattle-ipv4
 pass: dnscry.pt-seoul-ipv4
+pass: dnscry.pt-singapore02-ipv4
 pass: dnscry.pt-sofia-ipv4
 pass: dnscry.pt-spokane-ipv4
 pass: dnscry.pt-stockholm-ipv4
