@@ -8,7 +8,7 @@ pass: adguard-dns-family
 pass: adguard-dns-family-doh
 pass: adguard-dns-unfiltered
 pass: adguard-dns-unfiltered-doh
-pass: ahadns-doh-la
+pass: ahadns-doh-la (1 retry)
 pass: alidns-doh
 pass: alidns-doh-ipv6
 pass: blahdns-sg-dnscrypt-v4
@@ -202,7 +202,6 @@ pass: doh.tiar.app-doh
 pass: doh.tiarap.org
 pass: faelix-uk-ipv4
 pass: fdn
-pass: ffmuc.net (1 retry)
 pass: google
 pass: he
 pass: ibksturm
