@@ -119,7 +119,6 @@ pass: dnscry.pt-hanoi-ipv4
 pass: dnscry.pt-helsinki-ipv4
 pass: dnscry.pt-hochiminhcity-ipv4
 pass: dnscry.pt-hongkong-ipv4
-pass: dnscry.pt-hongkong02-ipv4
 pass: dnscry.pt-hudiksvall-ipv4
 pass: dnscry.pt-jacksonville-ipv4
 pass: dnscry.pt-johannesburg-ipv4
