@@ -10,6 +10,7 @@ pass: adguard-dns-unfiltered
 pass: adguard-dns-unfiltered-doh
 pass: ahadns-doh-la
 pass: alidns-doh
+pass: alidns-doh (1 retry)
 pass: alidns-doh-ipv6
 pass: bortzmeyer
 pass: brahma-world
@@ -88,7 +89,6 @@ pass: dns4all-ipv4
 pass: dnscry.pt-allentown-ipv4
 pass: dnscry.pt-amsterdam-ipv4
 pass: dnscry.pt-amsterdam02-ipv4
-pass: dnscry.pt-ashburn-ipv4
 pass: dnscry.pt-athens-ipv4
 pass: dnscry.pt-atlanta-ipv4
 pass: dnscry.pt-auckland-ipv4
@@ -155,7 +155,6 @@ pass: dnscry.pt-saltlakecity-ipv4
 pass: dnscry.pt-sandefjord-ipv4
 pass: dnscry.pt-santaclara-ipv4
 pass: dnscry.pt-saopaulo-ipv4
-pass: dnscry.pt-seattle-ipv4
 pass: dnscry.pt-seoul-ipv4
 pass: dnscry.pt-sofia-ipv4
 pass: dnscry.pt-spokane-ipv4
@@ -219,6 +218,12 @@ pass: nextdns-ultralow
 pass: nic.cz
 pass: njalla-doh
 pass: nwps.fi
+pass: plan9dns-fl
+pass: plan9dns-fl-doh
+pass: plan9dns-mx
+pass: plan9dns-mx-doh
+pass: plan9dns-nj
+pass: plan9dns-nj-doh
 pass: qihoo360-doh
 pass: quad101
 pass: quad9-dnscrypt-ip4-filter-ecs-pri
@@ -231,7 +236,6 @@ pass: quad9-doh-ip4-port443-nofilter-ecs-pri
 pass: quad9-doh-ip4-port443-nofilter-pri
 pass: restena-doh-ipv4
 pass: rethinkdns-doh
-pass: rethinkdns-doh (1 retry)
 pass: safesurfer
 pass: safesurfer-doh
 pass: saldns01-conoha-ipv4
