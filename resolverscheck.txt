@@ -199,7 +199,6 @@ pass: doh.tiarap.org
 pass: faelix-uk-ipv4
 pass: fdn
 pass: google
-pass: he
 pass: ibksturm
 pass: iij
 pass: jp.tiar.app
