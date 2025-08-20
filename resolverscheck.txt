@@ -10,7 +10,7 @@ pass: adguard-dns-unfiltered
 pass: adguard-dns-unfiltered-doh
 pass: ahadns-doh-la
 pass: alidns-doh
-pass: alidns-doh (2 retries)
+pass: alidns-doh (1 retry)
 pass: alidns-doh-ipv6
 pass: blahdns-sg-doh
 pass: bortzmeyer
@@ -120,7 +120,6 @@ pass: dnscry.pt-hanoi-ipv4
 pass: dnscry.pt-helsinki-ipv4
 pass: dnscry.pt-hochiminhcity-ipv4
 pass: dnscry.pt-hongkong-ipv4
-pass: dnscry.pt-hongkong02-ipv4
 pass: dnscry.pt-hudiksvall-ipv4
 pass: dnscry.pt-jacksonville-ipv4
 pass: dnscry.pt-johannesburg-ipv4
@@ -191,7 +190,7 @@ pass: doh-cleanbrowsing-adult
 pass: doh-cleanbrowsing-family
 pass: doh-cleanbrowsing-security
 pass: doh-crypto-sx
-pass: doh-ibksturm
+pass: doh-ibksturm (1 retry)
 pass: doh.appliedprivacy.net
 pass: doh.ffmuc.net
 pass: doh.ffmuc.net-2
@@ -201,8 +200,7 @@ pass: doh.tiarap.org
 pass: faelix-uk-ipv4
 pass: fdn
 pass: google
-pass: he
-pass: ibksturm
+pass: ibksturm (3 retries)
 pass: iij
 pass: jp.tiar.app
 pass: jp.tiar.app-doh
@@ -221,6 +219,12 @@ pass: nextdns-ultralow
 pass: nic.cz
 pass: njalla-doh
 pass: nwps.fi
+pass: plan9dns-fl
+pass: plan9dns-fl-doh
+pass: plan9dns-mx
+pass: plan9dns-mx-doh
+pass: plan9dns-nj
+pass: plan9dns-nj-doh
 pass: qihoo360-doh
 pass: quad101
 pass: quad9-dnscrypt-ip4-filter-ecs-pri
