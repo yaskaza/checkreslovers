@@ -162,6 +162,7 @@ pass: dnscry.pt-sofia-ipv4
 pass: dnscry.pt-spokane-ipv4
 pass: dnscry.pt-stockholm-ipv4
 pass: dnscry.pt-sydney02-ipv4
+pass: dnscry.pt-tallinn-ipv4
 pass: dnscry.pt-tampa-ipv4
 pass: dnscry.pt-taos-ipv4
 pass: dnscry.pt-tokyo-ipv4
@@ -245,7 +246,7 @@ pass: saldns03-conoha-ipv4
 pass: scaleway-ams
 pass: scaleway-fr
 pass: serbica
-pass: sfw.scaleway-fr
+pass: sfw.scaleway-fr (1 retry)
 pass: switch
 pass: uncensoreddns-dk-ipv4
 pass: uncensoreddns-ipv4
