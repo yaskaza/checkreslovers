@@ -8,8 +8,9 @@ pass: adguard-dns-family
 pass: adguard-dns-family-doh
 pass: adguard-dns-unfiltered
 pass: adguard-dns-unfiltered-doh
-pass: ahadns-doh-la
+pass: ahadns-doh-la (1 retry)
 pass: alidns-doh
+pass: alidns-doh (1 retry)
 pass: alidns-doh-ipv6
 pass: blahdns-sg-doh
 pass: bortzmeyer
@@ -199,7 +200,7 @@ pass: doh.tiar.app-doh
 pass: doh.tiarap.org
 pass: faelix-uk-ipv4
 pass: fdn
-pass: ffmuc.net (1 retry)
+pass: ffmuc.net (2 retries)
 pass: google
 pass: he
 pass: ibksturm
@@ -247,7 +248,7 @@ pass: saldns03-conoha-ipv4
 pass: scaleway-ams
 pass: scaleway-fr
 pass: serbica
-pass: sfw.scaleway-fr
+pass: sfw.scaleway-fr (1 retry)
 pass: switch
 pass: uncensoreddns-dk-ipv4
 pass: uncensoreddns-ipv4
