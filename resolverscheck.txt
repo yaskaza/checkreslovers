@@ -8,7 +8,7 @@ pass: adguard-dns-family
 pass: adguard-dns-family-doh
 pass: adguard-dns-unfiltered
 pass: adguard-dns-unfiltered-doh
-pass: ahadns-doh-la (1 retry)
+pass: ahadns-doh-la
 pass: alidns-doh
 pass: alidns-doh (1 retry)
 pass: alidns-doh-ipv6
@@ -104,7 +104,6 @@ pass: dnscry.pt-chisinau-ipv4
 pass: dnscry.pt-coventry-ipv4
 pass: dnscry.pt-dallas-ipv4
 pass: dnscry.pt-denver-ipv4
-pass: dnscry.pt-detroit-ipv4
 pass: dnscry.pt-dublin-ipv4
 pass: dnscry.pt-durham-ipv4
 pass: dnscry.pt-dusseldorf-ipv4
@@ -190,7 +189,6 @@ pass: doh-cleanbrowsing-adult
 pass: doh-cleanbrowsing-family
 pass: doh-cleanbrowsing-security
 pass: doh-crypto-sx
-pass: doh-crypto-sx (1 retry)
 pass: doh-ibksturm
 pass: doh.appliedprivacy.net
 pass: doh.ffmuc.net
@@ -200,10 +198,9 @@ pass: doh.tiar.app-doh
 pass: doh.tiarap.org
 pass: faelix-uk-ipv4
 pass: fdn
-pass: ffmuc.net (2 retries)
 pass: google
 pass: he
-pass: ibksturm
+pass: ibksturm (1 retry)
 pass: iij
 pass: jp.tiar.app
 pass: jp.tiar.app-doh
@@ -248,7 +245,7 @@ pass: saldns03-conoha-ipv4
 pass: scaleway-ams
 pass: scaleway-fr
 pass: serbica
-pass: sfw.scaleway-fr (1 retry)
+pass: sfw.scaleway-fr
 pass: switch
 pass: uncensoreddns-dk-ipv4
 pass: uncensoreddns-ipv4
