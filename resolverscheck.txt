@@ -10,6 +10,7 @@ pass: adguard-dns-unfiltered
 pass: adguard-dns-unfiltered-doh
 pass: ahadns-doh-la
 pass: alidns-doh
+pass: alidns-doh (1 retry)
 pass: alidns-doh-ipv6
 pass: blahdns-sg-doh
 pass: bortzmeyer
@@ -81,8 +82,11 @@ pass: dct-nl
 pass: deffer-dns.au
 pass: digitalprivacy.diy-dnscrypt-ipv4
 pass: dns.digitale-gesellschaft.ch
+pass: dns.digitalsize.net
 pass: dns.sb
-pass: dns0 (1 retry)
+pass: dns0
+pass: dns0-kids
+pass: dns0-unfiltered
 pass: dns4all-ipv4
 pass: dnscry.pt-allentown-ipv4
 pass: dnscry.pt-amsterdam-ipv4
@@ -187,7 +191,6 @@ pass: doh-cleanbrowsing-adult
 pass: doh-cleanbrowsing-family
 pass: doh-cleanbrowsing-security
 pass: doh-crypto-sx
-pass: doh-ibksturm (2 retries)
 pass: doh.appliedprivacy.net
 pass: doh.ffmuc.net
 pass: doh.ffmuc.net-2
@@ -196,10 +199,8 @@ pass: doh.tiar.app-doh
 pass: doh.tiarap.org
 pass: faelix-uk-ipv4
 pass: fdn
-pass: ffmuc.net
 pass: google
 pass: he
-pass: ibksturm (1 retry)
 pass: iij
 pass: jp.tiar.app
 pass: jp.tiar.app-doh
@@ -234,8 +235,8 @@ pass: quad9-doh-ip4-port443-filter-ecs-pri
 pass: quad9-doh-ip4-port443-filter-pri
 pass: quad9-doh-ip4-port443-nofilter-ecs-pri
 pass: quad9-doh-ip4-port443-nofilter-pri
-pass: restena-doh-ipv4
 pass: rethinkdns-doh
+pass: rethinkdns-doh (1 retry)
 pass: safesurfer
 pass: safesurfer-doh
 pass: saldns01-conoha-ipv4
@@ -247,7 +248,7 @@ pass: serbica
 pass: sfw.scaleway-fr
 pass: switch
 pass: uncensoreddns-dk-ipv4
-pass: uncensoreddns-ipv4
+pass: uncensoreddns-ipv4 (2 retries)
 pass: userspace-australia
 pass: v.dnscrypt.uk-ipv4
 pass: wikimedia
