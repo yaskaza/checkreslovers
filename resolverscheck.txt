@@ -10,9 +10,7 @@ pass: adguard-dns-unfiltered
 pass: adguard-dns-unfiltered-doh
 pass: ahadns-doh-la
 pass: alidns-doh
-pass: alidns-doh (1 retry)
 pass: alidns-doh-ipv6
-pass: blahdns-sg-doh
 pass: bortzmeyer
 pass: brahma-world
 pass: circl-doh
@@ -30,6 +28,7 @@ pass: cloudflare
 pass: cloudflare-family
 pass: cloudflare-security
 pass: comodo-02
+pass: comss.one
 pass: controld-block-malware
 pass: controld-block-malware-ad
 pass: controld-block-malware-ad-social
@@ -83,8 +82,7 @@ pass: digitalprivacy.diy-dnscrypt-ipv4
 pass: dns.digitale-gesellschaft.ch
 pass: dns.digitalsize.net
 pass: dns.sb
-pass: dns0
-pass: dns0-kids
+pass: dns0-kids (2 retries)
 pass: dns0-unfiltered
 pass: dns4all-ipv4
 pass: dnscry.pt-allentown-ipv4
@@ -183,8 +181,7 @@ pass: dnscrypt.uk-ipv4
 pass: dnsforfamily
 pass: dnsforfamily-no-safe-search
 pass: dnsforge.de
-pass: dnsforge.de-nofilter (1 retry)
-pass: dnsforge.de-nofilter (2 retries)
+pass: dnsforge.de-nofilter
 pass: dnslow.me
 pass: dnspod
 pass: doh-cleanbrowsing-adult
@@ -199,6 +196,7 @@ pass: doh.tiar.app-doh
 pass: doh.tiarap.org
 pass: faelix-uk-ipv4
 pass: fdn
+pass: ffmuc.net (1 retry)
 pass: google
 pass: he
 pass: iij
@@ -219,12 +217,23 @@ pass: nextdns-ultralow
 pass: nic.cz
 pass: njalla-doh
 pass: nwps.fi
+pass: plan9dns-fl
+pass: plan9dns-fl-doh
+pass: plan9dns-mx
+pass: plan9dns-mx-doh
+pass: plan9dns-nj
+pass: plan9dns-nj-doh
 pass: qihoo360-doh
 pass: quad101
 pass: quad9-dnscrypt-ip4-filter-ecs-pri
 pass: quad9-dnscrypt-ip4-filter-pri
 pass: quad9-dnscrypt-ip4-nofilter-ecs-pri
 pass: quad9-dnscrypt-ip4-nofilter-pri
+pass: quad9-doh-ip4-port443-filter-ecs-pri
+pass: quad9-doh-ip4-port443-filter-pri
+pass: quad9-doh-ip4-port443-nofilter-ecs-pri
+pass: quad9-doh-ip4-port443-nofilter-pri
+pass: restena-doh-ipv4
 pass: rethinkdns-doh
 pass: safesurfer
 pass: safesurfer-doh
