@@ -1,6 +1,6 @@
 pass: a-and-a
 pass: adfilter-adl
-pass: adfilter-per (1 retry)
+pass: adfilter-per
 pass: adfilter-syd
 pass: adguard-dns
 pass: adguard-dns-doh
@@ -235,6 +235,7 @@ pass: doh-crypto-sx
 pass: doh.appliedprivacy.net
 pass: doh.ffmuc.net
 pass: doh.ffmuc.net-2
+pass: doh.ibksturm
 pass: doh.tiar.app
 pass: doh.tiar.app-doh
 pass: doh.tiarap.org
@@ -243,6 +244,7 @@ pass: fdn
 pass: ffmuc.net (2 retries)
 pass: google
 pass: he
+pass: ibksturm
 pass: iij
 pass: jp.tiar.app
 pass: jp.tiar.app-doh
