@@ -81,6 +81,7 @@ pass: dct-nl
 pass: deffer-dns.au
 pass: digitalprivacy.diy-dnscrypt-ipv4
 pass: dns.digitale-gesellschaft.ch
+pass: dns.digitale-gesellschaft.ch (1 retry)
 pass: dns.digitalsize.net
 pass: dns.sb
 pass: dns0
@@ -201,7 +202,6 @@ pass: dnscry.pt-sofia-ipv4
 pass: dnscry.pt-spokane-ipv4
 pass: dnscry.pt-stockholm-ipv4
 pass: dnscry.pt-sydney02-ipv4
-pass: dnscry.pt-taipeh-ipv4 (2 retries)
 pass: dnscry.pt-tallinn-ipv4
 pass: dnscry.pt-tampa-ipv4
 pass: dnscry.pt-taos-ipv4
@@ -219,7 +219,10 @@ pass: dnscry.pt-vienna-ipv4
 pass: dnscry.pt-vilnius-ipv4
 pass: dnscry.pt-warsaw02-ipv4
 pass: dnscry.pt-yerevan-ipv4
+pass: dnscrypt.ca-ipv4
 pass: dnscrypt.ca-ipv4-doh
+pass: dnscrypt.pl
+pass: dnscrypt.pl-guardian
 pass: dnscrypt.uk-ipv4
 pass: dnsforfamily
 pass: dnsforfamily-no-safe-search
@@ -235,6 +238,7 @@ pass: doh.appliedprivacy.net
 pass: doh.ffmuc.net
 pass: doh.ffmuc.net-2
 pass: doh.ibksturm
+pass: doh.tiar.app
 pass: doh.tiar.app-doh
 pass: doh.tiarap.org
 pass: faelix-uk-ipv4
@@ -289,7 +293,7 @@ pass: scaleway-fr
 pass: serbica
 pass: sfw.scaleway-fr
 pass: switch
-pass: uncensoreddns-dk-ipv4 (1 retry)
+pass: uncensoreddns-dk-ipv4
 pass: uncensoreddns-ipv4
 pass: userspace-australia
 pass: v.dnscrypt.uk-ipv4
