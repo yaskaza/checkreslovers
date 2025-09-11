@@ -84,8 +84,6 @@ pass: dns.digitale-gesellschaft.ch
 pass: dns.digitalsize.net
 pass: dns.sb
 pass: dns0
-pass: dns0-kids
-pass: dns0-unfiltered
 pass: dns4all-ipv4
 pass: dnscry.pt-adelaide-ipv4
 pass: dnscry.pt-allentown-ipv4
