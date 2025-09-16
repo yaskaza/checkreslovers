@@ -237,15 +237,15 @@ pass: doh-crypto-sx
 pass: doh.appliedprivacy.net
 pass: doh.ffmuc.net
 pass: doh.ffmuc.net-2
-pass: doh.tiar.app
+pass: doh.ibksturm (1 retry)
 pass: doh.tiar.app-doh
 pass: doh.tiarap.org
 pass: faelix-uk-ipv4
 pass: fdn
-pass: ffmuc.net (3 retries)
+pass: ffmuc.net (1 retry)
 pass: google
 pass: he
-pass: ibksturm
+pass: ibksturm (3 retries)
 pass: iij
 pass: jp.tiar.app
 pass: jp.tiar.app-doh
