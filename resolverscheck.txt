@@ -89,6 +89,7 @@ pass: dns0-unfiltered
 pass: dns4all-ipv4
 pass: dnscry.pt-adelaide-ipv4
 pass: dnscry.pt-allentown-ipv4
+pass: dnscry.pt-amsterdam-ipv4
 pass: dnscry.pt-amsterdam02-ipv4
 pass: dnscry.pt-ashburn-ipv4
 pass: dnscry.pt-athens-ipv4
@@ -236,12 +237,12 @@ pass: doh-crypto-sx
 pass: doh.appliedprivacy.net
 pass: doh.ffmuc.net
 pass: doh.ffmuc.net-2
-pass: doh.ibksturm
 pass: doh.tiar.app
 pass: doh.tiar.app-doh
 pass: doh.tiarap.org
 pass: faelix-uk-ipv4
 pass: fdn
+pass: ffmuc.net (1 retry)
 pass: google
 pass: he
 pass: ibksturm (2 retries)
