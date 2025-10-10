@@ -122,7 +122,6 @@ pass: dnscry.pt-eygelshoven-ipv4
 pass: dnscry.pt-flint-ipv4
 pass: dnscry.pt-frankfurt-ipv4
 pass: dnscry.pt-frankfurt02-ipv4
-pass: dnscry.pt-fremont-ipv4
 pass: dnscry.pt-fremont02-ipv4
 pass: dnscry.pt-fujairah-ipv4
 pass: dnscry.pt-gdansk-ipv4
@@ -139,7 +138,6 @@ pass: dnscry.pt-hongkong03-ipv4
 pass: dnscry.pt-houston-ipv4
 pass: dnscry.pt-hudiksvall-ipv4
 pass: dnscry.pt-ikeja-ipv4
-pass: dnscry.pt-indianapolis-ipv4
 pass: dnscry.pt-islamabad-ipv4
 pass: dnscry.pt-istanbul-ipv4
 pass: dnscry.pt-jacksonville-ipv4
@@ -173,7 +171,6 @@ pass: dnscry.pt-naaldwijk-ipv4
 pass: dnscry.pt-newcastle-ipv4
 pass: dnscry.pt-newyork-ipv4
 pass: dnscry.pt-nuremberg-ipv4
-pass: dnscry.pt-oradea-ipv4
 pass: dnscry.pt-ottoville-ipv4
 pass: dnscry.pt-palermo-ipv4
 pass: dnscry.pt-paris-ipv4
@@ -189,7 +186,6 @@ pass: dnscry.pt-riga-ipv4
 pass: dnscry.pt-saltlakecity-ipv4
 pass: dnscry.pt-sandefjord-ipv4
 pass: dnscry.pt-santaclara-ipv4
-pass: dnscry.pt-saopaulo-ipv4
 pass: dnscry.pt-seattle-ipv4
 pass: dnscry.pt-seoul-ipv4
 pass: dnscry.pt-singapore-ipv4
@@ -207,7 +203,6 @@ pass: dnscry.pt-timisoara-ipv4
 pass: dnscry.pt-tirana-ipv4
 pass: dnscry.pt-tokyo-ipv4
 pass: dnscry.pt-tokyo02-ipv4
-pass: dnscry.pt-toronto-ipv4
 pass: dnscry.pt-tuusula-ipv4
 pass: dnscry.pt-valdivia-ipv4
 pass: dnscry.pt-vancouver-ipv4
@@ -238,10 +233,10 @@ pass: doh.tiar.app-doh
 pass: doh.tiarap.org
 pass: faelix-uk-ipv4
 pass: fdn
-pass: ffmuc.net
+pass: ffmuc.net (1 retry)
 pass: google
 pass: he
-pass: ibksturm (2 retries)
+pass: ibksturm (1 retry)
 pass: iij
 pass: jp.tiar.app
 pass: jp.tiar.app-doh
@@ -260,6 +255,12 @@ pass: nextdns-ultralow
 pass: nic.cz
 pass: njalla-doh
 pass: nwps.fi
+pass: plan9dns-fl
+pass: plan9dns-fl-doh
+pass: plan9dns-mx
+pass: plan9dns-mx-doh
+pass: plan9dns-nj
+pass: plan9dns-nj-doh
 pass: qihoo360-doh
 pass: quad101
 pass: quad9-dnscrypt-ip4-filter-ecs-pri
@@ -282,7 +283,7 @@ pass: scaleway-fr
 pass: serbica
 pass: sfw.scaleway-fr
 pass: switch
-pass: uncensoreddns-dk-ipv4
+pass: uncensoreddns-dk-ipv4 (1 retry)
 pass: uncensoreddns-ipv4
 pass: userspace-australia
 pass: v.dnscrypt.uk-ipv4
