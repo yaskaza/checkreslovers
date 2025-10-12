@@ -121,6 +121,7 @@ pass: dnscry.pt-ebenecity02-ipv4
 pass: dnscry.pt-eygelshoven-ipv4
 pass: dnscry.pt-flint-ipv4
 pass: dnscry.pt-frankfurt-ipv4
+pass: dnscry.pt-frankfurt02-ipv4
 pass: dnscry.pt-fremont02-ipv4
 pass: dnscry.pt-fujairah-ipv4
 pass: dnscry.pt-gdansk-ipv4
@@ -236,7 +237,7 @@ pass: faelix-uk-ipv4
 pass: fdn
 pass: google
 pass: he
-pass: ibksturm (1 retry)
+pass: ibksturm
 pass: iij
 pass: jp.tiar.app
 pass: jp.tiar.app-doh
