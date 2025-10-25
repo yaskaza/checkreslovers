@@ -8,7 +8,7 @@ pass: adguard-dns-family
 pass: adguard-dns-family-doh
 pass: adguard-dns-unfiltered
 pass: adguard-dns-unfiltered-doh
-pass: ahadns-doh-la (1 retry)
+pass: ahadns-doh-la
 pass: alidns-doh
 pass: alidns-doh-ipv6
 pass: blahdns-sg-doh
@@ -40,6 +40,7 @@ pass: cs-austria
 pass: cs-barcelona
 pass: cs-belgium
 pass: cs-berlin
+pass: cs-brazil
 pass: cs-ch
 pass: cs-czech
 pass: cs-dc
@@ -208,6 +209,7 @@ pass: dnscry.pt-vancouver-ipv4
 pass: dnscry.pt-vienna-ipv4
 pass: dnscry.pt-vilnius-ipv4
 pass: dnscry.pt-warsaw02-ipv4
+pass: dnscry.pt-yerevan-ipv4
 pass: dnscrypt.ca-ipv4
 pass: dnscrypt.ca-ipv4-doh
 pass: dnscrypt.pl
@@ -231,7 +233,7 @@ pass: doh.tiar.app-doh
 pass: doh.tiarap.org
 pass: faelix-uk-ipv4
 pass: fdn
-pass: ffmuc.net (2 retries)
+pass: ffmuc.net (1 retry)
 pass: google
 pass: he
 pass: ibksturm
