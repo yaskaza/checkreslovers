@@ -140,7 +140,7 @@ pass: dnscry.pt-hongkong03-ipv4
 pass: dnscry.pt-houston-ipv4
 pass: dnscry.pt-hudiksvall-ipv4
 pass: dnscry.pt-ikeja-ipv4
-pass: dnscry.pt-indianapolis-ipv4
+pass: dnscry.pt-indianapolis-ipv4 (1 retry)
 pass: dnscry.pt-islamabad-ipv4
 pass: dnscry.pt-istanbul-ipv4
 pass: dnscry.pt-jacksonville-ipv4
@@ -228,12 +228,10 @@ pass: doh-crypto-sx
 pass: doh.appliedprivacy.net
 pass: doh.ffmuc.net
 pass: doh.ffmuc.net-2
-pass: doh.tiar.app
 pass: doh.tiar.app-doh
 pass: doh.tiarap.org
 pass: faelix-uk-ipv4
 pass: fdn
-pass: ffmuc.net (1 retry)
 pass: google
 pass: he
 pass: ibksturm
