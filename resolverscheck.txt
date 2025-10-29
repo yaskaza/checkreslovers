@@ -40,7 +40,6 @@ pass: cs-austria
 pass: cs-barcelona
 pass: cs-belgium
 pass: cs-berlin
-pass: cs-brazil
 pass: cs-ch
 pass: cs-czech
 pass: cs-dc
@@ -134,7 +133,7 @@ pass: dnscry.pt-hafnarfjordur-ipv4
 pass: dnscry.pt-halifax-ipv4
 pass: dnscry.pt-hanoi-ipv4
 pass: dnscry.pt-helsinki-ipv4
-pass: dnscry.pt-hochiminhcity-ipv4
+pass: dnscry.pt-hochiminhcity-ipv4 (3 retries)
 pass: dnscry.pt-hongkong-ipv4
 pass: dnscry.pt-hongkong03-ipv4
 pass: dnscry.pt-houston-ipv4
@@ -228,11 +227,12 @@ pass: doh-crypto-sx
 pass: doh.appliedprivacy.net
 pass: doh.ffmuc.net
 pass: doh.ffmuc.net-2
+pass: doh.tiar.app
 pass: doh.tiar.app-doh
 pass: doh.tiarap.org
 pass: faelix-uk-ipv4
 pass: fdn
-pass: ffmuc.net
+pass: ffmuc.net (2 retries)
 pass: google
 pass: he
 pass: ibksturm
