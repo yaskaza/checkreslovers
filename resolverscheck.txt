@@ -29,6 +29,7 @@ pass: cloudflare
 pass: cloudflare-family
 pass: cloudflare-security
 pass: comodo-02
+pass: comodo-02 (1 retry)
 pass: comss.one
 pass: controld-block-malware
 pass: controld-block-malware-ad
@@ -40,7 +41,6 @@ pass: cs-austria
 pass: cs-barcelona
 pass: cs-belgium
 pass: cs-berlin
-pass: cs-brazil
 pass: cs-ch
 pass: cs-czech
 pass: cs-dc
@@ -90,7 +90,6 @@ pass: dnsbunker
 pass: dnscry.pt-adelaide-ipv4
 pass: dnscry.pt-allentown-ipv4
 pass: dnscry.pt-amsterdam-ipv4
-pass: dnscry.pt-amsterdam02-ipv4
 pass: dnscry.pt-ashburn-ipv4
 pass: dnscry.pt-athens-ipv4
 pass: dnscry.pt-atlanta-ipv4
@@ -231,9 +230,10 @@ pass: doh.tiar.app-doh
 pass: doh.tiarap.org
 pass: faelix-uk-ipv4
 pass: fdn
+pass: ffmuc.net (1 retry)
 pass: google
 pass: he
-pass: ibksturm
+pass: ibksturm (1 retry)
 pass: iij
 pass: jp.tiar.app
 pass: jp.tiar.app-doh
@@ -252,12 +252,6 @@ pass: nextdns-ultralow
 pass: nic.cz
 pass: njalla-doh
 pass: nwps.fi
-pass: plan9dns-fl
-pass: plan9dns-fl-doh
-pass: plan9dns-mx
-pass: plan9dns-mx-doh
-pass: plan9dns-nj
-pass: plan9dns-nj-doh
 pass: qihoo360-doh
 pass: quad101
 pass: quad9-dnscrypt-ip4-filter-ecs-pri
