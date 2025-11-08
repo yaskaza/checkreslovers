@@ -40,6 +40,7 @@ pass: cs-austria
 pass: cs-barcelona
 pass: cs-belgium
 pass: cs-berlin
+pass: cs-brazil
 pass: cs-ch
 pass: cs-czech
 pass: cs-dc
@@ -229,14 +230,13 @@ pass: doh.tiar.app-doh
 pass: doh.tiarap.org
 pass: faelix-uk-ipv4
 pass: fdn
-pass: ffmuc.net (2 retries)
+pass: ffmuc.net (1 retry)
 pass: google
 pass: he
-pass: ibksturm
+pass: ibksturm (1 retry)
 pass: iij
 pass: jp.tiar.app
 pass: jp.tiar.app-doh
-pass: jp.tiarap.org
 pass: jp1.vr.ekinao.com
 pass: jp2.vr.ekinao.com
 pass: ksol.io-ns2-dnscrypt-ipv4
