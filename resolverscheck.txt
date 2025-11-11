@@ -8,7 +8,7 @@ pass: adguard-dns-family
 pass: adguard-dns-family-doh
 pass: adguard-dns-unfiltered
 pass: adguard-dns-unfiltered-doh
-pass: ahadns-doh-la (1 retry)
+pass: ahadns-doh-la
 pass: alidns-doh
 pass: alidns-doh-ipv6
 pass: blahdns-sg-doh
@@ -129,6 +129,7 @@ pass: dnscry.pt-gdansk-ipv4
 pass: dnscry.pt-geneva-ipv4
 pass: dnscry.pt-grandrapids-ipv4
 pass: dnscry.pt-guayaquil-ipv4
+pass: dnscry.pt-hafnarfjordur-ipv4
 pass: dnscry.pt-halifax-ipv4
 pass: dnscry.pt-hanoi-ipv4
 pass: dnscry.pt-helsinki-ipv4
@@ -176,7 +177,6 @@ pass: dnscry.pt-perth-ipv4
 pass: dnscry.pt-philadelphia-ipv4
 pass: dnscry.pt-phoenix-ipv4
 pass: dnscry.pt-portedwards-ipv4
-pass: dnscry.pt-portland-ipv4
 pass: dnscry.pt-prague-ipv4
 pass: dnscry.pt-queretaro-ipv4
 pass: dnscry.pt-redditch-ipv4
@@ -230,7 +230,7 @@ pass: doh.tiar.app-doh
 pass: doh.tiarap.org
 pass: faelix-uk-ipv4
 pass: fdn
-pass: ffmuc.net (1 retry)
+pass: ffmuc.net (2 retries)
 pass: google
 pass: he
 pass: iij
@@ -253,6 +253,12 @@ pass: nextdns-ultralow
 pass: nic.cz
 pass: njalla-doh
 pass: nwps.fi
+pass: plan9dns-fl
+pass: plan9dns-fl-doh
+pass: plan9dns-mx
+pass: plan9dns-mx-doh
+pass: plan9dns-nj
+pass: plan9dns-nj-doh
 pass: qihoo360-doh
 pass: quad101
 pass: quad9-dnscrypt-ip4-filter-ecs-pri
@@ -276,7 +282,7 @@ pass: serbica
 pass: sfw.scaleway-fr
 pass: switch
 pass: uncensoreddns-dk-ipv4
-pass: uncensoreddns-ipv4
+pass: uncensoreddns-ipv4 (1 retry)
 pass: userspace-australia
 pass: v.dnscrypt.uk-ipv4
 pass: wikimedia
