@@ -40,7 +40,6 @@ pass: cs-austria
 pass: cs-barcelona
 pass: cs-belgium
 pass: cs-berlin
-pass: cs-brazil
 pass: cs-ch
 pass: cs-czech
 pass: cs-dc
@@ -177,6 +176,7 @@ pass: dnscry.pt-perth-ipv4
 pass: dnscry.pt-philadelphia-ipv4
 pass: dnscry.pt-phoenix-ipv4
 pass: dnscry.pt-portedwards-ipv4
+pass: dnscry.pt-portland-ipv4
 pass: dnscry.pt-prague-ipv4
 pass: dnscry.pt-queretaro-ipv4
 pass: dnscry.pt-redditch-ipv4
@@ -230,9 +230,9 @@ pass: doh.tiar.app-doh
 pass: doh.tiarap.org
 pass: faelix-uk-ipv4
 pass: fdn
-pass: ffmuc.net (2 retries)
 pass: google
 pass: he
+pass: ibksturm (2 retries)
 pass: iij
 pass: jp.tiar.app
 pass: jp.tiar.app-doh
@@ -271,6 +271,7 @@ pass: quad9-doh-ip4-port443-nofilter-ecs-pri
 pass: quad9-doh-ip4-port443-nofilter-pri
 pass: restena-doh-ipv4
 pass: rethinkdns-doh
+pass: rethinkdns-doh (3 retries)
 pass: safesurfer
 pass: safesurfer-doh
 pass: saldns01-conoha-ipv4
@@ -281,8 +282,8 @@ pass: scaleway-fr
 pass: serbica
 pass: sfw.scaleway-fr
 pass: switch
-pass: uncensoreddns-dk-ipv4
-pass: uncensoreddns-ipv4 (1 retry)
+pass: uncensoreddns-dk-ipv4 (1 retry)
+pass: uncensoreddns-ipv4
 pass: userspace-australia
 pass: v.dnscrypt.uk-ipv4
 pass: wikimedia
