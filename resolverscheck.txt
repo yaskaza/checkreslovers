@@ -40,6 +40,7 @@ pass: cs-austria
 pass: cs-barcelona
 pass: cs-belgium
 pass: cs-berlin
+pass: cs-brazil
 pass: cs-ch
 pass: cs-czech
 pass: cs-dc
@@ -150,7 +151,6 @@ pass: dnscry.pt-kyiv-ipv4
 pass: dnscry.pt-kyiv02-ipv4
 pass: dnscry.pt-lagos-ipv4
 pass: dnscry.pt-lasvegas-ipv4
-pass: dnscry.pt-libertylake-ipv4
 pass: dnscry.pt-lima02-ipv4
 pass: dnscry.pt-london-ipv4
 pass: dnscry.pt-losangeles-ipv4
@@ -158,6 +158,7 @@ pass: dnscry.pt-losangeles02-ipv4
 pass: dnscry.pt-luxembourg-ipv4
 pass: dnscry.pt-madrid-ipv4
 pass: dnscry.pt-manchester-ipv4
+pass: dnscry.pt-marseille-ipv4
 pass: dnscry.pt-melbourne-ipv4
 pass: dnscry.pt-miami-ipv4
 pass: dnscry.pt-milan-ipv4
@@ -230,9 +231,10 @@ pass: doh.tiar.app-doh
 pass: doh.tiarap.org
 pass: faelix-uk-ipv4
 pass: fdn
+pass: ffmuc.net (1 retry)
 pass: google
 pass: he
-pass: ibksturm (2 retries)
+pass: ibksturm
 pass: iij
 pass: jp.tiar.app
 pass: jp.tiar.app-doh
@@ -271,7 +273,6 @@ pass: quad9-doh-ip4-port443-nofilter-ecs-pri
 pass: quad9-doh-ip4-port443-nofilter-pri
 pass: restena-doh-ipv4
 pass: rethinkdns-doh
-pass: rethinkdns-doh (3 retries)
 pass: safesurfer
 pass: safesurfer-doh
 pass: saldns01-conoha-ipv4
@@ -279,10 +280,11 @@ pass: saldns02-conoha-ipv4
 pass: saldns03-conoha-ipv4
 pass: scaleway-ams
 pass: scaleway-fr
+pass: searx-se-ipv4
 pass: serbica
 pass: sfw.scaleway-fr
 pass: switch
-pass: uncensoreddns-dk-ipv4 (1 retry)
+pass: uncensoreddns-dk-ipv4
 pass: uncensoreddns-ipv4
 pass: userspace-australia
 pass: v.dnscrypt.uk-ipv4
