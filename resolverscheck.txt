@@ -151,6 +151,7 @@ pass: dnscry.pt-kyiv-ipv4
 pass: dnscry.pt-kyiv02-ipv4
 pass: dnscry.pt-lagos-ipv4
 pass: dnscry.pt-lasvegas-ipv4
+pass: dnscry.pt-libertylake-ipv4
 pass: dnscry.pt-lima02-ipv4
 pass: dnscry.pt-london-ipv4
 pass: dnscry.pt-losangeles-ipv4
@@ -231,7 +232,7 @@ pass: doh.tiar.app-doh
 pass: doh.tiarap.org
 pass: faelix-uk-ipv4
 pass: fdn
-pass: ffmuc.net (1 retry)
+pass: ffmuc.net (2 retries)
 pass: google
 pass: he
 pass: ibksturm
