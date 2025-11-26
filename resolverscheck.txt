@@ -82,11 +82,9 @@ pass: deffer-dns.au
 pass: digitalprivacy.diy-dnscrypt-ipv4
 pass: dns.digitale-gesellschaft.ch
 pass: dns.digitalsize.net
-pass: dns.sb
 pass: dns4all-ipv4
 pass: dns4eu
 pass: dns4eu-protective
-pass: dnsbunker
 pass: dnscry.pt-adelaide-ipv4
 pass: dnscry.pt-allentown-ipv4
 pass: dnscry.pt-amsterdam-ipv4
@@ -232,6 +230,7 @@ pass: doh.tiar.app-doh
 pass: doh.tiarap.org
 pass: faelix-uk-ipv4
 pass: fdn
+pass: ffmuc.net (1 retry)
 pass: google
 pass: he
 pass: ibksturm
