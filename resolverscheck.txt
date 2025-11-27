@@ -82,6 +82,7 @@ pass: deffer-dns.au
 pass: digitalprivacy.diy-dnscrypt-ipv4
 pass: dns.digitale-gesellschaft.ch
 pass: dns.digitalsize.net
+pass: dns.sb
 pass: dns4all-ipv4
 pass: dns4eu
 pass: dns4eu-protective
@@ -230,7 +231,6 @@ pass: doh.tiar.app-doh
 pass: doh.tiarap.org
 pass: faelix-uk-ipv4
 pass: fdn
-pass: ffmuc.net (1 retry)
 pass: google
 pass: he
 pass: ibksturm
@@ -272,6 +272,7 @@ pass: quad9-doh-ip4-port443-nofilter-ecs-pri
 pass: quad9-doh-ip4-port443-nofilter-pri
 pass: restena-doh-ipv4
 pass: rethinkdns-doh
+pass: rethinkdns-doh (1 retry)
 pass: safesurfer
 pass: safesurfer-doh
 pass: saldns01-conoha-ipv4
