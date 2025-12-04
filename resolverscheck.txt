@@ -27,7 +27,6 @@ pass: cleanbrowsing-security-doh
 pass: cloudflare
 pass: cloudflare-family
 pass: cloudflare-security
-pass: comodo-02
 pass: comss.one
 pass: controld-block-malware
 pass: controld-block-malware-ad
@@ -138,7 +137,6 @@ pass: dnscry.pt-houston-ipv4
 pass: dnscry.pt-hudiksvall-ipv4
 pass: dnscry.pt-ikeja-ipv4
 pass: dnscry.pt-indianapolis-ipv4
-pass: dnscry.pt-islamabad-ipv4
 pass: dnscry.pt-istanbul-ipv4
 pass: dnscry.pt-jacksonville-ipv4
 pass: dnscry.pt-johannesburg-ipv4
@@ -272,7 +270,6 @@ pass: quad9-doh-ip4-port443-nofilter-ecs-pri
 pass: quad9-doh-ip4-port443-nofilter-pri
 pass: restena-doh-ipv4
 pass: rethinkdns-doh
-pass: rethinkdns-doh (3 retries)
 pass: safesurfer
 pass: safesurfer-doh
 pass: saldns01-conoha-ipv4
