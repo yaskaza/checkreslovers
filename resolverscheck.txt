@@ -140,6 +140,7 @@ pass: dnscry.pt-ikeja-ipv4
 pass: dnscry.pt-indianapolis-ipv4
 pass: dnscry.pt-istanbul-ipv4
 pass: dnscry.pt-jacksonville-ipv4
+pass: dnscry.pt-johannesburg-ipv4
 pass: dnscry.pt-johannesburg02-ipv4
 pass: dnscry.pt-johor-ipv4
 pass: dnscry.pt-kansascity-ipv4
@@ -198,6 +199,7 @@ pass: dnscry.pt-timisoara-ipv4
 pass: dnscry.pt-tokyo-ipv4
 pass: dnscry.pt-tokyo02-ipv4
 pass: dnscry.pt-tuusula-ipv4
+pass: dnscry.pt-valdivia-ipv4
 pass: dnscry.pt-vancouver-ipv4
 pass: dnscry.pt-vienna-ipv4
 pass: dnscry.pt-vilnius-ipv4
@@ -226,9 +228,9 @@ pass: doh.tiar.app-doh
 pass: doh.tiarap.org
 pass: faelix-uk-ipv4
 pass: fdn
-pass: ffmuc.net (3 retries)
 pass: google
 pass: he
+pass: ibksturm
 pass: iij
 pass: jp.tiar.app
 pass: jp.tiar.app-doh
