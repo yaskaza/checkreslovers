@@ -138,6 +138,7 @@ pass: dnscry.pt-houston-ipv4
 pass: dnscry.pt-hudiksvall-ipv4
 pass: dnscry.pt-ikeja-ipv4
 pass: dnscry.pt-indianapolis-ipv4
+pass: dnscry.pt-islamabad-ipv4
 pass: dnscry.pt-istanbul-ipv4
 pass: dnscry.pt-jacksonville-ipv4
 pass: dnscry.pt-johannesburg-ipv4
@@ -252,6 +253,12 @@ pass: nextdns-ultralow
 pass: nic.cz
 pass: njalla-doh
 pass: nwps.fi
+pass: plan9dns-fl
+pass: plan9dns-fl-doh
+pass: plan9dns-mx
+pass: plan9dns-mx-doh
+pass: plan9dns-nj
+pass: plan9dns-nj-doh
 pass: qihoo360-doh
 pass: quad101
 pass: quad9-dnscrypt-ip4-filter-ecs-pri
