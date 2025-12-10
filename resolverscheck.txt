@@ -111,7 +111,6 @@ pass: dnscry.pt-copenhagen-ipv4
 pass: dnscry.pt-coventry-ipv4
 pass: dnscry.pt-dallas-ipv4
 pass: dnscry.pt-denver-ipv4
-pass: dnscry.pt-detroit-ipv4
 pass: dnscry.pt-dublin-ipv4
 pass: dnscry.pt-durham-ipv4
 pass: dnscry.pt-dusseldorf-ipv4
@@ -229,7 +228,6 @@ pass: doh.tiar.app-doh
 pass: doh.tiarap.org
 pass: faelix-uk-ipv4
 pass: fdn
-pass: ffmuc.net
 pass: google
 pass: he
 pass: ibksturm
