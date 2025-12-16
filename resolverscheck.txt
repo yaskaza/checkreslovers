@@ -166,7 +166,6 @@ pass: dnscry.pt-milan-ipv4
 pass: dnscry.pt-minneapolis-ipv4
 pass: dnscry.pt-molln-ipv4
 pass: dnscry.pt-montreal-ipv4
-pass: dnscry.pt-moscow-ipv4
 pass: dnscry.pt-mumbai-ipv4
 pass: dnscry.pt-munich-ipv4
 pass: dnscry.pt-naaldwijk-ipv4
@@ -231,13 +230,13 @@ pass: doh.tiar.app-doh
 pass: doh.tiarap.org
 pass: faelix-uk-ipv4
 pass: fdn
-pass: ffmuc.net (1 retry)
+pass: ffmuc.net
 pass: google
 pass: he
 pass: iij
 pass: jp.tiar.app
 pass: jp.tiar.app-doh
-pass: jp1.vr.ekinao.com
+pass: jp.tiarap.org
 pass: jp2.vr.ekinao.com
 pass: ksol.io-ns2-dnscrypt-ipv4
 pass: libredns
