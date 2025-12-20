@@ -130,7 +130,6 @@ pass: dnscry.pt-gdansk-ipv4
 pass: dnscry.pt-geneva-ipv4
 pass: dnscry.pt-grandrapids-ipv4
 pass: dnscry.pt-guayaquil-ipv4
-pass: dnscry.pt-hafnarfjordur-ipv4
 pass: dnscry.pt-hanoi-ipv4
 pass: dnscry.pt-helsinki-ipv4
 pass: dnscry.pt-hochiminhcity-ipv4
@@ -234,7 +233,8 @@ pass: iij
 pass: jp.tiar.app
 pass: jp.tiar.app-doh
 pass: jp.tiarap.org
-pass: jp2.vr.ekinao.com
+pass: jp1.vr.ekinao.com (1 retry)
+pass: jp2.vr.ekinao.com (2 retries)
 pass: ksol.io-ns2-dnscrypt-ipv4
 pass: libredns
 pass: libredns-noads
