@@ -184,7 +184,6 @@ pass: dnscry.pt-saltlakecity-ipv4
 pass: dnscry.pt-sandefjord-ipv4
 pass: dnscry.pt-santaclara-ipv4
 pass: dnscry.pt-saopaulo-ipv4
-pass: dnscry.pt-seattle-ipv4
 pass: dnscry.pt-seoul-ipv4
 pass: dnscry.pt-singapore-ipv4
 pass: dnscry.pt-spokane-ipv4
@@ -235,7 +234,7 @@ pass: jp.tiar.app
 pass: jp.tiar.app-doh
 pass: jp.tiarap.org
 pass: jp1.vr.ekinao.com
-pass: jp2.vr.ekinao.com (1 retry)
+pass: jp2.vr.ekinao.com
 pass: ksol.io-ns2-dnscrypt-ipv4
 pass: libredns
 pass: libredns-noads
