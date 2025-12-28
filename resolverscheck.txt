@@ -153,7 +153,6 @@ pass: dnscry.pt-lasvegas-ipv4
 pass: dnscry.pt-libertylake-ipv4
 pass: dnscry.pt-lima02-ipv4
 pass: dnscry.pt-london-ipv4
-pass: dnscry.pt-losangeles-ipv4
 pass: dnscry.pt-losangeles02-ipv4
 pass: dnscry.pt-luxembourg-ipv4
 pass: dnscry.pt-madrid-ipv4
@@ -184,6 +183,7 @@ pass: dnscry.pt-saltlakecity-ipv4
 pass: dnscry.pt-sandefjord-ipv4
 pass: dnscry.pt-santaclara-ipv4
 pass: dnscry.pt-saopaulo-ipv4
+pass: dnscry.pt-seattle-ipv4
 pass: dnscry.pt-seoul-ipv4
 pass: dnscry.pt-singapore-ipv4
 pass: dnscry.pt-spokane-ipv4
@@ -232,7 +232,6 @@ pass: he
 pass: iij
 pass: jp.tiar.app
 pass: jp.tiar.app-doh
-pass: jp.tiarap.org
 pass: jp1.vr.ekinao.com
 pass: jp2.vr.ekinao.com
 pass: ksol.io-ns2-dnscrypt-ipv4
