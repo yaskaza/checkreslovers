@@ -227,14 +227,15 @@ pass: doh.tiar.app-doh
 pass: doh.tiarap.org
 pass: faelix-uk-ipv4
 pass: fdn
+pass: ffmuc.net (3 retries)
 pass: google
 pass: he
 pass: iij
 pass: jp.tiar.app
 pass: jp.tiar.app-doh
 pass: jp.tiarap.org
-pass: jp1.vr.ekinao.com
-pass: jp2.vr.ekinao.com
+pass: jp1.vr.ekinao.com (1 retry)
+pass: jp2.vr.ekinao.com (1 retry)
 pass: ksol.io-ns2-dnscrypt-ipv4
 pass: libredns
 pass: libredns-noads
