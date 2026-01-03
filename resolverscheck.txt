@@ -125,7 +125,6 @@ pass: dnscry.pt-eygelshoven-ipv4
 pass: dnscry.pt-flint-ipv4
 pass: dnscry.pt-frankfurt-ipv4
 pass: dnscry.pt-frankfurt02-ipv4
-pass: dnscry.pt-fremont02-ipv4
 pass: dnscry.pt-fujairah-ipv4
 pass: dnscry.pt-gdansk-ipv4
 pass: dnscry.pt-geneva-ipv4
@@ -227,7 +226,6 @@ pass: doh.tiar.app-doh
 pass: doh.tiarap.org
 pass: faelix-uk-ipv4
 pass: fdn
-pass: ffmuc.net (3 retries)
 pass: google
 pass: he
 pass: iij
@@ -235,7 +233,7 @@ pass: jp.tiar.app
 pass: jp.tiar.app-doh
 pass: jp.tiarap.org
 pass: jp1.vr.ekinao.com (1 retry)
-pass: jp2.vr.ekinao.com (1 retry)
+pass: jp2.vr.ekinao.com
 pass: ksol.io-ns2-dnscrypt-ipv4
 pass: libredns
 pass: libredns-noads
