@@ -167,6 +167,7 @@ pass: dnscry.pt-ljubljana-ipv4
 pass: dnscry.pt-london-ipv4
 pass: dnscry.pt-losangeles-ipv4
 pass: dnscry.pt-losangeles02-ipv4
+pass: dnscry.pt-luxembourg-ipv4
 pass: dnscry.pt-madrid-ipv4
 pass: dnscry.pt-manchester-ipv4
 pass: dnscry.pt-manila-ipv4
@@ -203,6 +204,7 @@ pass: dnscry.pt-sanjose-ipv4
 pass: dnscry.pt-santaclara-ipv4
 pass: dnscry.pt-saopaulo-ipv4
 pass: dnscry.pt-seattle-ipv4
+pass: dnscry.pt-seoul-ipv4
 pass: dnscry.pt-seoul02-ipv4
 pass: dnscry.pt-singapore-ipv4
 pass: dnscry.pt-singapore02-ipv4
@@ -230,6 +232,7 @@ pass: dnscry.pt-vancouver-ipv4
 pass: dnscry.pt-vienna-ipv4
 pass: dnscry.pt-vilnius-ipv4
 pass: dnscry.pt-warsaw02-ipv4
+pass: dnscry.pt-yerevan-ipv4
 pass: dnscrypt.ca-ipv4
 pass: dnscrypt.ca-ipv4-doh
 pass: dnscrypt.pl
@@ -254,15 +257,14 @@ pass: doh.tiar.app-doh
 pass: doh.tiarap.org
 pass: faelix-uk-ipv4
 pass: fdn
-pass: ffmuc.net (3 retries)
 pass: google
 pass: he
-pass: ibksturm (1 retry)
+pass: ibksturm
 pass: iij
 pass: jp.tiar.app
 pass: jp.tiar.app-doh
 pass: jp.tiarap.org
-pass: jp2.vr.ekinao.com
+pass: jp2.vr.ekinao.com (2 retries)
 pass: ksol.io-ns2-dnscrypt-ipv4
 pass: libredns
 pass: libredns-noads
@@ -278,16 +280,13 @@ pass: nic.cz
 pass: njalla-doh
 pass: nwps.fi
 pass: qihoo360-doh
-pass: quad101
 pass: quad9-dnscrypt-ip4-filter-ecs-pri
 pass: quad9-dnscrypt-ip4-filter-pri
 pass: quad9-dnscrypt-ip4-nofilter-ecs-pri
 pass: quad9-dnscrypt-ip4-nofilter-pri
 pass: quad9-doh-ip4-port443-filter-ecs-pri
-pass: quad9-doh-ip4-port443-filter-pri
 pass: quad9-doh-ip4-port443-filter-pri (1 retry)
 pass: quad9-doh-ip4-port443-nofilter-ecs-pri
-pass: quad9-doh-ip4-port443-nofilter-pri
 pass: quad9-doh-ip4-port443-nofilter-pri (1 retry)
 pass: restena-doh-ipv4
 pass: rethinkdns-doh
