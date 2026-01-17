@@ -140,7 +140,6 @@ pass: dnscry.pt-hafnarfjordur-ipv4
 pass: dnscry.pt-halifax-ipv4
 pass: dnscry.pt-hanoi-ipv4
 pass: dnscry.pt-helsinki-ipv4
-pass: dnscry.pt-hochiminhcity-ipv4
 pass: dnscry.pt-hongkong-ipv4
 pass: dnscry.pt-hongkong03-ipv4
 pass: dnscry.pt-houston-ipv4
@@ -208,7 +207,6 @@ pass: dnscry.pt-seoul-ipv4
 pass: dnscry.pt-seoul02-ipv4
 pass: dnscry.pt-singapore-ipv4
 pass: dnscry.pt-singapore02-ipv4
-pass: dnscry.pt-sofia-ipv4
 pass: dnscry.pt-spokane-ipv4
 pass: dnscry.pt-stockholm-ipv4
 pass: dnscry.pt-stockholm02-ipv4
@@ -237,7 +235,6 @@ pass: dnscrypt.ca-ipv4
 pass: dnscrypt.ca-ipv4-doh
 pass: dnscrypt.pl
 pass: dnscrypt.pl-guardian
-pass: dnscrypt.uk-ipv4
 pass: dnsforfamily
 pass: dnsforfamily-no-safe-search
 pass: dnsforge.de
@@ -264,7 +261,7 @@ pass: iij
 pass: jp.tiar.app
 pass: jp.tiar.app-doh
 pass: jp.tiarap.org
-pass: jp2.vr.ekinao.com
+pass: jp2.vr.ekinao.com (2 retries)
 pass: ksol.io-ns2-dnscrypt-ipv4
 pass: libredns
 pass: libredns-noads
@@ -311,7 +308,6 @@ pass: switch
 pass: uncensoreddns-dk-ipv4
 pass: uncensoreddns-ipv4
 pass: userspace-australia
-pass: v.dnscrypt.uk-ipv4
 pass: wikimedia
 pass: yandex
 pass: yandex-ipv6
