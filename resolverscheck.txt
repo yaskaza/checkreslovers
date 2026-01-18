@@ -1,4 +1,5 @@
 pass: a-and-a
+pass: a-and-a (1 retry)
 pass: adfilter-adl
 pass: adfilter-per
 pass: adfilter-syd
@@ -150,6 +151,7 @@ pass: dnscry.pt-islamabad-ipv4
 pass: dnscry.pt-istanbul-ipv4
 pass: dnscry.pt-jacksonville-ipv4
 pass: dnscry.pt-jakarta-ipv4
+pass: dnscry.pt-jena-ipv4
 pass: dnscry.pt-johannesburg-ipv4
 pass: dnscry.pt-johannesburg02-ipv4
 pass: dnscry.pt-johor-ipv4
@@ -207,6 +209,7 @@ pass: dnscry.pt-seoul-ipv4
 pass: dnscry.pt-seoul02-ipv4
 pass: dnscry.pt-singapore-ipv4
 pass: dnscry.pt-singapore02-ipv4
+pass: dnscry.pt-sofia-ipv4
 pass: dnscry.pt-spokane-ipv4
 pass: dnscry.pt-stockholm-ipv4
 pass: dnscry.pt-stockholm02-ipv4
@@ -261,7 +264,7 @@ pass: iij
 pass: jp.tiar.app
 pass: jp.tiar.app-doh
 pass: jp.tiarap.org
-pass: jp2.vr.ekinao.com (2 retries)
+pass: jp2.vr.ekinao.com
 pass: ksol.io-ns2-dnscrypt-ipv4
 pass: libredns
 pass: libredns-noads
