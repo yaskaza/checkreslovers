@@ -9,6 +9,7 @@ pass: adguard-dns-family-doh
 pass: adguard-dns-unfiltered
 pass: adguard-dns-unfiltered-doh
 pass: alidns-doh
+pass: alidns-doh (2 retries)
 pass: alidns-doh-ipv6
 pass: blahdns-sg-doh
 pass: bortzmeyer
