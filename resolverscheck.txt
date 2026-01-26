@@ -181,7 +181,6 @@ pass: dnscry.pt-moscow-ipv4
 pass: dnscry.pt-mumbai-ipv4
 pass: dnscry.pt-mumbai02-ipv4
 pass: dnscry.pt-munich-ipv4
-pass: dnscry.pt-newcastle-ipv4
 pass: dnscry.pt-newyork-ipv4
 pass: dnscry.pt-nuremberg-ipv4
 pass: dnscry.pt-ogden-ipv4
@@ -231,7 +230,6 @@ pass: dnscry.pt-valdivia-ipv4
 pass: dnscry.pt-vancouver-ipv4
 pass: dnscry.pt-vienna-ipv4
 pass: dnscry.pt-vilnius-ipv4
-pass: dnscry.pt-warsaw02-ipv4
 pass: dnscry.pt-yerevan-ipv4
 pass: dnscrypt.ca-ipv4
 pass: dnscrypt.ca-ipv4-doh
