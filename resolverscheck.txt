@@ -1,4 +1,5 @@
 pass: a-and-a
+pass: a-and-a (1 retry)
 pass: adfilter-adl
 pass: adfilter-per
 pass: adfilter-syd
@@ -113,7 +114,6 @@ pass: dnscry.pt-calgary-ipv4
 pass: dnscry.pt-capetown-ipv4
 pass: dnscry.pt-capetown02-ipv4
 pass: dnscry.pt-chicago-ipv4
-pass: dnscry.pt-chisinau-ipv4
 pass: dnscry.pt-copenhagen-ipv4
 pass: dnscry.pt-coventry-ipv4
 pass: dnscry.pt-dallas-ipv4
@@ -236,7 +236,6 @@ pass: dnscrypt.ca-ipv4-doh
 pass: dnsforfamily
 pass: dnsforfamily-no-safe-search
 pass: dnsforge.de
-pass: dnsforge.de (1 retry)
 pass: dnsforge.de-nofilter
 pass: dnslow.me
 pass: dnspod
@@ -274,12 +273,6 @@ pass: nextdns-ultralow
 pass: nic.cz
 pass: njalla-doh
 pass: nwps.fi
-pass: plan9dns-fl
-pass: plan9dns-fl-doh
-pass: plan9dns-mx
-pass: plan9dns-mx-doh
-pass: plan9dns-nj
-pass: plan9dns-nj-doh
 pass: qihoo360-doh
 pass: quad9-dnscrypt-ip4-filter-ecs-pri
 pass: quad9-dnscrypt-ip4-filter-pri
