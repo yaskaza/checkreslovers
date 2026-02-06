@@ -238,6 +238,7 @@ pass: dnsforfamily-doh
 pass: dnsforfamily-doh-no-safe-search
 pass: dnsforfamily-no-safe-search
 pass: dnsforge.de
+pass: dnsforge.de (1 retry)
 pass: dnsforge.de-nofilter
 pass: dnslow.me
 pass: dnspod
@@ -248,6 +249,7 @@ pass: doh-crypto-sx
 pass: doh.appliedprivacy.net
 pass: doh.ffmuc.net
 pass: doh.ffmuc.net-2
+pass: doh.ibksturm
 pass: doh.tiar.app
 pass: doh.tiar.app-doh
 pass: doh.tiarap.org
@@ -274,12 +276,6 @@ pass: nextdns-ultralow
 pass: nic.cz
 pass: njalla-doh
 pass: nwps.fi
-pass: plan9dns-fl
-pass: plan9dns-fl-doh
-pass: plan9dns-mx
-pass: plan9dns-mx-doh
-pass: plan9dns-nj
-pass: plan9dns-nj-doh
 pass: qihoo360-doh
 pass: quad9-dnscrypt-ip4-filter-ecs-pri
 pass: quad9-dnscrypt-ip4-filter-pri
