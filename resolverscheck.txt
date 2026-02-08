@@ -1,5 +1,4 @@
 pass: a-and-a
-pass: a-and-a (1 retry)
 pass: adfilter-adl
 pass: adfilter-per
 pass: adfilter-syd
@@ -249,7 +248,7 @@ pass: doh-crypto-sx
 pass: doh.appliedprivacy.net
 pass: doh.ffmuc.net
 pass: doh.ffmuc.net-2
-pass: doh.ibksturm
+pass: doh.ibksturm (1 retry)
 pass: doh.tiar.app
 pass: doh.tiar.app-doh
 pass: doh.tiarap.org
@@ -257,7 +256,6 @@ pass: faelix-uk-ipv4
 pass: fdn
 pass: google
 pass: he
-pass: ibksturm
 pass: iij
 pass: jp.tiar.app
 pass: jp.tiar.app-doh
@@ -293,7 +291,6 @@ pass: quad9-doh-ip4-port443-nofilter-ecs-pri
 pass: quad9-doh-ip4-port443-nofilter-pri
 pass: restena-doh-ipv4
 pass: rethinkdns-doh
-pass: rethinkdns-doh (2 retries)
 pass: safesurfer
 pass: safesurfer-doh
 pass: saldns01-conoha-ipv4
