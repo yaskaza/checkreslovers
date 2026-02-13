@@ -31,7 +31,6 @@ pass: cloudflare
 pass: cloudflare-family
 pass: cloudflare-security
 pass: comodo-02
-pass: comodo-02 (1 retry)
 pass: comss.one
 pass: controld-block-malware
 pass: controld-block-malware-ad
@@ -124,7 +123,7 @@ pass: dnscry.pt-dhaka-ipv4
 pass: dnscry.pt-dublin-ipv4
 pass: dnscry.pt-durham-ipv4
 pass: dnscry.pt-dusseldorf-ipv4
-pass: dnscry.pt-ebenecity-ipv4
+pass: dnscry.pt-ebenecity-ipv4 (3 retries)
 pass: dnscry.pt-ebenecity02-ipv4
 pass: dnscry.pt-eygelshoven-ipv4
 pass: dnscry.pt-flint-ipv4
@@ -257,7 +256,6 @@ pass: faelix-uk-ipv4
 pass: fdn
 pass: google
 pass: he
-pass: ibksturm (3 retries)
 pass: iij
 pass: jp.tiar.app
 pass: jp.tiar.app-doh
@@ -289,12 +287,10 @@ pass: quad9-dnscrypt-ip4-nofilter-ecs-pri
 pass: quad9-dnscrypt-ip4-nofilter-pri
 pass: quad9-doh-ip4-port443-filter-ecs-pri
 pass: quad9-doh-ip4-port443-filter-pri
-pass: quad9-doh-ip4-port443-filter-pri (1 retry)
 pass: quad9-doh-ip4-port443-nofilter-ecs-pri
 pass: quad9-doh-ip4-port443-nofilter-pri
 pass: restena-doh-ipv4
 pass: rethinkdns-doh
-pass: rethinkdns-doh (1 retry)
 pass: safesurfer
 pass: safesurfer-doh
 pass: saldns01-conoha-ipv4
@@ -302,6 +298,7 @@ pass: saldns02-conoha-ipv4
 pass: saldns03-conoha-ipv4
 pass: scaleway-ams
 pass: scaleway-fr
+pass: searx-se-ipv4
 pass: serbica
 pass: sfw.scaleway-fr
 pass: switch
