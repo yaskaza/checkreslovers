@@ -82,6 +82,7 @@ pass: dct-de
 pass: dct-fr
 pass: deffer-dns.au
 pass: digitalprivacy.diy-dnscrypt-ipv4
+pass: dns.digitale-gesellschaft.ch
 pass: dns.digitalsize.net
 pass: dns.sb
 pass: dns4all-ipv4
