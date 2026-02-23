@@ -169,7 +169,7 @@ pass: dnscry.pt-losangeles02-ipv4
 pass: dnscry.pt-luxembourg-ipv4
 pass: dnscry.pt-madrid-ipv4
 pass: dnscry.pt-manchester-ipv4
-pass: dnscry.pt-manila-ipv4
+pass: dnscry.pt-manila-ipv4 (2 retries)
 pass: dnscry.pt-marseille-ipv4
 pass: dnscry.pt-melbourne-ipv4
 pass: dnscry.pt-miami-ipv4
@@ -247,7 +247,7 @@ pass: doh-crypto-sx
 pass: doh.appliedprivacy.net
 pass: doh.ffmuc.net
 pass: doh.ffmuc.net-2
-pass: doh.ibksturm (1 retry)
+pass: doh.ibksturm
 pass: doh.tiar.app
 pass: doh.tiar.app-doh
 pass: doh.tiarap.org
@@ -255,6 +255,7 @@ pass: faelix-uk-ipv4
 pass: fdn
 pass: google
 pass: he
+pass: ibksturm
 pass: iij
 pass: jp.tiar.app
 pass: jp.tiar.app-doh
