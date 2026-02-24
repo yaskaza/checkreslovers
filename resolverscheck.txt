@@ -169,7 +169,7 @@ pass: dnscry.pt-losangeles02-ipv4
 pass: dnscry.pt-luxembourg-ipv4
 pass: dnscry.pt-madrid-ipv4
 pass: dnscry.pt-manchester-ipv4
-pass: dnscry.pt-manila-ipv4 (2 retries)
+pass: dnscry.pt-manila-ipv4
 pass: dnscry.pt-marseille-ipv4
 pass: dnscry.pt-melbourne-ipv4
 pass: dnscry.pt-miami-ipv4
