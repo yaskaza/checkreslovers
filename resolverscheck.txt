@@ -121,6 +121,7 @@ pass: dnscry.pt-detroit-ipv4
 pass: dnscry.pt-dhaka-ipv4
 pass: dnscry.pt-dublin-ipv4
 pass: dnscry.pt-durham-ipv4
+pass: dnscry.pt-dusseldorf-ipv4
 pass: dnscry.pt-ebenecity-ipv4
 pass: dnscry.pt-ebenecity02-ipv4
 pass: dnscry.pt-eygelshoven-ipv4
@@ -245,7 +246,8 @@ pass: doh-crypto-sx
 pass: doh.appliedprivacy.net
 pass: doh.ffmuc.net
 pass: doh.ffmuc.net-2
-pass: doh.ibksturm
+pass: doh.ibksturm (1 retry)
+pass: doh.tiar.app
 pass: doh.tiar.app-doh
 pass: doh.tiarap.org
 pass: faelix-uk-ipv4
