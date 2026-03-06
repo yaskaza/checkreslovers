@@ -16,7 +16,7 @@ pass: brahma-world
 pass: cira-family
 pass: cira-private
 pass: cira-protected
-pass: circl-doh
+pass: circl-doh (1 retry)
 pass: cisco
 pass: cisco-doh
 pass: cisco-familyshield
