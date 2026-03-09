@@ -48,7 +48,7 @@ pass: cs-czech
 pass: cs-dc
 pass: cs-de
 pass: cs-dus
-pass: cs-finland
+pass: cs-finland (1 retry)
 pass: cs-fl
 pass: cs-fr
 pass: cs-ga
@@ -78,6 +78,7 @@ pass: cs-sydney
 pass: cs-tokyo
 pass: cs-tx
 pass: cs-vancouver
+pass: dct-de
 pass: dct-fr
 pass: deffer-dns.au
 pass: digitalprivacy.diy-dnscrypt-ipv4
@@ -245,7 +246,6 @@ pass: doh-crypto-sx
 pass: doh.appliedprivacy.net
 pass: doh.ffmuc.net
 pass: doh.ffmuc.net-2
-pass: doh.ibksturm
 pass: doh.tiar.app
 pass: doh.tiar.app-doh
 pass: doh.tiarap.org
@@ -253,7 +253,6 @@ pass: faelix-uk-ipv4
 pass: fdn
 pass: google
 pass: he
-pass: ibksturm (1 retry)
 pass: iij
 pass: jp.tiar.app
 pass: jp.tiar.app-doh
