@@ -246,7 +246,7 @@ pass: doh-crypto-sx
 pass: doh.appliedprivacy.net
 pass: doh.ffmuc.net
 pass: doh.ffmuc.net-2
-pass: doh.ibksturm (1 retry)
+pass: doh.ibksturm
 pass: doh.tiar.app
 pass: doh.tiar.app-doh
 pass: doh.tiarap.org
@@ -284,7 +284,6 @@ pass: quad9-dnscrypt-ip4-filter-pri
 pass: quad9-dnscrypt-ip4-nofilter-ecs-pri
 pass: quad9-dnscrypt-ip4-nofilter-pri
 pass: quad9-doh-ip4-port443-filter-ecs-pri
-pass: quad9-doh-ip4-port443-filter-ecs-pri (1 retry)
 pass: quad9-doh-ip4-port443-filter-pri
 pass: quad9-doh-ip4-port443-nofilter-ecs-pri
 pass: quad9-doh-ip4-port443-nofilter-pri
