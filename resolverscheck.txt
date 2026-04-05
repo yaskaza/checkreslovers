@@ -69,7 +69,6 @@ pass: cs-nv
 pass: cs-nyc
 pass: cs-ore
 pass: cs-poland
-pass: cs-pt
 pass: cs-ro
 pass: cs-sea
 pass: cs-serbia
@@ -258,7 +257,6 @@ pass: doh.tiar.app-doh
 pass: doh.tiarap.org
 pass: faelix-uk-ipv4
 pass: fdn
-pass: ffmuc.net (2 retries)
 pass: google
 pass: he
 pass: ibksturm
