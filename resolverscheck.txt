@@ -81,6 +81,7 @@ pass: cs-tokyo
 pass: cs-tx
 pass: cs-vancouver
 pass: dct-de
+pass: dct-de2
 pass: dct-fr
 pass: deffer-dns.au
 pass: dns.digitale-gesellschaft.ch
@@ -253,12 +254,10 @@ pass: doh-crypto-sx
 pass: doh.appliedprivacy.net
 pass: doh.ffmuc.net
 pass: doh.ibksturm
-pass: doh.tiar.app
 pass: doh.tiar.app-doh
 pass: doh.tiarap.org
 pass: faelix-uk-ipv4
 pass: fdn
-pass: ffmuc.net
 pass: google
 pass: he
 pass: ibksturm
@@ -301,6 +300,7 @@ pass: safesurfer
 pass: safesurfer-doh
 pass: safesurfer-doh-secondary-ipv4
 pass: saldns01-conoha-ipv4
+pass: saldns02-conoha-ipv4
 pass: saldns03-conoha-ipv4
 pass: scaleway-ams
 pass: scaleway-fr
