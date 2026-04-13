@@ -1,4 +1,5 @@
 pass: a-and-a
+pass: a-and-a (1 retry)
 pass: adfilter-adl
 pass: adfilter-per
 pass: adfilter-syd
@@ -260,7 +261,6 @@ pass: doh.tiar.app-doh
 pass: doh.tiarap.org
 pass: faelix-uk-ipv4
 pass: fdn
-pass: ffmuc.net (1 retry)
 pass: google
 pass: he
 pass: iij
