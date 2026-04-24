@@ -12,7 +12,6 @@ pass: alidns-doh
 pass: alidns-doh-ipv6
 pass: artikel10-doh-ipv4
 pass: blahdns-de-doh
-pass: blahdns-sg-doh
 pass: bortzmeyer
 pass: brahma-world
 pass: cira-family
@@ -32,7 +31,6 @@ pass: cleanbrowsing-security-doh
 pass: cloudflare
 pass: cloudflare-family
 pass: cloudflare-security
-pass: comodo-02
 pass: comss.one
 pass: controld-block-malware
 pass: controld-block-malware-ad
@@ -92,6 +90,7 @@ pass: dns4eu
 pass: dns4eu-protective
 pass: dnsbunker
 pass: dnscry.pt-adelaide-ipv4
+pass: dnscry.pt-allendale-ipv4
 pass: dnscry.pt-allentown-ipv4
 pass: dnscry.pt-amsterdam-ipv4
 pass: dnscry.pt-amsterdam02-ipv4
@@ -101,6 +100,7 @@ pass: dnscry.pt-athens-ipv4
 pass: dnscry.pt-atlanta-ipv4
 pass: dnscry.pt-auckland-ipv4
 pass: dnscry.pt-baku-ipv4
+pass: dnscry.pt-bangkok-ipv4
 pass: dnscry.pt-barcelona-ipv4
 pass: dnscry.pt-bengaluru-ipv4
 pass: dnscry.pt-berkeleysprings-ipv4
@@ -169,6 +169,7 @@ pass: dnscry.pt-lisbon-ipv4
 pass: dnscry.pt-lisbon02-ipv4
 pass: dnscry.pt-ljubljana-ipv4
 pass: dnscry.pt-london-ipv4
+pass: dnscry.pt-losangeles-ipv4
 pass: dnscry.pt-losangeles02-ipv4
 pass: dnscry.pt-luxembourg-ipv4
 pass: dnscry.pt-madrid-ipv4
@@ -188,6 +189,7 @@ pass: dnscry.pt-naaldwijk-ipv4
 pass: dnscry.pt-newcastle-ipv4
 pass: dnscry.pt-newyork-ipv4
 pass: dnscry.pt-nuremberg-ipv4
+pass: dnscry.pt-ogden-ipv4
 pass: dnscry.pt-oradea-ipv4
 pass: dnscry.pt-ottoville-ipv4
 pass: dnscry.pt-palermo-ipv4
@@ -226,7 +228,7 @@ pass: dnscry.pt-thessaloniki-ipv4
 pass: dnscry.pt-timisoara-ipv4
 pass: dnscry.pt-tirana-ipv4
 pass: dnscry.pt-tokyo-ipv4
-pass: dnscry.pt-tokyo02-ipv4 (3 retries)
+pass: dnscry.pt-tokyo02-ipv4
 pass: dnscry.pt-toronto-ipv4
 pass: dnscry.pt-toronto02-ipv4
 pass: dnscry.pt-tuusula-ipv4
@@ -237,6 +239,7 @@ pass: dnscry.pt-vientiane-ipv4
 pass: dnscry.pt-vilnius-ipv4
 pass: dnscry.pt-warsaw-ipv4
 pass: dnscry.pt-yerevan-ipv4
+pass: dnscry.pt-zurich-ipv4
 pass: dnscrypt.ca-ipv4
 pass: dnscrypt.ca-ipv4-doh
 pass: dnsforfamily
@@ -253,19 +256,17 @@ pass: doh-cleanbrowsing-security
 pass: doh-crypto-sx
 pass: doh.appliedprivacy.net
 pass: doh.ffmuc.net
-pass: doh.ibksturm (1 retry)
+pass: doh.ibksturm
 pass: doh.tiar.app
 pass: doh.tiar.app-doh
 pass: doh.tiarap.org
 pass: faelix-uk-ipv4
 pass: fdn
-pass: ffmuc.net (1 retry)
 pass: google
 pass: he
 pass: iij
 pass: jp.tiar.app
 pass: jp.tiar.app-doh
-pass: jp.tiarap.org
 pass: ksol.io-ns2-dnscrypt-ipv4
 pass: libredns
 pass: libredns-noads
@@ -292,7 +293,6 @@ pass: quad9-dnscrypt-ip4-filter-pri
 pass: quad9-dnscrypt-ip4-nofilter-ecs-pri
 pass: quad9-dnscrypt-ip4-nofilter-pri
 pass: quad9-doh-ip4-port443-filter-ecs-pri
-pass: quad9-doh-ip4-port443-filter-ecs-pri (1 retry)
 pass: quad9-doh-ip4-port443-filter-pri
 pass: quad9-doh-ip4-port443-nofilter-ecs-pri
 pass: quad9-doh-ip4-port443-nofilter-pri
