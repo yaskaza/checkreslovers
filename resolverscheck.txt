@@ -15,6 +15,7 @@ pass: blahdns-de-doh
 pass: bortzmeyer
 pass: brahma-world
 pass: cira-family
+pass: cira-family (1 retry)
 pass: cira-private
 pass: cira-protected
 pass: circl-doh
@@ -238,6 +239,7 @@ pass: dnscry.pt-vancouver-ipv4
 pass: dnscry.pt-vienna-ipv4
 pass: dnscry.pt-vientiane-ipv4
 pass: dnscry.pt-vilnius-ipv4
+pass: dnscry.pt-warsaw-ipv4
 pass: dnscry.pt-yerevan-ipv4
 pass: dnscry.pt-zurich-ipv4
 pass: dnscrypt.ca-ipv4
@@ -262,7 +264,6 @@ pass: doh.tiar.app-doh
 pass: doh.tiarap.org
 pass: faelix-uk-ipv4
 pass: fdn
-pass: ffmuc.net (2 retries)
 pass: google
 pass: he
 pass: iij
