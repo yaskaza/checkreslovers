@@ -15,7 +15,6 @@ pass: blahdns-de-doh
 pass: bortzmeyer
 pass: brahma-world
 pass: cira-family
-pass: cira-family (1 retry)
 pass: cira-private
 pass: cira-protected
 pass: circl-doh
@@ -161,7 +160,6 @@ pass: dnscry.pt-johannesburg-ipv4
 pass: dnscry.pt-johannesburg02-ipv4
 pass: dnscry.pt-johor-ipv4
 pass: dnscry.pt-kansascity-ipv4
-pass: dnscry.pt-kyiv-ipv4
 pass: dnscry.pt-kyiv02-ipv4
 pass: dnscry.pt-lagos-ipv4
 pass: dnscry.pt-lasvegas-ipv4
