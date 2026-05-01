@@ -32,6 +32,7 @@ pass: cleanbrowsing-security-doh
 pass: cloudflare
 pass: cloudflare-family
 pass: cloudflare-security
+pass: comodo-02
 pass: comss.one
 pass: controld-block-malware
 pass: controld-block-malware-ad
@@ -93,6 +94,7 @@ pass: dnsbunker
 pass: dnscry.pt-adelaide-ipv4
 pass: dnscry.pt-allendale-ipv4
 pass: dnscry.pt-allentown-ipv4
+pass: dnscry.pt-amsterdam-ipv4
 pass: dnscry.pt-amsterdam02-ipv4
 pass: dnscry.pt-amsterdam03-ipv4
 pass: dnscry.pt-ashburn-ipv4
@@ -162,7 +164,6 @@ pass: dnscry.pt-kansascity-ipv4
 pass: dnscry.pt-kyiv-ipv4
 pass: dnscry.pt-kyiv02-ipv4
 pass: dnscry.pt-lagos-ipv4
-pass: dnscry.pt-lasvegas-ipv4
 pass: dnscry.pt-libertylake-ipv4
 pass: dnscry.pt-lima02-ipv4
 pass: dnscry.pt-lisbon-ipv4
@@ -256,7 +257,7 @@ pass: doh-cleanbrowsing-security
 pass: doh-crypto-sx
 pass: doh.appliedprivacy.net
 pass: doh.ffmuc.net
-pass: doh.ibksturm (1 retry)
+pass: doh.ibksturm
 pass: doh.tiar.app
 pass: doh.tiar.app-doh
 pass: doh.tiarap.org
