@@ -197,7 +197,6 @@ pass: dnscry.pt-palermo-ipv4
 pass: dnscry.pt-paris-ipv4
 pass: dnscry.pt-perth-ipv4
 pass: dnscry.pt-philadelphia-ipv4
-pass: dnscry.pt-phoenix-ipv4
 pass: dnscry.pt-portedwards-ipv4
 pass: dnscry.pt-portland-ipv4
 pass: dnscry.pt-prague-ipv4
