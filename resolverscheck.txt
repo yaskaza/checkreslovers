@@ -74,7 +74,6 @@ pass: cs-ro
 pass: cs-sea
 pass: cs-serbia
 pass: cs-singapore
-pass: cs-sk
 pass: cs-swe
 pass: cs-sydney
 pass: cs-tokyo
@@ -164,6 +163,7 @@ pass: dnscry.pt-kansascity-ipv4
 pass: dnscry.pt-kyiv-ipv4
 pass: dnscry.pt-kyiv02-ipv4
 pass: dnscry.pt-lagos-ipv4
+pass: dnscry.pt-lasvegas-ipv4
 pass: dnscry.pt-libertylake-ipv4
 pass: dnscry.pt-lima02-ipv4
 pass: dnscry.pt-lisbon-ipv4
@@ -262,6 +262,7 @@ pass: doh.tiar.app-doh
 pass: doh.tiarap.org
 pass: faelix-uk-ipv4
 pass: fdn
+pass: ffmuc.net (3 retries)
 pass: google
 pass: he
 pass: iij
