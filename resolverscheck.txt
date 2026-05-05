@@ -303,7 +303,7 @@ pass: safesurfer
 pass: safesurfer-doh
 pass: safesurfer-doh-secondary-ipv4
 pass: saldns01-conoha-ipv4
-pass: saldns02-conoha-ipv4
+pass: saldns02-conoha-ipv4 (2 retries)
 pass: saldns03-conoha-ipv4
 pass: scaleway-ams
 pass: scaleway-fr
