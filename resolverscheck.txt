@@ -75,7 +75,7 @@ pass: cs-sea
 pass: cs-serbia
 pass: cs-singapore
 pass: cs-swe
-pass: cs-sydney
+pass: cs-sydney (1 retry)
 pass: cs-tokyo
 pass: cs-tx
 pass: cs-vancouver
@@ -197,6 +197,7 @@ pass: dnscry.pt-palermo-ipv4
 pass: dnscry.pt-paris-ipv4
 pass: dnscry.pt-perth-ipv4
 pass: dnscry.pt-philadelphia-ipv4
+pass: dnscry.pt-phoenix-ipv4
 pass: dnscry.pt-portedwards-ipv4
 pass: dnscry.pt-portland-ipv4
 pass: dnscry.pt-prague-ipv4
@@ -214,7 +215,7 @@ pass: dnscry.pt-seoul02-ipv4
 pass: dnscry.pt-singapore-ipv4
 pass: dnscry.pt-singapore02-ipv4
 pass: dnscry.pt-sofia-ipv4
-pass: dnscry.pt-spokane-ipv4
+pass: dnscry.pt-spokane-ipv4 (2 retries)
 pass: dnscry.pt-stockholm-ipv4
 pass: dnscry.pt-stockholm02-ipv4
 pass: dnscry.pt-sydney02-ipv4
@@ -303,7 +304,7 @@ pass: safesurfer
 pass: safesurfer-doh
 pass: safesurfer-doh-secondary-ipv4
 pass: saldns01-conoha-ipv4
-pass: saldns02-conoha-ipv4 (2 retries)
+pass: saldns02-conoha-ipv4
 pass: saldns03-conoha-ipv4
 pass: scaleway-ams
 pass: scaleway-fr
