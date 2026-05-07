@@ -75,7 +75,7 @@ pass: cs-sea
 pass: cs-serbia
 pass: cs-singapore
 pass: cs-swe
-pass: cs-sydney (1 retry)
+pass: cs-sydney
 pass: cs-tokyo
 pass: cs-tx
 pass: cs-vancouver
@@ -215,7 +215,7 @@ pass: dnscry.pt-seoul02-ipv4
 pass: dnscry.pt-singapore-ipv4
 pass: dnscry.pt-singapore02-ipv4
 pass: dnscry.pt-sofia-ipv4
-pass: dnscry.pt-spokane-ipv4 (2 retries)
+pass: dnscry.pt-spokane-ipv4
 pass: dnscry.pt-stockholm-ipv4
 pass: dnscry.pt-stockholm02-ipv4
 pass: dnscry.pt-sydney02-ipv4
@@ -263,6 +263,7 @@ pass: doh.tiar.app-doh
 pass: doh.tiarap.org
 pass: faelix-uk-ipv4
 pass: fdn
+pass: ffmuc.net
 pass: google
 pass: he
 pass: iij
