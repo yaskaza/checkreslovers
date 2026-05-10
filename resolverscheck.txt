@@ -32,9 +32,6 @@ pass: cleanbrowsing-security-doh
 pass: cloudflare
 pass: cloudflare-family
 pass: cloudflare-security
-pass: comodo-02
-pass: comodo-02 (2 retries)
-pass: comodo-02 (3 retries)
 pass: comss.one
 pass: controld-block-malware
 pass: controld-block-malware-ad
@@ -91,7 +88,6 @@ pass: dns.sb
 pass: dns4all-ipv4
 pass: dns4eu
 pass: dns4eu-protective
-pass: dnsbunker
 pass: dnscry.pt-adelaide-ipv4
 pass: dnscry.pt-allendale-ipv4
 pass: dnscry.pt-allentown-ipv4
