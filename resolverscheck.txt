@@ -33,12 +33,6 @@ pass: cloudflare
 pass: cloudflare-family
 pass: cloudflare-security
 pass: comss.one
-pass: controld-block-malware
-pass: controld-block-malware-ad
-pass: controld-block-malware-ad-social
-pass: controld-family-friendly
-pass: controld-uncensored
-pass: controld-unfiltered
 pass: cs-austria
 pass: cs-barcelona
 pass: cs-belgium
@@ -253,7 +247,6 @@ pass: doh-cleanbrowsing-adult
 pass: doh-cleanbrowsing-family
 pass: doh-cleanbrowsing-security
 pass: doh-crypto-sx
-pass: doh.appliedprivacy.net
 pass: doh.ffmuc.net
 pass: doh.ibksturm
 pass: doh.tiar.app
@@ -266,7 +259,6 @@ pass: he
 pass: iij
 pass: jp.tiar.app
 pass: jp.tiar.app-doh
-pass: jp.tiarap.org
 pass: ksol.io-ns2-dnscrypt-ipv4
 pass: libredns
 pass: libredns-noads
