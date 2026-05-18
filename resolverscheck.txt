@@ -34,6 +34,12 @@ pass: cloudflare-family
 pass: cloudflare-security
 pass: comodo-02
 pass: comss.one
+pass: controld-block-malware
+pass: controld-block-malware-ad
+pass: controld-block-malware-ad-social
+pass: controld-family-friendly
+pass: controld-uncensored
+pass: controld-unfiltered
 pass: cs-austria
 pass: cs-barcelona
 pass: cs-belgium
@@ -176,7 +182,7 @@ pass: dnscry.pt-molln-ipv4
 pass: dnscry.pt-montreal-ipv4
 pass: dnscry.pt-moscow-ipv4
 pass: dnscry.pt-mumbai-ipv4
-pass: dnscry.pt-mumbai02-ipv4
+pass: dnscry.pt-mumbai02-ipv4 (1 retry)
 pass: dnscry.pt-munich-ipv4
 pass: dnscry.pt-naaldwijk-ipv4
 pass: dnscry.pt-newcastle-ipv4
@@ -248,7 +254,6 @@ pass: doh-cleanbrowsing-security
 pass: doh-crypto-sx
 pass: doh.appliedprivacy.net
 pass: doh.ffmuc.net
-pass: doh.ibksturm
 pass: doh.tiar.app
 pass: doh.tiar.app-doh
 pass: doh.tiarap.org
@@ -256,7 +261,6 @@ pass: faelix-uk-ipv4
 pass: fdn
 pass: google
 pass: he
-pass: ibksturm (3 retries)
 pass: iij
 pass: jp.tiar.app
 pass: jp.tiar.app-doh
@@ -288,6 +292,7 @@ pass: quad9-dnscrypt-ip4-nofilter-ecs-pri
 pass: quad9-dnscrypt-ip4-nofilter-pri
 pass: quad9-doh-ip4-port443-filter-ecs-pri
 pass: quad9-doh-ip4-port443-filter-pri
+pass: quad9-doh-ip4-port443-filter-pri (1 retry)
 pass: quad9-doh-ip4-port443-nofilter-ecs-pri
 pass: quad9-doh-ip4-port443-nofilter-pri
 pass: restena-doh-ipv4
