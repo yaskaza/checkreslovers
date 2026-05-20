@@ -33,7 +33,6 @@ pass: cloudflare
 pass: cloudflare-family
 pass: cloudflare-security
 pass: comodo-02
-pass: comodo-02 (1 retry)
 pass: comss.one
 pass: controld-block-malware
 pass: controld-block-malware-ad
@@ -89,6 +88,7 @@ pass: dns.sb
 pass: dns4all-ipv4
 pass: dns4eu
 pass: dns4eu-protective
+pass: dnsbunker
 pass: dnscry.pt-adelaide-ipv4
 pass: dnscry.pt-allendale-ipv4
 pass: dnscry.pt-allentown-ipv4
@@ -127,6 +127,7 @@ pass: dnscry.pt-durham-ipv4
 pass: dnscry.pt-dusseldorf-ipv4
 pass: dnscry.pt-dusseldorf02-ipv4
 pass: dnscry.pt-dusseldorf03-ipv4
+pass: dnscry.pt-ebenecity-ipv4
 pass: dnscry.pt-ebenecity02-ipv4
 pass: dnscry.pt-eygelshoven-ipv4
 pass: dnscry.pt-flint-ipv4
@@ -213,7 +214,7 @@ pass: dnscry.pt-seoul02-ipv4
 pass: dnscry.pt-singapore-ipv4
 pass: dnscry.pt-singapore02-ipv4
 pass: dnscry.pt-sofia-ipv4
-pass: dnscry.pt-spokane-ipv4
+pass: dnscry.pt-spokane-ipv4 (1 retry)
 pass: dnscry.pt-stockholm-ipv4
 pass: dnscry.pt-stockholm02-ipv4
 pass: dnscry.pt-sydney02-ipv4
@@ -254,7 +255,7 @@ pass: doh-cleanbrowsing-security
 pass: doh-crypto-sx
 pass: doh.appliedprivacy.net
 pass: doh.ffmuc.net
-pass: doh.ibksturm
+pass: doh.ibksturm (1 retry)
 pass: doh.tiar.app
 pass: doh.tiar.app-doh
 pass: doh.tiarap.org
@@ -262,7 +263,6 @@ pass: faelix-uk-ipv4
 pass: fdn
 pass: google
 pass: he
-pass: ibksturm
 pass: iij
 pass: jp.tiar.app
 pass: jp.tiar.app-doh
