@@ -124,6 +124,7 @@ pass: dnscry.pt-durham-ipv4
 pass: dnscry.pt-dusseldorf-ipv4
 pass: dnscry.pt-dusseldorf02-ipv4
 pass: dnscry.pt-dusseldorf03-ipv4
+pass: dnscry.pt-ebenecity-ipv4
 pass: dnscry.pt-ebenecity02-ipv4
 pass: dnscry.pt-eygelshoven-ipv4
 pass: dnscry.pt-flint-ipv4
