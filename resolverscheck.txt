@@ -159,7 +159,7 @@ pass: dnscry.pt-johor-ipv4
 pass: dnscry.pt-kansascity-ipv4
 pass: dnscry.pt-kyiv-ipv4
 pass: dnscry.pt-lagos-ipv4
-pass: dnscry.pt-lasvegas-ipv4
+pass: dnscry.pt-lasvegas-ipv4 (1 retry)
 pass: dnscry.pt-libertylake-ipv4
 pass: dnscry.pt-lima02-ipv4
 pass: dnscry.pt-lisbon-ipv4
@@ -211,7 +211,7 @@ pass: dnscry.pt-seoul02-ipv4
 pass: dnscry.pt-singapore-ipv4
 pass: dnscry.pt-singapore02-ipv4
 pass: dnscry.pt-sofia-ipv4
-pass: dnscry.pt-spokane-ipv4
+pass: dnscry.pt-spokane-ipv4 (1 retry)
 pass: dnscry.pt-stockholm-ipv4
 pass: dnscry.pt-stockholm02-ipv4
 pass: dnscry.pt-sydney02-ipv4
@@ -306,6 +306,7 @@ pass: switch
 pass: uncensoreddns-dk-ipv4
 pass: uncensoreddns-ipv4
 pass: userspace-australia
+pass: vpsdns-za
 pass: vpsdns-za-doh
 pass: wikimedia
 pass: yandex
