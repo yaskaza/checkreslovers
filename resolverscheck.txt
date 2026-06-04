@@ -34,7 +34,6 @@ pass: cleanbrowsing-security-doh
 pass: cloudflare
 pass: cloudflare-family
 pass: cloudflare-security
-pass: comodo-02
 pass: comss.one
 pass: controld-block-malware
 pass: controld-block-malware-ad
