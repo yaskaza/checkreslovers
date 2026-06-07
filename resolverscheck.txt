@@ -15,6 +15,7 @@ pass: blahdns-de-doh
 pass: blahdns-sg-doh
 pass: bortzmeyer
 pass: brahma-world
+pass: cipherdns-jb1-doh-za
 pass: cira-family
 pass: cira-private
 pass: cira-protected
@@ -77,7 +78,9 @@ pass: cs-sydney
 pass: cs-tokyo
 pass: cs-tx
 pass: cs-vancouver
+pass: dct-de
 pass: dct-de2
+pass: dct-fr
 pass: deffer-dns.au
 pass: dns.digitale-gesellschaft.ch
 pass: dns.digitalsize.net
@@ -91,7 +94,6 @@ pass: dnscry.pt-allendale-ipv4
 pass: dnscry.pt-allentown-ipv4
 pass: dnscry.pt-amsterdam-ipv4
 pass: dnscry.pt-amsterdam02-ipv4
-pass: dnscry.pt-amsterdam03-ipv4
 pass: dnscry.pt-ashburn-ipv4
 pass: dnscry.pt-athens-ipv4
 pass: dnscry.pt-atlanta-ipv4
@@ -258,6 +260,7 @@ pass: fdn
 pass: google
 pass: he
 pass: iij
+pass: jp.tiar.app-doh
 pass: jp.tiarap.org
 pass: ksol.io-ns2-dnscrypt-ipv4
 pass: libredns
@@ -273,6 +276,12 @@ pass: nextdns-ultralow
 pass: nic.cz
 pass: njalla-doh
 pass: nwps.fi
+pass: plan9dns-fl
+pass: plan9dns-fl-doh
+pass: plan9dns-mx
+pass: plan9dns-mx-doh
+pass: plan9dns-nj
+pass: plan9dns-nj-doh
 pass: qihoo360-doh
 pass: quad9-dnscrypt-ip4-filter-ecs-pri
 pass: quad9-dnscrypt-ip4-filter-pri
