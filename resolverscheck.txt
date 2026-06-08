@@ -16,6 +16,7 @@ pass: blahdns-sg-doh
 pass: bortzmeyer
 pass: brahma-world
 pass: cipherdns-jb1-doh-za
+pass: cipherdns-jb1-za
 pass: cira-family
 pass: cira-private
 pass: cira-protected
@@ -94,6 +95,7 @@ pass: dnscry.pt-allendale-ipv4
 pass: dnscry.pt-allentown-ipv4
 pass: dnscry.pt-amsterdam-ipv4
 pass: dnscry.pt-amsterdam02-ipv4
+pass: dnscry.pt-amsterdam03-ipv4
 pass: dnscry.pt-ashburn-ipv4
 pass: dnscry.pt-athens-ipv4
 pass: dnscry.pt-atlanta-ipv4
