@@ -77,12 +77,15 @@ pass: cs-sydney
 pass: cs-tokyo
 pass: cs-tx
 pass: cs-vancouver
+pass: dct-de
 pass: dct-de2
+pass: dct-fr
 pass: deffer-dns.au
 pass: dns.digitale-gesellschaft.ch
 pass: dns.digitalsize.net
 pass: dns.sb
 pass: dns4all-ipv4
+pass: dns4all-ipv4 (1 retry)
 pass: dns4eu
 pass: dns4eu-protective
 pass: dnsbunker
@@ -156,7 +159,7 @@ pass: dnscry.pt-johor-ipv4
 pass: dnscry.pt-kansascity-ipv4
 pass: dnscry.pt-kyiv-ipv4
 pass: dnscry.pt-lagos-ipv4
-pass: dnscry.pt-lasvegas-ipv4
+pass: dnscry.pt-lasvegas-ipv4 (1 retry)
 pass: dnscry.pt-libertylake-ipv4
 pass: dnscry.pt-lima02-ipv4
 pass: dnscry.pt-lisbon-ipv4
@@ -206,9 +209,9 @@ pass: dnscry.pt-seattle-ipv4
 pass: dnscry.pt-seoul-ipv4
 pass: dnscry.pt-seoul02-ipv4
 pass: dnscry.pt-singapore-ipv4
-pass: dnscry.pt-singapore02-ipv4
+pass: dnscry.pt-singapore02-ipv4 (2 retries)
 pass: dnscry.pt-sofia-ipv4
-pass: dnscry.pt-spokane-ipv4 (1 retry)
+pass: dnscry.pt-spokane-ipv4
 pass: dnscry.pt-stockholm-ipv4
 pass: dnscry.pt-stockholm02-ipv4
 pass: dnscry.pt-sydney02-ipv4
@@ -255,7 +258,7 @@ pass: doh.tiarap.org
 pass: dorriere-fr
 pass: fdn
 pass: google
-pass: he
+pass: he (3 retries)
 pass: iij
 pass: jp.tiar.app-doh
 pass: jp.tiarap.org
@@ -273,6 +276,12 @@ pass: nextdns-ultralow
 pass: nic.cz
 pass: njalla-doh
 pass: nwps.fi
+pass: plan9dns-fl
+pass: plan9dns-fl-doh
+pass: plan9dns-mx
+pass: plan9dns-mx-doh
+pass: plan9dns-nj
+pass: plan9dns-nj-doh
 pass: qihoo360-doh
 pass: quad9-dnscrypt-ip4-filter-ecs-pri
 pass: quad9-dnscrypt-ip4-filter-pri
