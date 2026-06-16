@@ -35,7 +35,6 @@ pass: cloudflare
 pass: cloudflare-family
 pass: cloudflare-security
 pass: comodo-02
-pass: comodo-02 (1 retry)
 pass: comss.one
 pass: controld-block-malware
 pass: controld-block-malware-ad
@@ -53,7 +52,7 @@ pass: cs-dc
 pass: cs-de
 pass: cs-dus
 pass: cs-finland
-pass: cs-fl
+pass: cs-fl (1 retry)
 pass: cs-fr
 pass: cs-ga
 pass: cs-hungary
@@ -225,7 +224,6 @@ pass: dnscry.pt-tampa-ipv4
 pass: dnscry.pt-taos-ipv4
 pass: dnscry.pt-tbilisi-ipv4
 pass: dnscry.pt-telaviv-ipv4
-pass: dnscry.pt-thessaloniki-ipv4
 pass: dnscry.pt-timisoara-ipv4
 pass: dnscry.pt-tirana-ipv4
 pass: dnscry.pt-tokyo-ipv4
@@ -305,7 +303,6 @@ pass: saldns03-conoha-ipv4
 pass: scaleway-ams
 pass: scaleway-fr
 pass: searx-se-ipv4
-pass: serbica
 pass: sfw.scaleway-fr
 pass: switch
 pass: uncensoreddns-dk-ipv4
