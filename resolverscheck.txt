@@ -15,6 +15,8 @@ pass: blahdns-de-doh
 pass: blahdns-sg-doh
 pass: bortzmeyer
 pass: brahma-world
+pass: cipherdns-jb1-doh-za
+pass: cipherdns-jb1-za
 pass: cira-family
 pass: cira-private
 pass: cira-protected
@@ -33,6 +35,7 @@ pass: cloudflare
 pass: cloudflare-family
 pass: cloudflare-security
 pass: comodo-02
+pass: comss.one
 pass: controld-block-malware
 pass: controld-block-malware-ad
 pass: controld-block-malware-ad-social
@@ -76,7 +79,9 @@ pass: cs-sydney
 pass: cs-tokyo
 pass: cs-tx
 pass: cs-vancouver
+pass: dct-de
 pass: dct-de2
+pass: dct-fr
 pass: deffer-dns.au
 pass: dns.digitale-gesellschaft.ch
 pass: dns.digitalsize.net
@@ -94,7 +99,6 @@ pass: dnscry.pt-amsterdam03-ipv4
 pass: dnscry.pt-ashburn-ipv4
 pass: dnscry.pt-atlanta-ipv4
 pass: dnscry.pt-auckland-ipv4
-pass: dnscry.pt-baku-ipv4
 pass: dnscry.pt-bangkok-ipv4
 pass: dnscry.pt-barcelona-ipv4
 pass: dnscry.pt-bengaluru-ipv4
@@ -166,7 +170,6 @@ pass: dnscry.pt-ljubljana-ipv4
 pass: dnscry.pt-london-ipv4
 pass: dnscry.pt-losangeles-ipv4
 pass: dnscry.pt-losangeles02-ipv4
-pass: dnscry.pt-luxembourg-ipv4
 pass: dnscry.pt-madrid-ipv4
 pass: dnscry.pt-manchester-ipv4
 pass: dnscry.pt-manila-ipv4
@@ -195,7 +198,6 @@ pass: dnscry.pt-phoenix-ipv4
 pass: dnscry.pt-portedwards-ipv4
 pass: dnscry.pt-portland-ipv4
 pass: dnscry.pt-prague-ipv4
-pass: dnscry.pt-queretaro-ipv4
 pass: dnscry.pt-redditch-ipv4
 pass: dnscry.pt-riga-ipv4
 pass: dnscry.pt-saltlakecity-ipv4
@@ -204,7 +206,6 @@ pass: dnscry.pt-sanjose-ipv4
 pass: dnscry.pt-santaclara-ipv4
 pass: dnscry.pt-saopaulo-ipv4
 pass: dnscry.pt-seattle-ipv4
-pass: dnscry.pt-seoul-ipv4
 pass: dnscry.pt-seoul02-ipv4
 pass: dnscry.pt-singapore-ipv4
 pass: dnscry.pt-singapore02-ipv4
@@ -218,7 +219,6 @@ pass: dnscry.pt-tallinn-ipv4
 pass: dnscry.pt-tampa-ipv4
 pass: dnscry.pt-taos-ipv4
 pass: dnscry.pt-tbilisi-ipv4
-pass: dnscry.pt-telaviv-ipv4
 pass: dnscry.pt-thessaloniki-ipv4
 pass: dnscry.pt-timisoara-ipv4
 pass: dnscry.pt-tirana-ipv4
@@ -233,7 +233,6 @@ pass: dnscry.pt-vienna-ipv4
 pass: dnscry.pt-vientiane-ipv4
 pass: dnscry.pt-vilnius-ipv4
 pass: dnscry.pt-warsaw-ipv4
-pass: dnscry.pt-yerevan-ipv4
 pass: dnscry.pt-zurich-ipv4
 pass: dnscrypt.ca-ipv4
 pass: dnscrypt.ca-ipv4-doh
@@ -241,8 +240,7 @@ pass: dnsforfamily
 pass: dnsforfamily-doh
 pass: dnsforfamily-doh-no-safe-search
 pass: dnsforfamily-no-safe-search
-pass: dnsforge.de
-pass: dnsforge.de (1 retry)
+pass: dnsforge.de (2 retries)
 pass: dnsforge.de-nofilter
 pass: dnslow.me
 pass: dnspod
@@ -276,6 +274,12 @@ pass: nextdns-ultralow
 pass: nic.cz
 pass: njalla-doh
 pass: nwps.fi
+pass: plan9dns-fl
+pass: plan9dns-fl-doh
+pass: plan9dns-mx
+pass: plan9dns-mx-doh
+pass: plan9dns-nj
+pass: plan9dns-nj-doh
 pass: qihoo360-doh
 pass: quad9-dnscrypt-ip4-filter-ecs-pri
 pass: quad9-dnscrypt-ip4-filter-pri
@@ -283,7 +287,6 @@ pass: quad9-dnscrypt-ip4-nofilter-ecs-pri
 pass: quad9-dnscrypt-ip4-nofilter-pri
 pass: quad9-doh-ip4-port443-filter-ecs-pri
 pass: quad9-doh-ip4-port443-filter-pri
-pass: quad9-doh-ip4-port443-filter-pri (1 retry)
 pass: quad9-doh-ip4-port443-nofilter-ecs-pri
 pass: quad9-doh-ip4-port443-nofilter-pri
 pass: restena-doh-ipv4
