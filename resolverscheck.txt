@@ -15,6 +15,8 @@ pass: blahdns-de-doh
 pass: blahdns-sg-doh
 pass: bortzmeyer
 pass: brahma-world
+pass: cipherdns-ct1-doh-za
+pass: cipherdns-ct1-za
 pass: cipherdns-jb1-doh-za
 pass: cipherdns-jb1-za
 pass: cira-family
@@ -262,7 +264,6 @@ pass: doh.tiarap.org
 pass: dorriere-fr
 pass: fdn
 pass: google
-pass: he
 pass: iij
 pass: jp.tiar.app-doh
 pass: jp.tiarap.org
@@ -304,7 +305,6 @@ pass: saldns02-conoha-ipv4
 pass: saldns03-conoha-ipv4
 pass: scaleway-ams
 pass: scaleway-fr
-pass: searx-se-ipv4
 pass: serbica
 pass: sfw.scaleway-fr
 pass: switch
