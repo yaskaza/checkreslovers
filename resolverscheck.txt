@@ -11,6 +11,8 @@ pass: adguard-dns-unfiltered-doh
 pass: alidns-doh
 pass: alidns-doh-ipv6
 pass: artikel10-doh-ipv4
+pass: blahdns-de-doh
+pass: blahdns-sg-doh
 pass: bortzmeyer
 pass: brahma-world
 pass: cipherdns-ct1-doh-za
@@ -33,6 +35,7 @@ pass: cloudflare
 pass: cloudflare-family
 pass: cloudflare-security
 pass: comodo-02
+pass: comodo-02 (1 retry)
 pass: comss.one
 pass: controld-block-malware
 pass: controld-block-malware-ad
@@ -101,7 +104,6 @@ pass: dnscry.pt-baku-ipv4
 pass: dnscry.pt-bangkok-ipv4
 pass: dnscry.pt-barcelona-ipv4
 pass: dnscry.pt-bengaluru-ipv4
-pass: dnscry.pt-berkeleysprings-ipv4
 pass: dnscry.pt-bogota-ipv4
 pass: dnscry.pt-bratislava-ipv4
 pass: dnscry.pt-bremen-ipv4
@@ -246,7 +248,6 @@ pass: dnsforge.de
 pass: dnsforge.de-nofilter
 pass: dnslow.me
 pass: dnspod
-pass: dnspod (1 retry)
 pass: doh-cleanbrowsing-adult
 pass: doh-cleanbrowsing-family
 pass: doh-cleanbrowsing-security
