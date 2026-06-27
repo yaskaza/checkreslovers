@@ -37,7 +37,6 @@ pass: cloudflare
 pass: cloudflare-family
 pass: cloudflare-security
 pass: comodo-02
-pass: comodo-02 (1 retry)
 pass: comss.one
 pass: controld-block-malware
 pass: controld-block-malware-ad
@@ -105,6 +104,7 @@ pass: dnscry.pt-auckland-ipv4
 pass: dnscry.pt-baku-ipv4
 pass: dnscry.pt-bangkok-ipv4
 pass: dnscry.pt-bengaluru-ipv4
+pass: dnscry.pt-berkeleysprings-ipv4
 pass: dnscry.pt-bogota-ipv4
 pass: dnscry.pt-bratislava-ipv4
 pass: dnscry.pt-bremen-ipv4
@@ -213,13 +213,13 @@ pass: dnscry.pt-seoul02-ipv4
 pass: dnscry.pt-singapore-ipv4
 pass: dnscry.pt-singapore02-ipv4
 pass: dnscry.pt-sofia-ipv4
+pass: dnscry.pt-spokane-ipv4
 pass: dnscry.pt-stockholm-ipv4
 pass: dnscry.pt-stockholm02-ipv4
 pass: dnscry.pt-sydney02-ipv4
 pass: dnscry.pt-taipeh-ipv4
 pass: dnscry.pt-tallinn-ipv4
 pass: dnscry.pt-tampa-ipv4
-pass: dnscry.pt-taos-ipv4
 pass: dnscry.pt-tbilisi-ipv4
 pass: dnscry.pt-telaviv-ipv4
 pass: dnscry.pt-thessaloniki-ipv4
@@ -260,7 +260,6 @@ pass: doh.tiarap.org
 pass: dorriere-fr
 pass: fdn
 pass: google
-pass: he
 pass: iij
 pass: jp.tiar.app-doh
 pass: jp.tiarap.org
