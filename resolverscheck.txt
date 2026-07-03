@@ -55,6 +55,7 @@ pass: cs-de
 pass: cs-dus
 pass: cs-finland
 pass: cs-fl
+pass: cs-fr
 pass: cs-ga
 pass: cs-hungary
 pass: cs-il
@@ -232,7 +233,7 @@ pass: dnscry.pt-vientiane-ipv4
 pass: dnscry.pt-vilnius-ipv4
 pass: dnscry.pt-warsaw-ipv4
 pass: dnscry.pt-yerevan-ipv4
-pass: dnscry.pt-zurich-ipv4 (1 retry)
+pass: dnscry.pt-zurich-ipv4
 pass: dnscrypt.ca-ipv4
 pass: dnscrypt.ca-ipv4-doh
 pass: dnsforfamily
@@ -243,12 +244,10 @@ pass: dnsforge.de
 pass: dnsforge.de-nofilter
 pass: dnslow.me
 pass: dnspod
-pass: dnspod (3 retries)
 pass: doh-cleanbrowsing-adult
 pass: doh-cleanbrowsing-family
 pass: doh-cleanbrowsing-security
 pass: doh-crypto-sx
-pass: doh.appliedprivacy.net
 pass: doh.ffmuc.net
 pass: doh.ibksturm
 pass: doh.tiar.app-doh
