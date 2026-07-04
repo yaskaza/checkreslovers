@@ -11,14 +11,11 @@ pass: adguard-dns-unfiltered-doh
 pass: alidns-doh
 pass: alidns-doh-ipv6
 pass: artikel10-doh-ipv4
-pass: blahdns-de-doh
-pass: blahdns-sg-doh
 pass: bortzmeyer
 pass: brahma-world
 pass: cipherdns-ct1-doh-za
 pass: cipherdns-ct1-za
 pass: cipherdns-jb1-doh-za
-pass: cipherdns-jb1-za
 pass: cira-family
 pass: cira-private
 pass: cira-protected
@@ -248,6 +245,7 @@ pass: doh-cleanbrowsing-adult
 pass: doh-cleanbrowsing-family
 pass: doh-cleanbrowsing-security
 pass: doh-crypto-sx
+pass: doh.appliedprivacy.net
 pass: doh.ffmuc.net
 pass: doh.ibksturm
 pass: doh.tiar.app-doh
@@ -257,7 +255,6 @@ pass: fdn
 pass: google
 pass: he
 pass: iij
-pass: jp.tiar.app-doh
 pass: jp.tiarap.org
 pass: ksol.io-ns2-dnscrypt-ipv4
 pass: libredns
