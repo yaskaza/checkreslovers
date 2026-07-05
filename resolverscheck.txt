@@ -11,11 +11,12 @@ pass: adguard-dns-unfiltered-doh
 pass: alidns-doh
 pass: alidns-doh-ipv6
 pass: artikel10-doh-ipv4
+pass: blahdns-de-doh
+pass: blahdns-sg-doh
 pass: bortzmeyer
 pass: brahma-world
 pass: cipherdns-ct1-doh-za
 pass: cipherdns-ct1-za
-pass: cipherdns-jb1-doh-za
 pass: cira-family
 pass: cira-private
 pass: cira-protected
@@ -101,7 +102,6 @@ pass: dnscry.pt-auckland-ipv4
 pass: dnscry.pt-baku-ipv4
 pass: dnscry.pt-bangkok-ipv4
 pass: dnscry.pt-bengaluru-ipv4
-pass: dnscry.pt-berkeleysprings-ipv4
 pass: dnscry.pt-bogota-ipv4
 pass: dnscry.pt-bratislava-ipv4
 pass: dnscry.pt-bremen-ipv4
@@ -147,16 +147,13 @@ pass: dnscry.pt-hudiksvall-ipv4
 pass: dnscry.pt-ikeja-ipv4
 pass: dnscry.pt-indianapolis-ipv4
 pass: dnscry.pt-islamabad-ipv4
-pass: dnscry.pt-istanbul-ipv4
 pass: dnscry.pt-jacksonville-ipv4
 pass: dnscry.pt-jakarta-ipv4
 pass: dnscry.pt-jena-ipv4
 pass: dnscry.pt-johannesburg-ipv4
 pass: dnscry.pt-johannesburg02-ipv4
-pass: dnscry.pt-johor-ipv4
 pass: dnscry.pt-kansascity-ipv4
 pass: dnscry.pt-kyiv-ipv4
-pass: dnscry.pt-kyiv02-ipv4
 pass: dnscry.pt-lasvegas-ipv4
 pass: dnscry.pt-libertylake-ipv4
 pass: dnscry.pt-lima02-ipv4
@@ -166,7 +163,7 @@ pass: dnscry.pt-ljubljana-ipv4
 pass: dnscry.pt-london-ipv4
 pass: dnscry.pt-losangeles-ipv4
 pass: dnscry.pt-losangeles02-ipv4
-pass: dnscry.pt-luxembourg-ipv4
+pass: dnscry.pt-luxembourg-ipv4 (1 retry)
 pass: dnscry.pt-madrid-ipv4
 pass: dnscry.pt-manchester-ipv4
 pass: dnscry.pt-manila-ipv4
@@ -213,7 +210,6 @@ pass: dnscry.pt-sydney02-ipv4
 pass: dnscry.pt-taipeh-ipv4
 pass: dnscry.pt-tallinn-ipv4
 pass: dnscry.pt-tampa-ipv4
-pass: dnscry.pt-tbilisi-ipv4
 pass: dnscry.pt-telaviv-ipv4
 pass: dnscry.pt-thessaloniki-ipv4
 pass: dnscry.pt-timisoara-ipv4
@@ -255,6 +251,7 @@ pass: fdn
 pass: google
 pass: he
 pass: iij
+pass: jp.tiar.app-doh
 pass: jp.tiarap.org
 pass: ksol.io-ns2-dnscrypt-ipv4
 pass: libredns
