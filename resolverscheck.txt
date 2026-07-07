@@ -18,9 +18,7 @@ pass: brahma-world
 pass: cipherdns-ct1-doh-za
 pass: cipherdns-ct1-za
 pass: cipherdns-jb1-doh-za
-pass: cipherdns-jb1-za
 pass: cira-family
-pass: cira-family (1 retry)
 pass: cira-private
 pass: cira-protected
 pass: circl-doh
@@ -150,11 +148,13 @@ pass: dnscry.pt-hudiksvall-ipv4
 pass: dnscry.pt-ikeja-ipv4
 pass: dnscry.pt-indianapolis-ipv4
 pass: dnscry.pt-islamabad-ipv4
+pass: dnscry.pt-istanbul-ipv4
 pass: dnscry.pt-jacksonville-ipv4
 pass: dnscry.pt-jakarta-ipv4
 pass: dnscry.pt-jena-ipv4
 pass: dnscry.pt-johannesburg-ipv4
 pass: dnscry.pt-johannesburg02-ipv4
+pass: dnscry.pt-johor-ipv4
 pass: dnscry.pt-kansascity-ipv4
 pass: dnscry.pt-kyiv-ipv4
 pass: dnscry.pt-lasvegas-ipv4
@@ -238,6 +238,7 @@ pass: dnsforfamily-doh-no-safe-search
 pass: dnsforfamily-no-safe-search
 pass: dnsforge.de
 pass: dnsforge.de-nofilter
+pass: dnshome-de
 pass: dnslow.me
 pass: dnspod
 pass: doh-cleanbrowsing-adult
@@ -257,6 +258,7 @@ pass: iij
 pass: jp.tiar.app-doh
 pass: jp.tiarap.org
 pass: ksol.io-ns2-dnscrypt-ipv4
+pass: la-contre-voie
 pass: libredns
 pass: libredns-noads
 pass: mullvad-adblock-doh
