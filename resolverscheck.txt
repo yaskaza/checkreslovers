@@ -18,6 +18,7 @@ pass: brahma-world
 pass: cipherdns-ct1-doh-za
 pass: cipherdns-ct1-za
 pass: cipherdns-jb1-doh-za
+pass: cipherdns-jb1-za
 pass: cira-family
 pass: cira-private
 pass: cira-protected
@@ -154,7 +155,6 @@ pass: dnscry.pt-jakarta-ipv4
 pass: dnscry.pt-jena-ipv4
 pass: dnscry.pt-johannesburg-ipv4
 pass: dnscry.pt-johannesburg02-ipv4
-pass: dnscry.pt-johor-ipv4
 pass: dnscry.pt-kansascity-ipv4
 pass: dnscry.pt-kyiv-ipv4
 pass: dnscry.pt-lasvegas-ipv4
