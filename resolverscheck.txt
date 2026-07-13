@@ -20,7 +20,6 @@ pass: cipherdns-ct1-za
 pass: cipherdns-jb1-doh-za
 pass: cipherdns-jb1-za
 pass: cira-family
-pass: cira-family (1 retry)
 pass: cira-private
 pass: cira-protected
 pass: circl-doh
@@ -38,8 +37,13 @@ pass: cloudflare
 pass: cloudflare-family
 pass: cloudflare-security
 pass: comodo-02
-pass: comodo-02 (1 retry)
 pass: comss.one
+pass: controld-block-malware
+pass: controld-block-malware-ad
+pass: controld-block-malware-ad-social
+pass: controld-family-friendly
+pass: controld-uncensored
+pass: controld-unfiltered
 pass: cs-austria
 pass: cs-barcelona
 pass: cs-belgium
@@ -119,73 +123,45 @@ pass: dnscry.pt-dallas-ipv4
 pass: dnscry.pt-denver-ipv4
 pass: dnscry.pt-detroit-ipv4
 pass: dnscry.pt-dhaka-ipv4
-pass: dnscry.pt-doh-allentown-ipv4 (3 retries)
-pass: dnscry.pt-doh-amsterdam-ipv4 (1 retry)
-pass: dnscry.pt-doh-ashburn-ipv4
+pass: dnscry.pt-doh-allentown-ipv4 (2 retries)
+pass: dnscry.pt-doh-ashburn-ipv4 (3 retries)
 pass: dnscry.pt-doh-atlanta-ipv4
-pass: dnscry.pt-doh-auckland-ipv4
-pass: dnscry.pt-doh-bangkok-ipv4 (2 retries)
-pass: dnscry.pt-doh-berkeleysprings-ipv4
-pass: dnscry.pt-doh-bogota-ipv4 (1 retry)
-pass: dnscry.pt-doh-bratislava-ipv4
-pass: dnscry.pt-doh-bremen-ipv4 (3 retries)
-pass: dnscry.pt-doh-bucharest-ipv4 (2 retries)
-pass: dnscry.pt-doh-calgary-ipv4 (1 retry)
-pass: dnscry.pt-doh-capetown-ipv4 (2 retries)
-pass: dnscry.pt-doh-chicago-ipv4
-pass: dnscry.pt-doh-coventry-ipv4
-pass: dnscry.pt-doh-dallas-ipv4 (1 retry)
-pass: dnscry.pt-doh-denver-ipv4
-pass: dnscry.pt-doh-durham-ipv4 (2 retries)
-pass: dnscry.pt-doh-flint-ipv4 (1 retry)
-pass: dnscry.pt-doh-frankfurt-ipv4 (3 retries)
-pass: dnscry.pt-doh-fremont02-ipv4
-pass: dnscry.pt-doh-grandrapids-ipv4
-pass: dnscry.pt-doh-halifax-ipv4 (3 retries)
+pass: dnscry.pt-doh-berkeleysprings-ipv4 (2 retries)
+pass: dnscry.pt-doh-bogota-ipv4 (3 retries)
+pass: dnscry.pt-doh-calgary-ipv4 (2 retries)
+pass: dnscry.pt-doh-chicago-ipv4 (1 retry)
+pass: dnscry.pt-doh-dallas-ipv4
+pass: dnscry.pt-doh-detroit-ipv4 (1 retry)
+pass: dnscry.pt-doh-flint-ipv4 (3 retries)
+pass: dnscry.pt-doh-fremont02-ipv4 (1 retry)
+pass: dnscry.pt-doh-halifax-ipv4
+pass: dnscry.pt-doh-hongkong03-ipv4 (2 retries)
 pass: dnscry.pt-doh-houston-ipv4
-pass: dnscry.pt-doh-hudiksvall-ipv4 (3 retries)
-pass: dnscry.pt-doh-indianapolis-ipv4 (2 retries)
-pass: dnscry.pt-doh-islamabad-ipv4 (2 retries)
-pass: dnscry.pt-doh-jacksonville-ipv4
-pass: dnscry.pt-doh-jena-ipv4 (2 retries)
-pass: dnscry.pt-doh-johor-ipv4 (3 retries)
+pass: dnscry.pt-doh-indianapolis-ipv4
+pass: dnscry.pt-doh-jacksonville-ipv4 (1 retry)
 pass: dnscry.pt-doh-kansascity-ipv4
 pass: dnscry.pt-doh-lasvegas-ipv4
-pass: dnscry.pt-doh-libertylake-ipv4 (2 retries)
-pass: dnscry.pt-doh-ljubljana-ipv4 (1 retry)
+pass: dnscry.pt-doh-libertylake-ipv4
+pass: dnscry.pt-doh-lisbon02-ipv4 (3 retries)
 pass: dnscry.pt-doh-losangeles-ipv4
-pass: dnscry.pt-doh-losangeles02-ipv4 (1 retry)
-pass: dnscry.pt-doh-manchester-ipv4 (1 retry)
-pass: dnscry.pt-doh-miami-ipv4 (3 retries)
-pass: dnscry.pt-doh-milan-ipv4 (3 retries)
-pass: dnscry.pt-doh-montreal-ipv4 (1 retry)
-pass: dnscry.pt-doh-moscow-ipv4 (1 retry)
-pass: dnscry.pt-doh-munich-ipv4 (1 retry)
-pass: dnscry.pt-doh-naaldwijk-ipv4
+pass: dnscry.pt-doh-losangeles02-ipv4
+pass: dnscry.pt-doh-manila-ipv4 (2 retries)
+pass: dnscry.pt-doh-miami-ipv4 (1 retry)
 pass: dnscry.pt-doh-newyork-ipv4 (3 retries)
 pass: dnscry.pt-doh-ogden-ipv4
-pass: dnscry.pt-doh-oradea-ipv4 (3 retries)
-pass: dnscry.pt-doh-ottoville-ipv4 (1 retry)
-pass: dnscry.pt-doh-phoenix-ipv4 (1 retry)
-pass: dnscry.pt-doh-portedwards-ipv4 (1 retry)
-pass: dnscry.pt-doh-portland-ipv4
-pass: dnscry.pt-doh-redditch-ipv4 (1 retry)
-pass: dnscry.pt-doh-saltlakecity-ipv4 (1 retry)
-pass: dnscry.pt-doh-sanjose-ipv4 (1 retry)
+pass: dnscry.pt-doh-phoenix-ipv4
+pass: dnscry.pt-doh-portedwards-ipv4 (3 retries)
+pass: dnscry.pt-doh-portland-ipv4 (1 retry)
+pass: dnscry.pt-doh-prague-ipv4 (1 retry)
+pass: dnscry.pt-doh-redditch-ipv4 (2 retries)
+pass: dnscry.pt-doh-sanjose-ipv4 (3 retries)
 pass: dnscry.pt-doh-santaclara-ipv4
 pass: dnscry.pt-doh-seattle-ipv4
-pass: dnscry.pt-doh-spokane-ipv4
-pass: dnscry.pt-doh-stockholm-ipv4 (2 retries)
-pass: dnscry.pt-doh-stockholm02-ipv4 (1 retry)
+pass: dnscry.pt-doh-sofia-ipv4
+pass: dnscry.pt-doh-spokane-ipv4 (3 retries)
 pass: dnscry.pt-doh-tampa-ipv4 (3 retries)
-pass: dnscry.pt-doh-taos-ipv4 (1 retry)
-pass: dnscry.pt-doh-tokyo-ipv4 (2 retries)
-pass: dnscry.pt-doh-toronto-ipv4 (1 retry)
-pass: dnscry.pt-doh-toronto02-ipv4
-pass: dnscry.pt-doh-tuusula-ipv4 (2 retries)
-pass: dnscry.pt-doh-vancouver-ipv4
-pass: dnscry.pt-doh-vienna-ipv4 (2 retries)
-pass: dnscry.pt-doh-zurich-ipv4 (2 retries)
+pass: dnscry.pt-doh-taos-ipv4
+pass: dnscry.pt-doh-toronto02-ipv4 (2 retries)
 pass: dnscry.pt-dublin-ipv4
 pass: dnscry.pt-durham-ipv4
 pass: dnscry.pt-dusseldorf-ipv4
@@ -251,7 +227,6 @@ pass: dnscry.pt-ogden-ipv4
 pass: dnscry.pt-oradea-ipv4
 pass: dnscry.pt-ottoville-ipv4
 pass: dnscry.pt-palermo-ipv4
-pass: dnscry.pt-paris-ipv4
 pass: dnscry.pt-perth-ipv4
 pass: dnscry.pt-philadelphia-ipv4
 pass: dnscry.pt-phoenix-ipv4
@@ -352,7 +327,9 @@ pass: quad9-dnscrypt-ip4-filter-pri
 pass: quad9-dnscrypt-ip4-nofilter-ecs-pri
 pass: quad9-dnscrypt-ip4-nofilter-pri
 pass: quad9-doh-ip4-port443-filter-ecs-pri
+pass: quad9-doh-ip4-port443-filter-ecs-pri (1 retry)
 pass: quad9-doh-ip4-port443-filter-pri
+pass: quad9-doh-ip4-port443-filter-pri (1 retry)
 pass: quad9-doh-ip4-port443-nofilter-ecs-pri
 pass: quad9-doh-ip4-port443-nofilter-pri
 pass: restena-doh-ipv4
