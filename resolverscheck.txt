@@ -14,7 +14,6 @@ pass: artikel10-doh-ipv4
 pass: blahdns-de-doh
 pass: blahdns-sg-doh
 pass: bortzmeyer
-pass: brahma-world
 pass: cipherdns-ct1-doh-za
 pass: cipherdns-ct1-za
 pass: cipherdns-jb1-doh-za
@@ -97,7 +96,7 @@ pass: dnscry.pt-allendale-ipv4
 pass: dnscry.pt-allentown-ipv4
 pass: dnscry.pt-amsterdam-ipv4
 pass: dnscry.pt-amsterdam02-ipv4
-pass: dnscry.pt-amsterdam03-ipv4 (1 retry)
+pass: dnscry.pt-amsterdam03-ipv4
 pass: dnscry.pt-ashburn-ipv4
 pass: dnscry.pt-atlanta-ipv4
 pass: dnscry.pt-auckland-ipv4
@@ -148,6 +147,7 @@ pass: dnscry.pt-doh-capetown02-ipv4
 pass: dnscry.pt-doh-chicago-ipv4
 pass: dnscry.pt-doh-chisinau-ipv4
 pass: dnscry.pt-doh-copenhagen-ipv4
+pass: dnscry.pt-doh-coventry-ipv4
 pass: dnscry.pt-doh-dallas-ipv4
 pass: dnscry.pt-doh-denver-ipv4
 pass: dnscry.pt-doh-detroit-ipv4
@@ -171,7 +171,7 @@ pass: dnscry.pt-doh-hafnarfjordur-ipv4
 pass: dnscry.pt-doh-halifax-ipv4
 pass: dnscry.pt-doh-hanoi-ipv4
 pass: dnscry.pt-doh-helsinki-ipv4
-pass: dnscry.pt-doh-hochiminhcity-ipv4
+pass: dnscry.pt-doh-hochiminhcity-ipv4 (3 retries)
 pass: dnscry.pt-doh-hongkong-ipv4
 pass: dnscry.pt-doh-hongkong02-ipv4
 pass: dnscry.pt-doh-hongkong03-ipv4
@@ -392,7 +392,6 @@ pass: fdn
 pass: google
 pass: ibksturm
 pass: iij
-pass: jp.tiar.app-doh
 pass: jp.tiarap.org
 pass: ksol.io-ns2-dnscrypt-ipv4
 pass: la-contre-voie
@@ -422,11 +421,8 @@ pass: quad9-dnscrypt-ip4-nofilter-ecs-pri
 pass: quad9-dnscrypt-ip4-nofilter-pri
 pass: quad9-doh-ip4-port443-filter-ecs-pri
 pass: quad9-doh-ip4-port443-filter-pri
-pass: quad9-doh-ip4-port443-filter-pri (1 retry)
 pass: quad9-doh-ip4-port443-nofilter-ecs-pri
-pass: quad9-doh-ip4-port443-nofilter-ecs-pri (1 retry)
 pass: quad9-doh-ip4-port443-nofilter-pri
-pass: quad9-doh-ip4-port443-nofilter-pri (1 retry)
 pass: restena-doh-ipv4
 pass: rethinkdns-doh
 pass: safesurfer-doh
