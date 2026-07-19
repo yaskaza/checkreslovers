@@ -16,6 +16,8 @@ pass: blahdns-sg-doh
 pass: bortzmeyer
 pass: cipherdns-ct1-doh-za
 pass: cipherdns-ct1-za
+pass: cipherdns-jb1-doh-za
+pass: cipherdns-jb1-za
 pass: cira-family
 pass: cira-private
 pass: cira-protected
@@ -98,7 +100,6 @@ pass: dnscry.pt-amsterdam03-ipv4
 pass: dnscry.pt-ashburn-ipv4
 pass: dnscry.pt-atlanta-ipv4
 pass: dnscry.pt-auckland-ipv4
-pass: dnscry.pt-baku-ipv4
 pass: dnscry.pt-bangkok-ipv4
 pass: dnscry.pt-bengaluru-ipv4
 pass: dnscry.pt-berkeleysprings-ipv4
@@ -128,7 +129,6 @@ pass: dnscry.pt-doh-amsterdam03-ipv4
 pass: dnscry.pt-doh-ashburn-ipv4
 pass: dnscry.pt-doh-atlanta-ipv4
 pass: dnscry.pt-doh-auckland-ipv4
-pass: dnscry.pt-doh-baku-ipv4
 pass: dnscry.pt-doh-bangkok-ipv4
 pass: dnscry.pt-doh-bengaluru-ipv4
 pass: dnscry.pt-doh-berkeleysprings-ipv4
@@ -193,7 +193,6 @@ pass: dnscry.pt-doh-lisbon02-ipv4
 pass: dnscry.pt-doh-london-ipv4
 pass: dnscry.pt-doh-losangeles-ipv4
 pass: dnscry.pt-doh-losangeles02-ipv4
-pass: dnscry.pt-doh-luxembourg-ipv4
 pass: dnscry.pt-doh-madrid-ipv4
 pass: dnscry.pt-doh-manchester-ipv4
 pass: dnscry.pt-doh-manila-ipv4
@@ -218,7 +217,6 @@ pass: dnscry.pt-doh-phoenix-ipv4
 pass: dnscry.pt-doh-portedwards-ipv4
 pass: dnscry.pt-doh-portland-ipv4
 pass: dnscry.pt-doh-prague-ipv4
-pass: dnscry.pt-doh-queretaro-ipv4
 pass: dnscry.pt-doh-redditch-ipv4
 pass: dnscry.pt-doh-riga-ipv4
 pass: dnscry.pt-doh-saltlakecity-ipv4
@@ -226,7 +224,6 @@ pass: dnscry.pt-doh-sandefjord-ipv4
 pass: dnscry.pt-doh-sanjose-ipv4
 pass: dnscry.pt-doh-santaclara-ipv4
 pass: dnscry.pt-doh-seattle-ipv4
-pass: dnscry.pt-doh-seoul-ipv4
 pass: dnscry.pt-doh-seoul02-ipv4
 pass: dnscry.pt-doh-singapore-ipv4
 pass: dnscry.pt-doh-singapore02-ipv4
@@ -240,7 +237,6 @@ pass: dnscry.pt-doh-tallinn-ipv4
 pass: dnscry.pt-doh-tampa-ipv4
 pass: dnscry.pt-doh-taos-ipv4
 pass: dnscry.pt-doh-tbilisi-ipv4
-pass: dnscry.pt-doh-telaviv-ipv4
 pass: dnscry.pt-doh-thessaloniki-ipv4
 pass: dnscry.pt-doh-timisoara-ipv4
 pass: dnscry.pt-doh-tirana-ipv4
@@ -254,7 +250,6 @@ pass: dnscry.pt-doh-vancouver-ipv4
 pass: dnscry.pt-doh-vienna-ipv4
 pass: dnscry.pt-doh-vilnius-ipv4
 pass: dnscry.pt-doh-warsaw-ipv4
-pass: dnscry.pt-doh-yerevan-ipv4
 pass: dnscry.pt-doh-zurich-ipv4
 pass: dnscry.pt-dublin-ipv4
 pass: dnscry.pt-durham-ipv4
@@ -298,7 +293,6 @@ pass: dnscry.pt-lisbon02-ipv4
 pass: dnscry.pt-london-ipv4
 pass: dnscry.pt-losangeles-ipv4
 pass: dnscry.pt-losangeles02-ipv4
-pass: dnscry.pt-luxembourg-ipv4
 pass: dnscry.pt-madrid-ipv4
 pass: dnscry.pt-manchester-ipv4
 pass: dnscry.pt-manila-ipv4
@@ -325,7 +319,6 @@ pass: dnscry.pt-phoenix-ipv4
 pass: dnscry.pt-portedwards-ipv4
 pass: dnscry.pt-portland-ipv4
 pass: dnscry.pt-prague-ipv4
-pass: dnscry.pt-queretaro-ipv4
 pass: dnscry.pt-redditch-ipv4
 pass: dnscry.pt-riga-ipv4
 pass: dnscry.pt-saltlakecity-ipv4
@@ -333,7 +326,6 @@ pass: dnscry.pt-sandefjord-ipv4
 pass: dnscry.pt-sanjose-ipv4
 pass: dnscry.pt-santaclara-ipv4
 pass: dnscry.pt-seattle-ipv4
-pass: dnscry.pt-seoul-ipv4
 pass: dnscry.pt-seoul02-ipv4
 pass: dnscry.pt-singapore-ipv4
 pass: dnscry.pt-singapore02-ipv4
@@ -347,7 +339,6 @@ pass: dnscry.pt-tallinn-ipv4
 pass: dnscry.pt-tampa-ipv4
 pass: dnscry.pt-taos-ipv4
 pass: dnscry.pt-tbilisi-ipv4
-pass: dnscry.pt-telaviv-ipv4
 pass: dnscry.pt-thessaloniki-ipv4
 pass: dnscry.pt-timisoara-ipv4
 pass: dnscry.pt-tirana-ipv4
@@ -361,7 +352,6 @@ pass: dnscry.pt-vancouver-ipv4
 pass: dnscry.pt-vienna-ipv4
 pass: dnscry.pt-vilnius-ipv4
 pass: dnscry.pt-warsaw-ipv4
-pass: dnscry.pt-yerevan-ipv4
 pass: dnscry.pt-zurich-ipv4
 pass: dnscrypt.ca-ipv4
 pass: dnscrypt.ca-ipv4-doh
@@ -386,7 +376,7 @@ pass: doh.tiarap.org
 pass: dorriere-fr
 pass: fdn
 pass: google
-pass: he (1 retry)
+pass: he
 pass: ibksturm
 pass: iij
 pass: jp.tiar.app-doh
