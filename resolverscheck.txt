@@ -11,10 +11,10 @@ pass: adguard-dns-unfiltered-doh
 pass: alidns-doh
 pass: alidns-doh-ipv6
 pass: artikel10-doh-ipv4
-pass: blahdns-de-doh
 pass: bortzmeyer
 pass: cipherdns-ct1-doh-za
 pass: cipherdns-ct1-za
+pass: cipherdns-jb1-doh-za
 pass: cira-family
 pass: cira-private
 pass: cira-protected
@@ -125,7 +125,7 @@ pass: dnscry.pt-doh-amsterdam03-ipv4
 pass: dnscry.pt-doh-ashburn-ipv4
 pass: dnscry.pt-doh-atlanta-ipv4
 pass: dnscry.pt-doh-auckland-ipv4
-pass: dnscry.pt-doh-bangkok-ipv4
+pass: dnscry.pt-doh-bangkok-ipv4 (1 retry)
 pass: dnscry.pt-doh-bengaluru-ipv4
 pass: dnscry.pt-doh-berkeleysprings-ipv4
 pass: dnscry.pt-doh-bratislava-ipv4
@@ -229,7 +229,7 @@ pass: dnscry.pt-doh-taipeh-ipv4
 pass: dnscry.pt-doh-tallinn-ipv4
 pass: dnscry.pt-doh-tampa-ipv4
 pass: dnscry.pt-doh-taos-ipv4
-pass: dnscry.pt-doh-tbilisi-ipv4
+pass: dnscry.pt-doh-tbilisi-ipv4 (1 retry)
 pass: dnscry.pt-doh-thessaloniki-ipv4
 pass: dnscry.pt-doh-timisoara-ipv4
 pass: dnscry.pt-doh-tirana-ipv4
@@ -321,7 +321,7 @@ pass: dnscry.pt-seoul02-ipv4
 pass: dnscry.pt-singapore-ipv4
 pass: dnscry.pt-singapore02-ipv4
 pass: dnscry.pt-sofia-ipv4
-pass: dnscry.pt-spokane-ipv4
+pass: dnscry.pt-spokane-ipv4 (1 retry)
 pass: dnscry.pt-stockholm-ipv4
 pass: dnscry.pt-stockholm02-ipv4
 pass: dnscry.pt-sydney02-ipv4
@@ -387,7 +387,6 @@ pass: njalla-doh
 pass: nwps.fi
 pass: olilo-doh
 pass: plan9dns-fl
-pass: plan9dns-fl-doh
 pass: plan9dns-mx
 pass: plan9dns-mx-doh
 pass: plan9dns-nj
