@@ -35,8 +35,7 @@ pass: cleanbrowsing-security-doh
 pass: cloudflare
 pass: cloudflare-family
 pass: cloudflare-security
-pass: comodo-02 (1 retry)
-pass: comodo-02 (2 retries)
+pass: comodo-02
 pass: comss.one
 pass: controld-block-malware
 pass: controld-block-malware-ad
@@ -107,7 +106,6 @@ pass: dnscry.pt-bratislava-ipv4
 pass: dnscry.pt-bremen-ipv4
 pass: dnscry.pt-brisbane-ipv4
 pass: dnscry.pt-bucharest-ipv4
-pass: dnscry.pt-budapest-ipv4
 pass: dnscry.pt-calgary-ipv4
 pass: dnscry.pt-capetown-ipv4
 pass: dnscry.pt-capetown02-ipv4
@@ -125,6 +123,7 @@ pass: dnscry.pt-doh-allentown-ipv4
 pass: dnscry.pt-doh-amsterdam-ipv4
 pass: dnscry.pt-doh-amsterdam02-ipv4
 pass: dnscry.pt-doh-amsterdam03-ipv4
+pass: dnscry.pt-doh-ashburn-ipv4
 pass: dnscry.pt-doh-atlanta-ipv4
 pass: dnscry.pt-doh-auckland-ipv4
 pass: dnscry.pt-doh-bangkok-ipv4
@@ -134,7 +133,6 @@ pass: dnscry.pt-doh-bratislava-ipv4
 pass: dnscry.pt-doh-bremen-ipv4
 pass: dnscry.pt-doh-brisbane-ipv4
 pass: dnscry.pt-doh-bucharest-ipv4
-pass: dnscry.pt-doh-budapest-ipv4
 pass: dnscry.pt-doh-calgary-ipv4
 pass: dnscry.pt-doh-capetown-ipv4
 pass: dnscry.pt-doh-capetown02-ipv4
@@ -191,6 +189,7 @@ pass: dnscry.pt-doh-london-ipv4
 pass: dnscry.pt-doh-losangeles-ipv4
 pass: dnscry.pt-doh-losangeles02-ipv4
 pass: dnscry.pt-doh-madrid-ipv4
+pass: dnscry.pt-doh-manchester-ipv4
 pass: dnscry.pt-doh-marseille-ipv4
 pass: dnscry.pt-doh-melbourne-ipv4
 pass: dnscry.pt-doh-miami-ipv4
@@ -346,7 +345,7 @@ pass: dnscry.pt-vienna-ipv4
 pass: dnscry.pt-vientiane-ipv4
 pass: dnscry.pt-vilnius-ipv4
 pass: dnscry.pt-warsaw-ipv4
-pass: dnscry.pt-zurich-ipv4
+pass: dnscry.pt-zurich-ipv4 (1 retry)
 pass: dnscrypt.ca-ipv4
 pass: dnscrypt.ca-ipv4-doh
 pass: dnsforfamily
