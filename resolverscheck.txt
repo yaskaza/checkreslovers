@@ -145,7 +145,6 @@ pass: dnscry.pt-doh-denver-ipv4
 pass: dnscry.pt-doh-detroit-ipv4
 pass: dnscry.pt-doh-dhaka-ipv4
 pass: dnscry.pt-doh-dublin-ipv4
-pass: dnscry.pt-doh-durham-ipv4
 pass: dnscry.pt-doh-dusseldorf-ipv4
 pass: dnscry.pt-doh-dusseldorf02-ipv4
 pass: dnscry.pt-doh-dusseldorf03-ipv4
@@ -169,7 +168,6 @@ pass: dnscry.pt-doh-hongkong03-ipv4
 pass: dnscry.pt-doh-houston-ipv4
 pass: dnscry.pt-doh-hudiksvall-ipv4
 pass: dnscry.pt-doh-ikeja-ipv4
-pass: dnscry.pt-doh-indianapolis-ipv4
 pass: dnscry.pt-doh-islamabad-ipv4
 pass: dnscry.pt-doh-istanbul-ipv4
 pass: dnscry.pt-doh-jacksonville-ipv4
@@ -227,6 +225,7 @@ pass: dnscry.pt-doh-spokane-ipv4
 pass: dnscry.pt-doh-stockholm-ipv4
 pass: dnscry.pt-doh-stockholm02-ipv4
 pass: dnscry.pt-doh-sydney02-ipv4
+pass: dnscry.pt-doh-taipeh-ipv4
 pass: dnscry.pt-doh-tallinn-ipv4
 pass: dnscry.pt-doh-tampa-ipv4
 pass: dnscry.pt-doh-taos-ipv4
@@ -247,7 +246,6 @@ pass: dnscry.pt-doh-vilnius-ipv4
 pass: dnscry.pt-doh-warsaw-ipv4
 pass: dnscry.pt-doh-zurich-ipv4
 pass: dnscry.pt-dublin-ipv4
-pass: dnscry.pt-durham-ipv4
 pass: dnscry.pt-dusseldorf-ipv4
 pass: dnscry.pt-dusseldorf02-ipv4
 pass: dnscry.pt-dusseldorf03-ipv4
@@ -270,7 +268,6 @@ pass: dnscry.pt-hongkong03-ipv4
 pass: dnscry.pt-houston-ipv4
 pass: dnscry.pt-hudiksvall-ipv4
 pass: dnscry.pt-ikeja-ipv4
-pass: dnscry.pt-indianapolis-ipv4
 pass: dnscry.pt-islamabad-ipv4
 pass: dnscry.pt-istanbul-ipv4
 pass: dnscry.pt-jacksonville-ipv4
@@ -327,6 +324,7 @@ pass: dnscry.pt-spokane-ipv4
 pass: dnscry.pt-stockholm-ipv4
 pass: dnscry.pt-stockholm02-ipv4
 pass: dnscry.pt-sydney02-ipv4
+pass: dnscry.pt-taipeh-ipv4
 pass: dnscry.pt-tallinn-ipv4
 pass: dnscry.pt-tampa-ipv4
 pass: dnscry.pt-taos-ipv4
@@ -342,7 +340,7 @@ pass: dnscry.pt-tuusula-ipv4
 pass: dnscry.pt-valdivia-ipv4
 pass: dnscry.pt-vancouver-ipv4
 pass: dnscry.pt-vienna-ipv4
-pass: dnscry.pt-vientiane-ipv4
+pass: dnscry.pt-vientiane-ipv4 (1 retry)
 pass: dnscry.pt-vilnius-ipv4
 pass: dnscry.pt-warsaw-ipv4
 pass: dnscry.pt-zurich-ipv4 (1 retry)
