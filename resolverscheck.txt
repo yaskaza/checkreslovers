@@ -15,6 +15,7 @@ pass: blahdns-de-doh
 pass: blahdns-sg-doh
 pass: bortzmeyer
 pass: cipherdns-ct1-doh-za
+pass: cipherdns-ct1-za
 pass: cira-family
 pass: cira-private
 pass: cira-protected
