@@ -1,8 +1,7 @@
 pass: a-and-a
-pass: a-and-a (1 retry)
 pass: adfilter-adl
 pass: adfilter-per
-pass: adfilter-syd (3 retries)
+pass: adfilter-syd (2 retries)
 pass: adguard-dns
 pass: adguard-dns-doh
 pass: adguard-dns-family
@@ -12,11 +11,8 @@ pass: adguard-dns-unfiltered-doh
 pass: alidns-doh
 pass: alidns-doh-ipv6
 pass: artikel10-doh-ipv4
-pass: blahdns-de-doh
-pass: blahdns-sg-doh
 pass: bortzmeyer
 pass: cipherdns-ct1-doh-za
-pass: cipherdns-ct1-za
 pass: cira-family
 pass: cira-private
 pass: cira-protected
@@ -35,6 +31,7 @@ pass: cloudflare
 pass: cloudflare-family
 pass: cloudflare-security
 pass: comodo-02
+pass: comodo-02 (1 retry)
 pass: comss.one
 pass: controld-block-malware
 pass: controld-block-malware-ad
@@ -91,6 +88,7 @@ pass: dns4eu
 pass: dns4eu-protective
 pass: dnsbunker
 pass: dnscry.pt-adelaide-ipv4
+pass: dnscry.pt-allendale-ipv4
 pass: dnscry.pt-allentown-ipv4
 pass: dnscry.pt-amsterdam-ipv4
 pass: dnscry.pt-amsterdam02-ipv4
@@ -116,6 +114,7 @@ pass: dnscry.pt-denver-ipv4
 pass: dnscry.pt-detroit-ipv4
 pass: dnscry.pt-dhaka-ipv4
 pass: dnscry.pt-doh-adelaide-ipv4
+pass: dnscry.pt-doh-allendale-ipv4
 pass: dnscry.pt-doh-allentown-ipv4
 pass: dnscry.pt-doh-amsterdam-ipv4
 pass: dnscry.pt-doh-amsterdam02-ipv4
@@ -162,10 +161,8 @@ pass: dnscry.pt-doh-hongkong-ipv4
 pass: dnscry.pt-doh-hongkong02-ipv4
 pass: dnscry.pt-doh-hongkong03-ipv4
 pass: dnscry.pt-doh-houston-ipv4
-pass: dnscry.pt-doh-hudiksvall-ipv4
 pass: dnscry.pt-doh-ikeja-ipv4
 pass: dnscry.pt-doh-indianapolis-ipv4
-pass: dnscry.pt-doh-islamabad-ipv4
 pass: dnscry.pt-doh-istanbul-ipv4
 pass: dnscry.pt-doh-jacksonville-ipv4
 pass: dnscry.pt-doh-jakarta-ipv4
@@ -208,6 +205,7 @@ pass: dnscry.pt-doh-portland-ipv4
 pass: dnscry.pt-doh-prague-ipv4
 pass: dnscry.pt-doh-redditch-ipv4
 pass: dnscry.pt-doh-riga-ipv4
+pass: dnscry.pt-doh-saltlakecity-ipv4
 pass: dnscry.pt-doh-sandefjord-ipv4
 pass: dnscry.pt-doh-sanjose-ipv4
 pass: dnscry.pt-doh-santaclara-ipv4
@@ -260,10 +258,8 @@ pass: dnscry.pt-hongkong-ipv4
 pass: dnscry.pt-hongkong02-ipv4
 pass: dnscry.pt-hongkong03-ipv4
 pass: dnscry.pt-houston-ipv4
-pass: dnscry.pt-hudiksvall-ipv4
 pass: dnscry.pt-ikeja-ipv4
 pass: dnscry.pt-indianapolis-ipv4
-pass: dnscry.pt-islamabad-ipv4
 pass: dnscry.pt-istanbul-ipv4
 pass: dnscry.pt-jacksonville-ipv4
 pass: dnscry.pt-jakarta-ipv4
@@ -306,6 +302,7 @@ pass: dnscry.pt-portland-ipv4
 pass: dnscry.pt-prague-ipv4
 pass: dnscry.pt-redditch-ipv4
 pass: dnscry.pt-riga-ipv4
+pass: dnscry.pt-saltlakecity-ipv4
 pass: dnscry.pt-sandefjord-ipv4
 pass: dnscry.pt-sanjose-ipv4
 pass: dnscry.pt-santaclara-ipv4
@@ -394,6 +391,7 @@ pass: quad9-doh-ip4-port443-nofilter-ecs-pri
 pass: quad9-doh-ip4-port443-nofilter-pri
 pass: restena-doh-ipv4
 pass: rethinkdns-doh
+pass: rethinkdns-doh (2 retries)
 pass: safesurfer-doh
 pass: safesurfer-doh-secondary-ipv4
 pass: saldns01-conoha-ipv4
