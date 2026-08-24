@@ -32,6 +32,7 @@ pass: cleanbrowsing-security-doh
 pass: cloudflare
 pass: cloudflare-family
 pass: cloudflare-security
+pass: comodo-02
 pass: comss.one
 pass: controld-block-malware
 pass: controld-block-malware-ad
@@ -57,7 +58,6 @@ pass: cs-il
 pass: cs-la
 pass: cs-london
 pass: cs-manchester
-pass: cs-md
 pass: cs-milan
 pass: cs-montreal
 pass: cs-nl
@@ -174,6 +174,7 @@ pass: dnscry.pt-doh-johor-ipv4
 pass: dnscry.pt-doh-kansascity-ipv4
 pass: dnscry.pt-doh-kyiv-ipv4
 pass: dnscry.pt-doh-kyiv02-ipv4
+pass: dnscry.pt-doh-lasvegas-ipv4
 pass: dnscry.pt-doh-libertylake-ipv4
 pass: dnscry.pt-doh-lisbon-ipv4
 pass: dnscry.pt-doh-lisbon02-ipv4
@@ -270,6 +271,7 @@ pass: dnscry.pt-johor-ipv4
 pass: dnscry.pt-kansascity-ipv4
 pass: dnscry.pt-kyiv-ipv4
 pass: dnscry.pt-kyiv02-ipv4
+pass: dnscry.pt-lasvegas-ipv4
 pass: dnscry.pt-libertylake-ipv4
 pass: dnscry.pt-lisbon-ipv4
 pass: dnscry.pt-lisbon02-ipv4
