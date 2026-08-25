@@ -1,7 +1,7 @@
 pass: a-and-a
 pass: adfilter-adl
 pass: adfilter-per
-pass: adfilter-syd (2 retries)
+pass: adfilter-syd (3 retries)
 pass: adguard-dns
 pass: adguard-dns-doh
 pass: adguard-dns-family
@@ -15,6 +15,7 @@ pass: blahdns-de-doh
 pass: blahdns-sg-doh
 pass: bortzmeyer
 pass: cipherdns-ct1-doh-za
+pass: cipherdns-ct1-za
 pass: cira-family
 pass: cira-private
 pass: cira-protected
@@ -58,6 +59,7 @@ pass: cs-il
 pass: cs-la
 pass: cs-london
 pass: cs-manchester
+pass: cs-md
 pass: cs-milan
 pass: cs-montreal
 pass: cs-nl
@@ -219,7 +221,6 @@ pass: dnscry.pt-doh-spokane-ipv4
 pass: dnscry.pt-doh-stockholm-ipv4
 pass: dnscry.pt-doh-stockholm02-ipv4
 pass: dnscry.pt-doh-sydney02-ipv4
-pass: dnscry.pt-doh-taipeh-ipv4
 pass: dnscry.pt-doh-tallinn-ipv4
 pass: dnscry.pt-doh-tampa-ipv4
 pass: dnscry.pt-doh-taos-ipv4
@@ -271,7 +272,7 @@ pass: dnscry.pt-johor-ipv4
 pass: dnscry.pt-kansascity-ipv4
 pass: dnscry.pt-kyiv-ipv4
 pass: dnscry.pt-kyiv02-ipv4
-pass: dnscry.pt-lasvegas-ipv4
+pass: dnscry.pt-lasvegas-ipv4 (1 retry)
 pass: dnscry.pt-libertylake-ipv4
 pass: dnscry.pt-lisbon-ipv4
 pass: dnscry.pt-lisbon02-ipv4
@@ -316,7 +317,6 @@ pass: dnscry.pt-spokane-ipv4
 pass: dnscry.pt-stockholm-ipv4
 pass: dnscry.pt-stockholm02-ipv4
 pass: dnscry.pt-sydney02-ipv4
-pass: dnscry.pt-taipeh-ipv4
 pass: dnscry.pt-tallinn-ipv4
 pass: dnscry.pt-tampa-ipv4
 pass: dnscry.pt-taos-ipv4
@@ -362,7 +362,7 @@ pass: he
 pass: ibksturm
 pass: iij
 pass: ksol.io-ns2-dnscrypt-ipv4
-pass: la-contre-voie
+pass: la-contre-voie (1 retry)
 pass: libredns
 pass: libredns-noads
 pass: mullvad-adblock-doh
