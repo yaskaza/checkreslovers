@@ -12,7 +12,6 @@ pass: alidns-doh
 pass: alidns-doh-ipv6
 pass: artikel10-doh-ipv4
 pass: blahdns-de-doh
-pass: blahdns-sg-doh
 pass: bortzmeyer
 pass: cipherdns-ct1-doh-za
 pass: cipherdns-ct1-za
@@ -147,7 +146,6 @@ pass: dnscry.pt-doh-dusseldorf02-ipv4
 pass: dnscry.pt-doh-dusseldorf03-ipv4
 pass: dnscry.pt-doh-ebenecity02-ipv4
 pass: dnscry.pt-doh-eygelshoven-ipv4
-pass: dnscry.pt-doh-flint-ipv4
 pass: dnscry.pt-doh-frankfurt-ipv4
 pass: dnscry.pt-doh-frankfurt02-ipv4
 pass: dnscry.pt-doh-fremont02-ipv4
@@ -244,7 +242,6 @@ pass: dnscry.pt-dusseldorf-ipv4
 pass: dnscry.pt-dusseldorf02-ipv4
 pass: dnscry.pt-ebenecity02-ipv4
 pass: dnscry.pt-eygelshoven-ipv4
-pass: dnscry.pt-flint-ipv4
 pass: dnscry.pt-frankfurt-ipv4
 pass: dnscry.pt-frankfurt02-ipv4
 pass: dnscry.pt-fremont02-ipv4
@@ -272,7 +269,7 @@ pass: dnscry.pt-johor-ipv4
 pass: dnscry.pt-kansascity-ipv4
 pass: dnscry.pt-kyiv-ipv4
 pass: dnscry.pt-kyiv02-ipv4
-pass: dnscry.pt-lasvegas-ipv4 (1 retry)
+pass: dnscry.pt-lasvegas-ipv4
 pass: dnscry.pt-libertylake-ipv4
 pass: dnscry.pt-lisbon-ipv4
 pass: dnscry.pt-lisbon02-ipv4
@@ -362,7 +359,7 @@ pass: he
 pass: ibksturm
 pass: iij
 pass: ksol.io-ns2-dnscrypt-ipv4
-pass: la-contre-voie (1 retry)
+pass: la-contre-voie
 pass: libredns
 pass: libredns-noads
 pass: mullvad-adblock-doh
