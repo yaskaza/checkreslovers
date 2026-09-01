@@ -13,8 +13,6 @@ pass: alidns-doh-ipv6
 pass: artikel10-doh-ipv4
 pass: blahdns-de-doh
 pass: bortzmeyer
-pass: cipherdns-ct1-doh-za
-pass: cipherdns-ct1-za
 pass: cira-family
 pass: cira-private
 pass: cira-protected
@@ -33,7 +31,6 @@ pass: cloudflare
 pass: cloudflare-family
 pass: cloudflare-security
 pass: comodo-02
-pass: comodo-02 (3 retries)
 pass: comss.one
 pass: controld-block-malware
 pass: controld-block-malware-ad
@@ -295,6 +292,7 @@ pass: dnscry.pt-nuremberg-ipv4
 pass: dnscry.pt-ogden-ipv4
 pass: dnscry.pt-oradea-ipv4
 pass: dnscry.pt-ottoville-ipv4
+pass: dnscry.pt-paris-ipv4
 pass: dnscry.pt-perth-ipv4
 pass: dnscry.pt-phoenix-ipv4
 pass: dnscry.pt-portedwards-ipv4
@@ -375,7 +373,7 @@ pass: nic.cz
 pass: njalla-doh
 pass: nwps.fi
 pass: olilo-doh
-pass: plan9dns-fl
+pass: plan9dns-fl (1 retry)
 pass: plan9dns-mx
 pass: plan9dns-mx-doh
 pass: plan9dns-nj
