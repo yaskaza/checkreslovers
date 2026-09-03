@@ -163,7 +163,6 @@ pass: dnscry.pt-doh-houston-ipv4
 pass: dnscry.pt-doh-hudiksvall-ipv4
 pass: dnscry.pt-doh-ikeja-ipv4
 pass: dnscry.pt-doh-indianapolis-ipv4
-pass: dnscry.pt-doh-islamabad-ipv4
 pass: dnscry.pt-doh-istanbul-ipv4
 pass: dnscry.pt-doh-jacksonville-ipv4
 pass: dnscry.pt-doh-jakarta-ipv4
@@ -260,7 +259,6 @@ pass: dnscry.pt-houston-ipv4
 pass: dnscry.pt-hudiksvall-ipv4
 pass: dnscry.pt-ikeja-ipv4
 pass: dnscry.pt-indianapolis-ipv4
-pass: dnscry.pt-islamabad-ipv4
 pass: dnscry.pt-istanbul-ipv4
 pass: dnscry.pt-jacksonville-ipv4
 pass: dnscry.pt-jakarta-ipv4
@@ -281,7 +279,6 @@ pass: dnscry.pt-madrid-ipv4
 pass: dnscry.pt-marseille-ipv4
 pass: dnscry.pt-melbourne-ipv4
 pass: dnscry.pt-miami-ipv4
-pass: dnscry.pt-milan-ipv4
 pass: dnscry.pt-molln-ipv4
 pass: dnscry.pt-montreal-ipv4
 pass: dnscry.pt-moscow-ipv4
@@ -356,7 +353,7 @@ pass: doh.tiarap.org
 pass: dorriere-fr
 pass: fdn
 pass: google
-pass: he (1 retry)
+pass: he
 pass: ibksturm
 pass: iij
 pass: ksol.io-ns2-dnscrypt-ipv4
