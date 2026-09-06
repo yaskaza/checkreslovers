@@ -82,7 +82,6 @@ pass: deffer-dns.au
 pass: dns.digitale-gesellschaft.ch
 pass: dns.digitalsize.net
 pass: dns.sb
-pass: dns.sb (2 retries)
 pass: dns4all-ipv4
 pass: dns4eu
 pass: dns4eu-protective
@@ -219,6 +218,7 @@ pass: dnscry.pt-doh-singapore02-ipv4
 pass: dnscry.pt-doh-sofia-ipv4
 pass: dnscry.pt-doh-spokane-ipv4
 pass: dnscry.pt-doh-stockholm-ipv4
+pass: dnscry.pt-doh-stockholm02-ipv4
 pass: dnscry.pt-doh-sydney02-ipv4
 pass: dnscry.pt-doh-taipeh-ipv4
 pass: dnscry.pt-doh-tallinn-ipv4
@@ -316,6 +316,7 @@ pass: dnscry.pt-singapore02-ipv4
 pass: dnscry.pt-sofia-ipv4
 pass: dnscry.pt-spokane-ipv4
 pass: dnscry.pt-stockholm-ipv4
+pass: dnscry.pt-stockholm02-ipv4
 pass: dnscry.pt-sydney02-ipv4
 pass: dnscry.pt-taipeh-ipv4
 pass: dnscry.pt-tallinn-ipv4
