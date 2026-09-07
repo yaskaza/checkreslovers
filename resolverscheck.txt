@@ -165,6 +165,7 @@ pass: dnscry.pt-doh-houston-ipv4
 pass: dnscry.pt-doh-hudiksvall-ipv4
 pass: dnscry.pt-doh-ikeja-ipv4
 pass: dnscry.pt-doh-indianapolis-ipv4
+pass: dnscry.pt-doh-islamabad-ipv4
 pass: dnscry.pt-doh-istanbul-ipv4
 pass: dnscry.pt-doh-jacksonville-ipv4
 pass: dnscry.pt-doh-jakarta-ipv4
