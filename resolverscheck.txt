@@ -32,6 +32,12 @@ pass: cloudflare-family
 pass: cloudflare-security
 pass: comodo-02
 pass: comss.one
+pass: controld-block-malware
+pass: controld-block-malware-ad
+pass: controld-block-malware-ad-social
+pass: controld-family-friendly
+pass: controld-uncensored
+pass: controld-unfiltered
 pass: cs-austria
 pass: cs-barcelona
 pass: cs-belgium
@@ -65,7 +71,7 @@ pass: cs-sea
 pass: cs-serbia
 pass: cs-singapore
 pass: cs-swe
-pass: cs-sydney (1 retry)
+pass: cs-sydney
 pass: cs-tokyo
 pass: cs-tx
 pass: cs-vancouver
