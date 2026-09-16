@@ -31,6 +31,7 @@ pass: cloudflare
 pass: cloudflare-family
 pass: cloudflare-security
 pass: comodo-02
+pass: comodo-02 (1 retry)
 pass: comss.one
 pass: controld-block-malware
 pass: controld-block-malware-ad
@@ -80,6 +81,7 @@ pass: dct-de2
 pass: dct-fr
 pass: deffer-dns.au
 pass: dns.digitale-gesellschaft.ch
+pass: dns.digitale-gesellschaft.ch (1 retry)
 pass: dns.digitalsize.net
 pass: dns.sb
 pass: dns4all-ipv4
@@ -143,7 +145,7 @@ pass: dnscry.pt-doh-dhaka-ipv4
 pass: dnscry.pt-doh-dublin-ipv4
 pass: dnscry.pt-doh-dusseldorf-ipv4
 pass: dnscry.pt-doh-dusseldorf02-ipv4
-pass: dnscry.pt-doh-dusseldorf03-ipv4 (1 retry)
+pass: dnscry.pt-doh-dusseldorf03-ipv4
 pass: dnscry.pt-doh-ebenecity02-ipv4
 pass: dnscry.pt-doh-eygelshoven-ipv4
 pass: dnscry.pt-doh-flint-ipv4
@@ -273,7 +275,7 @@ pass: dnscry.pt-johor-ipv4
 pass: dnscry.pt-kansascity-ipv4
 pass: dnscry.pt-kyiv-ipv4
 pass: dnscry.pt-kyiv02-ipv4
-pass: dnscry.pt-lasvegas-ipv4
+pass: dnscry.pt-lasvegas-ipv4 (1 retry)
 pass: dnscry.pt-libertylake-ipv4
 pass: dnscry.pt-lisbon-ipv4
 pass: dnscry.pt-lisbon02-ipv4
@@ -393,7 +395,6 @@ pass: quad9-dnscrypt-ip4-nofilter-pri
 pass: quad9-doh-ip4-port443-filter-ecs-pri
 pass: quad9-doh-ip4-port443-filter-pri
 pass: quad9-doh-ip4-port443-nofilter-ecs-pri
-pass: quad9-doh-ip4-port443-nofilter-ecs-pri (1 retry)
 pass: quad9-doh-ip4-port443-nofilter-pri
 pass: restena-doh-ipv4
 pass: rethinkdns-doh
