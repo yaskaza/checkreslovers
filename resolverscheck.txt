@@ -31,6 +31,8 @@ pass: cloudflare
 pass: cloudflare-family
 pass: cloudflare-security
 pass: comodo-02
+pass: comodo-02 (1 retry)
+pass: comodo-02 (2 retries)
 pass: comss.one
 pass: controld-block-malware
 pass: controld-block-malware-ad
@@ -122,7 +124,7 @@ pass: dnscry.pt-doh-amsterdam03-ipv4
 pass: dnscry.pt-doh-ashburn-ipv4
 pass: dnscry.pt-doh-atlanta-ipv4
 pass: dnscry.pt-doh-auckland-ipv4
-pass: dnscry.pt-doh-bangkok-ipv4 (1 retry)
+pass: dnscry.pt-doh-bangkok-ipv4
 pass: dnscry.pt-doh-bengaluru-ipv4
 pass: dnscry.pt-doh-berkeleysprings-ipv4
 pass: dnscry.pt-doh-bratislava-ipv4
@@ -379,7 +381,6 @@ pass: nextdns
 pass: nextdns-ultralow
 pass: nic.cz
 pass: njalla-doh
-pass: nwps.fi
 pass: olilo-doh
 pass: plan9dns-fl
 pass: plan9dns-mx
@@ -393,9 +394,7 @@ pass: quad9-dnscrypt-ip4-nofilter-pri
 pass: quad9-doh-ip4-port443-filter-ecs-pri
 pass: quad9-doh-ip4-port443-filter-pri
 pass: quad9-doh-ip4-port443-nofilter-ecs-pri
-pass: quad9-doh-ip4-port443-nofilter-ecs-pri (1 retry)
 pass: quad9-doh-ip4-port443-nofilter-pri
-pass: quad9-doh-ip4-port443-nofilter-pri (1 retry)
 pass: restena-doh-ipv4
 pass: rethinkdns-doh
 pass: safesurfer-doh
@@ -410,6 +409,7 @@ pass: serbica
 pass: sfw.scaleway-fr
 pass: switch
 pass: uncensoreddns-dk-ipv4
+pass: uncensoreddns-ipv4
 pass: wikimedia
 pass: yandex
 pass: yandex-ipv6
