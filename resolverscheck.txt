@@ -30,9 +30,6 @@ pass: cleanbrowsing-security-doh
 pass: cloudflare
 pass: cloudflare-family
 pass: cloudflare-security
-pass: comodo-02
-pass: comodo-02 (1 retry)
-pass: comodo-02 (2 retries)
 pass: comss.one
 pass: controld-block-malware
 pass: controld-block-malware-ad
@@ -317,7 +314,7 @@ pass: dnscry.pt-seoul02-ipv4
 pass: dnscry.pt-singapore-ipv4
 pass: dnscry.pt-singapore02-ipv4
 pass: dnscry.pt-sofia-ipv4
-pass: dnscry.pt-spokane-ipv4
+pass: dnscry.pt-spokane-ipv4 (2 retries)
 pass: dnscry.pt-stockholm-ipv4
 pass: dnscry.pt-stockholm02-ipv4
 pass: dnscry.pt-sydney02-ipv4
@@ -359,7 +356,6 @@ pass: doh.appliedprivacy.net
 pass: doh.ffmuc.net
 pass: doh.ibksturm
 pass: doh.tiar.app-doh
-pass: doh.tiarap.org
 pass: dorriere-fr
 pass: fdn
 pass: google
@@ -381,6 +377,7 @@ pass: nextdns
 pass: nextdns-ultralow
 pass: nic.cz
 pass: njalla-doh
+pass: nwps.fi
 pass: olilo-doh
 pass: plan9dns-fl
 pass: plan9dns-mx
