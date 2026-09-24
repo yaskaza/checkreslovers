@@ -16,7 +16,7 @@ pass: bortzmeyer
 pass: cira-family
 pass: cira-private
 pass: cira-protected
-pass: circl-doh
+pass: circl-doh (1 retry)
 pass: cisco
 pass: cisco-doh
 pass: cisco-familyshield
@@ -28,7 +28,10 @@ pass: cleanbrowsing-family-doh
 pass: cleanbrowsing-security
 pass: cleanbrowsing-security-doh
 pass: cloudflare
+pass: cloudflare-family
+pass: cloudflare-security
 pass: comodo-02
+pass: comodo-02 (1 retry)
 pass: comss.one
 pass: controld-block-malware
 pass: controld-block-malware-ad
@@ -171,7 +174,6 @@ pass: dnscry.pt-doh-johannesburg-ipv4
 pass: dnscry.pt-doh-johannesburg02-ipv4
 pass: dnscry.pt-doh-johor-ipv4
 pass: dnscry.pt-doh-kansascity-ipv4
-pass: dnscry.pt-doh-kyiv-ipv4
 pass: dnscry.pt-doh-kyiv02-ipv4
 pass: dnscry.pt-doh-lasvegas-ipv4
 pass: dnscry.pt-doh-libertylake-ipv4
@@ -219,9 +221,7 @@ pass: dnscry.pt-doh-spokane-ipv4
 pass: dnscry.pt-doh-stockholm-ipv4
 pass: dnscry.pt-doh-stockholm02-ipv4
 pass: dnscry.pt-doh-sydney02-ipv4
-pass: dnscry.pt-doh-taipeh-ipv4
 pass: dnscry.pt-doh-tallinn-ipv4
-pass: dnscry.pt-doh-tampa-ipv4
 pass: dnscry.pt-doh-taos-ipv4
 pass: dnscry.pt-doh-tbilisi-ipv4
 pass: dnscry.pt-doh-thessaloniki-ipv4
@@ -269,7 +269,6 @@ pass: dnscry.pt-johannesburg-ipv4
 pass: dnscry.pt-johannesburg02-ipv4
 pass: dnscry.pt-johor-ipv4
 pass: dnscry.pt-kansascity-ipv4
-pass: dnscry.pt-kyiv-ipv4
 pass: dnscry.pt-kyiv02-ipv4
 pass: dnscry.pt-lasvegas-ipv4
 pass: dnscry.pt-libertylake-ipv4
@@ -317,9 +316,7 @@ pass: dnscry.pt-spokane-ipv4
 pass: dnscry.pt-stockholm-ipv4
 pass: dnscry.pt-stockholm02-ipv4
 pass: dnscry.pt-sydney02-ipv4
-pass: dnscry.pt-taipeh-ipv4
 pass: dnscry.pt-tallinn-ipv4
-pass: dnscry.pt-tampa-ipv4
 pass: dnscry.pt-taos-ipv4
 pass: dnscry.pt-tbilisi-ipv4
 pass: dnscry.pt-thessaloniki-ipv4
@@ -353,6 +350,7 @@ pass: doh-cleanbrowsing-security
 pass: doh-crypto-sx
 pass: doh.appliedprivacy.net
 pass: doh.ffmuc.net
+pass: doh.ibksturm
 pass: doh.tiar.app-doh
 pass: doh.tiarap.org
 pass: dorriere-fr
@@ -361,6 +359,7 @@ pass: dremaxx-family
 pass: fdn
 pass: google
 pass: he
+pass: ibksturm
 pass: iij
 pass: ksol.io-ns2-dnscrypt-ipv4
 pass: la-contre-voie
@@ -376,7 +375,6 @@ pass: nbg-dnscrypt
 pass: nextdns
 pass: nextdns-ultralow
 pass: nic.cz
-pass: njalla-doh
 pass: nwps.fi
 pass: olilo-doh
 pass: plan9dns-fl
