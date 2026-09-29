@@ -358,7 +358,7 @@ pass: dremaxx-family
 pass: ekinao-doh-ipv4
 pass: fdn
 pass: google
-pass: he
+pass: he (2 retries)
 pass: ibksturm
 pass: iij
 pass: ksol.io-ns2-dnscrypt-ipv4
