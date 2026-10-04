@@ -16,7 +16,7 @@ pass: bortzmeyer
 pass: cira-family
 pass: cira-private
 pass: cira-protected
-pass: circl-doh (1 retry)
+pass: circl-doh
 pass: cisco
 pass: cisco-doh
 pass: cisco-familyshield
@@ -32,12 +32,6 @@ pass: cloudflare-family
 pass: cloudflare-security
 pass: comodo-02
 pass: comss.one
-pass: controld-block-malware
-pass: controld-block-malware-ad
-pass: controld-block-malware-ad-social
-pass: controld-family-friendly
-pass: controld-uncensored
-pass: controld-unfiltered
 pass: cs-austria
 pass: cs-barcelona
 pass: cs-belgium
@@ -95,7 +89,7 @@ pass: dnscry.pt-amsterdam03-ipv4
 pass: dnscry.pt-ashburn-ipv4
 pass: dnscry.pt-atlanta-ipv4
 pass: dnscry.pt-auckland-ipv4
-pass: dnscry.pt-bangkok-ipv4
+pass: dnscry.pt-bangkok-ipv4 (1 retry)
 pass: dnscry.pt-bengaluru-ipv4
 pass: dnscry.pt-berkeleysprings-ipv4
 pass: dnscry.pt-bratislava-ipv4
@@ -172,7 +166,6 @@ pass: dnscry.pt-doh-johannesburg-ipv4
 pass: dnscry.pt-doh-johannesburg02-ipv4
 pass: dnscry.pt-doh-johor-ipv4
 pass: dnscry.pt-doh-kansascity-ipv4
-pass: dnscry.pt-doh-kyiv02-ipv4
 pass: dnscry.pt-doh-lasvegas-ipv4
 pass: dnscry.pt-doh-libertylake-ipv4
 pass: dnscry.pt-doh-lisbon-ipv4
@@ -268,7 +261,6 @@ pass: dnscry.pt-johannesburg-ipv4
 pass: dnscry.pt-johannesburg02-ipv4
 pass: dnscry.pt-johor-ipv4
 pass: dnscry.pt-kansascity-ipv4
-pass: dnscry.pt-kyiv02-ipv4
 pass: dnscry.pt-lasvegas-ipv4
 pass: dnscry.pt-libertylake-ipv4
 pass: dnscry.pt-lisbon-ipv4
@@ -389,10 +381,9 @@ pass: quad9-dnscrypt-ip4-filter-pri
 pass: quad9-dnscrypt-ip4-nofilter-ecs-pri
 pass: quad9-dnscrypt-ip4-nofilter-pri
 pass: quad9-doh-ip4-port443-filter-ecs-pri
-pass: quad9-doh-ip4-port443-filter-ecs-pri (1 retry)
 pass: quad9-doh-ip4-port443-filter-pri
 pass: quad9-doh-ip4-port443-nofilter-ecs-pri
-pass: quad9-doh-ip4-port443-nofilter-pri (1 retry)
+pass: quad9-doh-ip4-port443-nofilter-pri
 pass: restena-doh-ipv4
 pass: rethinkdns-doh
 pass: safesurfer-doh
@@ -403,6 +394,7 @@ pass: saldns03-conoha-ipv4
 pass: scaleway-ams
 pass: scaleway-fr
 pass: searx-se-ipv4
+pass: serbica
 pass: sfw.scaleway-fr
 pass: switch
 pass: uncensoreddns-dk-ipv4
