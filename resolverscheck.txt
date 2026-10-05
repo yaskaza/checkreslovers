@@ -16,7 +16,6 @@ pass: bortzmeyer
 pass: cira-family
 pass: cira-private
 pass: cira-protected
-pass: circl-doh
 pass: cisco
 pass: cisco-doh
 pass: cisco-familyshield
@@ -32,6 +31,12 @@ pass: cloudflare-family
 pass: cloudflare-security
 pass: comodo-02
 pass: comss.one
+pass: controld-block-malware
+pass: controld-block-malware-ad
+pass: controld-block-malware-ad-social
+pass: controld-family-friendly
+pass: controld-uncensored
+pass: controld-unfiltered
 pass: cs-austria
 pass: cs-barcelona
 pass: cs-belgium
@@ -89,7 +94,7 @@ pass: dnscry.pt-amsterdam03-ipv4
 pass: dnscry.pt-ashburn-ipv4
 pass: dnscry.pt-atlanta-ipv4
 pass: dnscry.pt-auckland-ipv4
-pass: dnscry.pt-bangkok-ipv4 (1 retry)
+pass: dnscry.pt-bangkok-ipv4
 pass: dnscry.pt-bengaluru-ipv4
 pass: dnscry.pt-berkeleysprings-ipv4
 pass: dnscry.pt-bratislava-ipv4
@@ -166,6 +171,7 @@ pass: dnscry.pt-doh-johannesburg-ipv4
 pass: dnscry.pt-doh-johannesburg02-ipv4
 pass: dnscry.pt-doh-johor-ipv4
 pass: dnscry.pt-doh-kansascity-ipv4
+pass: dnscry.pt-doh-kyiv02-ipv4
 pass: dnscry.pt-doh-lasvegas-ipv4
 pass: dnscry.pt-doh-libertylake-ipv4
 pass: dnscry.pt-doh-lisbon-ipv4
@@ -212,6 +218,7 @@ pass: dnscry.pt-doh-spokane-ipv4
 pass: dnscry.pt-doh-stockholm-ipv4
 pass: dnscry.pt-doh-stockholm02-ipv4
 pass: dnscry.pt-doh-sydney02-ipv4
+pass: dnscry.pt-doh-taipeh-ipv4
 pass: dnscry.pt-doh-tallinn-ipv4
 pass: dnscry.pt-doh-tampa-ipv4
 pass: dnscry.pt-doh-taos-ipv4
@@ -352,6 +359,7 @@ pass: ekinao-doh-ipv4
 pass: fdn
 pass: google
 pass: he
+pass: hqdns-doh
 pass: ibksturm
 pass: iij
 pass: ksol.io-ns2-dnscrypt-ipv4
@@ -371,6 +379,7 @@ pass: nic.cz
 pass: njalla-doh
 pass: nwps.fi
 pass: olilo-doh
+pass: pidoh-mapledns
 pass: plan9dns-fl
 pass: plan9dns-mx
 pass: plan9dns-mx-doh
@@ -404,3 +413,6 @@ pass: yandex
 pass: yandex-ipv6
 pass: yandex-safe
 pass: yandex-safe-ipv6
+pass: yunzheng
+pass: yunzheng-dns64
+pass: yunzheng-filtered
