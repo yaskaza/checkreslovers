@@ -31,12 +31,6 @@ pass: cloudflare-family
 pass: cloudflare-security
 pass: comodo-02
 pass: comss.one
-pass: controld-block-malware
-pass: controld-block-malware-ad
-pass: controld-block-malware-ad-social
-pass: controld-family-friendly
-pass: controld-uncensored
-pass: controld-unfiltered
 pass: cs-austria
 pass: cs-barcelona
 pass: cs-belgium
