@@ -30,6 +30,7 @@ pass: cloudflare
 pass: cloudflare-family
 pass: cloudflare-security
 pass: comodo-02
+pass: comodo-02 (3 retries)
 pass: comss.one
 pass: cs-austria
 pass: cs-barcelona
