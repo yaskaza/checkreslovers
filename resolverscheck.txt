@@ -249,14 +249,14 @@ pass: dnscry.pt-gdansk-ipv4
 pass: dnscry.pt-geneva-ipv4
 pass: dnscry.pt-grandrapids-ipv4
 pass: dnscry.pt-hafnarfjordur-ipv4
-pass: dnscry.pt-halifax-ipv4 (1 retry)
+pass: dnscry.pt-halifax-ipv4
 pass: dnscry.pt-hanoi-ipv4
 pass: dnscry.pt-helsinki-ipv4
 pass: dnscry.pt-hongkong-ipv4
 pass: dnscry.pt-hongkong02-ipv4
 pass: dnscry.pt-hongkong03-ipv4
 pass: dnscry.pt-houston-ipv4
-pass: dnscry.pt-hudiksvall-ipv4 (1 retry)
+pass: dnscry.pt-hudiksvall-ipv4
 pass: dnscry.pt-ikeja-ipv4
 pass: dnscry.pt-indianapolis-ipv4
 pass: dnscry.pt-jacksonville-ipv4
@@ -371,7 +371,6 @@ pass: mullvad-base-doh
 pass: mullvad-doh
 pass: mullvad-extend-doh
 pass: mullvad-family-doh
-pass: nbg-dnscrypt
 pass: nextdns
 pass: nextdns-ultralow
 pass: nic.cz
@@ -411,3 +410,6 @@ pass: yandex
 pass: yandex-ipv6
 pass: yandex-safe
 pass: yandex-safe-ipv6
+pass: yunzheng
+pass: yunzheng-dns64
+pass: yunzheng-filtered
