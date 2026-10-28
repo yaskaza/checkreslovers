@@ -30,7 +30,6 @@ pass: cloudflare
 pass: cloudflare-family
 pass: cloudflare-security
 pass: comodo-02
-pass: comodo-02 (1 retry)
 pass: controld-block-malware
 pass: controld-block-malware-ad
 pass: controld-block-malware-ad-social
@@ -72,7 +71,6 @@ pass: cs-singapore
 pass: cs-swe
 pass: cs-sydney
 pass: cs-tokyo
-pass: cs-tx
 pass: cs-vancouver
 pass: dct-de
 pass: dct-de2
