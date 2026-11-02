@@ -76,6 +76,7 @@ pass: cs-tx
 pass: cs-vancouver
 pass: dct-de
 pass: dct-de2
+pass: dct-fr
 pass: deffer-dns.au
 pass: dns.digitale-gesellschaft.ch
 pass: dns.digitalsize.net
@@ -140,7 +141,7 @@ pass: dnscry.pt-doh-dublin-ipv4
 pass: dnscry.pt-doh-dusseldorf-ipv4
 pass: dnscry.pt-doh-dusseldorf02-ipv4
 pass: dnscry.pt-doh-dusseldorf03-ipv4
-pass: dnscry.pt-doh-ebenecity02-ipv4
+pass: dnscry.pt-doh-ebenecity02-ipv4 (1 retry)
 pass: dnscry.pt-doh-eygelshoven-ipv4
 pass: dnscry.pt-doh-flint-ipv4
 pass: dnscry.pt-doh-frankfurt-ipv4
@@ -218,7 +219,6 @@ pass: dnscry.pt-doh-stockholm02-ipv4
 pass: dnscry.pt-doh-sydney02-ipv4
 pass: dnscry.pt-doh-tallinn-ipv4
 pass: dnscry.pt-doh-tampa-ipv4
-pass: dnscry.pt-doh-taos-ipv4
 pass: dnscry.pt-doh-tbilisi-ipv4
 pass: dnscry.pt-doh-thessaloniki-ipv4
 pass: dnscry.pt-doh-timisoara-ipv4
@@ -314,7 +314,6 @@ pass: dnscry.pt-stockholm02-ipv4
 pass: dnscry.pt-sydney02-ipv4
 pass: dnscry.pt-tallinn-ipv4
 pass: dnscry.pt-tampa-ipv4
-pass: dnscry.pt-taos-ipv4
 pass: dnscry.pt-tbilisi-ipv4
 pass: dnscry.pt-thessaloniki-ipv4
 pass: dnscry.pt-timisoara-ipv4
@@ -351,6 +350,7 @@ pass: doh.ffmuc.net
 pass: doh.ibksturm
 pass: doh.tiar.app
 pass: doh.tiar.app-doh
+pass: doh.tiarap.org
 pass: dorriere-fr
 pass: dremaxx
 pass: dremaxx-family
