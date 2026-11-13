@@ -141,7 +141,7 @@ pass: dnscry.pt-doh-dublin-ipv4
 pass: dnscry.pt-doh-dusseldorf-ipv4
 pass: dnscry.pt-doh-dusseldorf02-ipv4
 pass: dnscry.pt-doh-dusseldorf03-ipv4
-pass: dnscry.pt-doh-ebenecity02-ipv4
+pass: dnscry.pt-doh-ebenecity02-ipv4 (1 retry)
 pass: dnscry.pt-doh-flint-ipv4
 pass: dnscry.pt-doh-frankfurt-ipv4
 pass: dnscry.pt-doh-frankfurt02-ipv4
@@ -358,6 +358,7 @@ pass: ekinao-doh-ipv4
 pass: fdn
 pass: google
 pass: he
+pass: iadns
 pass: ibksturm
 pass: iij
 pass: ksol.io-ns2-dnscrypt-ipv4
