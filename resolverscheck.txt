@@ -143,6 +143,7 @@ pass: dnscry.pt-doh-dusseldorf-ipv4
 pass: dnscry.pt-doh-dusseldorf02-ipv4
 pass: dnscry.pt-doh-dusseldorf03-ipv4
 pass: dnscry.pt-doh-ebenecity02-ipv4
+pass: dnscry.pt-doh-eygelshoven-ipv4
 pass: dnscry.pt-doh-flint-ipv4
 pass: dnscry.pt-doh-frankfurt-ipv4
 pass: dnscry.pt-doh-frankfurt02-ipv4
@@ -240,6 +241,7 @@ pass: dnscry.pt-dusseldorf-ipv4
 pass: dnscry.pt-dusseldorf02-ipv4
 pass: dnscry.pt-dusseldorf03-ipv4
 pass: dnscry.pt-ebenecity02-ipv4
+pass: dnscry.pt-eygelshoven-ipv4
 pass: dnscry.pt-flint-ipv4
 pass: dnscry.pt-frankfurt-ipv4
 pass: dnscry.pt-frankfurt02-ipv4
@@ -263,6 +265,7 @@ pass: dnscry.pt-jacksonville-ipv4
 pass: dnscry.pt-jakarta-ipv4
 pass: dnscry.pt-johannesburg-ipv4
 pass: dnscry.pt-johannesburg02-ipv4
+pass: dnscry.pt-johor-ipv4
 pass: dnscry.pt-kansascity-ipv4
 pass: dnscry.pt-kyiv02-ipv4
 pass: dnscry.pt-lasvegas-ipv4
@@ -271,7 +274,6 @@ pass: dnscry.pt-lisbon-ipv4
 pass: dnscry.pt-lisbon02-ipv4
 pass: dnscry.pt-london-ipv4
 pass: dnscry.pt-losangeles-ipv4
-pass: dnscry.pt-losangeles02-ipv4
 pass: dnscry.pt-madrid-ipv4
 pass: dnscry.pt-manchester-ipv4
 pass: dnscry.pt-marseille-ipv4
@@ -397,7 +399,7 @@ pass: rethinkdns-doh
 pass: safesurfer-doh
 pass: safesurfer-doh-secondary-ipv4
 pass: saldns01-conoha-ipv4
-pass: saldns02-conoha-ipv4 (1 retry)
+pass: saldns02-conoha-ipv4
 pass: saldns03-conoha-ipv4
 pass: scaleway-ams
 pass: scaleway-fr
@@ -411,4 +413,6 @@ pass: yandex
 pass: yandex-ipv6
 pass: yandex-safe
 pass: yandex-safe-ipv6
-pass: yunzheng-filtered (2 retries)
+pass: yunzheng
+pass: yunzheng-dns64
+pass: yunzheng-filtered
