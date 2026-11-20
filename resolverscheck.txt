@@ -47,7 +47,7 @@ pass: cs-czech
 pass: cs-dc
 pass: cs-de
 pass: cs-dus
-pass: cs-finland
+pass: cs-finland (1 retry)
 pass: cs-fl
 pass: cs-fr
 pass: cs-ga
