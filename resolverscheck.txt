@@ -47,7 +47,7 @@ pass: cs-czech
 pass: cs-dc
 pass: cs-de
 pass: cs-dus
-pass: cs-finland (1 retry)
+pass: cs-finland
 pass: cs-fl
 pass: cs-fr
 pass: cs-ga
@@ -359,7 +359,6 @@ pass: doh.tiarap.org
 pass: dorriere-fr
 pass: dremaxx
 pass: dremaxx-family
-pass: ekinao-doh-ipv4
 pass: fdn
 pass: google
 pass: he
