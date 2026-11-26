@@ -144,7 +144,6 @@ pass: dnscry.pt-doh-dusseldorf02-ipv4
 pass: dnscry.pt-doh-dusseldorf03-ipv4
 pass: dnscry.pt-doh-ebenecity02-ipv4
 pass: dnscry.pt-doh-eygelshoven-ipv4
-pass: dnscry.pt-doh-flint-ipv4
 pass: dnscry.pt-doh-frankfurt-ipv4
 pass: dnscry.pt-doh-frankfurt02-ipv4
 pass: dnscry.pt-doh-fremont02-ipv4
@@ -163,6 +162,7 @@ pass: dnscry.pt-doh-houston-ipv4
 pass: dnscry.pt-doh-hudiksvall-ipv4
 pass: dnscry.pt-doh-ikeja-ipv4
 pass: dnscry.pt-doh-indianapolis-ipv4
+pass: dnscry.pt-doh-islamabad-ipv4
 pass: dnscry.pt-doh-istanbul-ipv4
 pass: dnscry.pt-doh-jacksonville-ipv4
 pass: dnscry.pt-doh-jakarta-ipv4
@@ -239,7 +239,6 @@ pass: dnscry.pt-dusseldorf02-ipv4
 pass: dnscry.pt-dusseldorf03-ipv4
 pass: dnscry.pt-ebenecity02-ipv4
 pass: dnscry.pt-eygelshoven-ipv4
-pass: dnscry.pt-flint-ipv4
 pass: dnscry.pt-frankfurt-ipv4
 pass: dnscry.pt-frankfurt02-ipv4
 pass: dnscry.pt-fremont02-ipv4
@@ -306,6 +305,7 @@ pass: dnscry.pt-seoul02-ipv4
 pass: dnscry.pt-singapore-ipv4
 pass: dnscry.pt-singapore02-ipv4
 pass: dnscry.pt-sofia-ipv4
+pass: dnscry.pt-spokane-ipv4
 pass: dnscry.pt-stockholm-ipv4
 pass: dnscry.pt-stockholm02-ipv4
 pass: dnscry.pt-sydney02-ipv4
@@ -408,6 +408,6 @@ pass: yandex
 pass: yandex-ipv6
 pass: yandex-safe
 pass: yandex-safe-ipv6
-pass: yunzheng (3 retries)
+pass: yunzheng
 pass: yunzheng-dns64
 pass: yunzheng-filtered
